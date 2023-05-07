@@ -40,14 +40,14 @@ For now, you can join us in the following way
 
 ### `New to NeRF`
 
-#### Begin of NeRF
+#### **Begin of NeRF**
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*<br>
 EUROGRAPHICS 2020 [[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)]
 
 
-#### NeRF Related Surveys
+#### **NeRF Related Surveys**
 
 **State of the Art on Neural Rendering**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer*<br>
@@ -61,7 +61,7 @@ ECCV 2022 [[arXiv](https://arxiv.org/abs/2111.05849)]
 *Ansh Mittal*<br>
 In Progress [[arXiv](https://arxiv.org/abs/2304.10050)]
 
-#### NeRF Tutorials
+#### **NeRF Tutorials**
 
 **Neural Rendering Course**<br>
 SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
@@ -69,7 +69,7 @@ SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
 **Neural Volumetric Rendering for Computer Vision**<br>
 ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutorial/home)]
 
-#### NeRF Software
+#### **NeRF OpenSource Tools**
 
 **Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
