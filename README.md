@@ -17,11 +17,11 @@ For now, you can join us in the following way
 - [NeRF Training and Rendering Enhancements](#nerf-training-and-rendering-enhancements)
 - [Activation Function Optimization](#activation-function-optimization)
 - [One-Shot/Few-Shot Reconstruction](#one-shotfew-shot-reconstruction)
-- [Camera Pose](#camera-pose)
+- [Weak Camera Pose/Free Trejectory Reconstruction](#weak-camera-pose--free-trejectory-reconstruction)
 - [Robust Reconstruction \& Depth Supervised Reconstruction](#robust-reconstruction--depth-supervised-reconstruction)
 - [Dynamic NeRF](#dynamic-nerf)
-- [Diffusion Prior](#diffusion-prior)
-- [NeRF + SDF](#nerf--sdf)
+- [Diffusion Guided Reconstruction](#diffusion-guided-reconstruction)
+- [SDF Based Reconstruction](#sdf-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
 - [NeRF + Point Cloud](#nerf--point-cloud)
 - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
@@ -310,7 +310,7 @@ CVPR 2023, 13 Mar 2023<br>
 CVPR 2023, 20 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://zero123.cs.columbia.edu/)] [[Github](https://github.com/cvlab-columbia/zero123)]
 
-### `Weak Camera Pose / Free Trejectory`
+### `Weak Camera Pose / Free Trejectory Reconstruction`
 
 **NeRF--: Neural Radiance Fields Without Known Camera Parameters**<br>
 *Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu*<br>
@@ -395,7 +395,7 @@ CVPR 2023, 24 Jan 2023<br>
 ICLR 2023, 02 Feb 2023<br>
 [[OpenReview](https://openreview.net/forum?id=tVkrbkz42vc)] [[Project](https://xuan-li.github.io/PAC-NeRF/)] [[Github](https://github.com/xuan-li/PAC-NeRF)]
 
-### `Diffusion Prior`
+### `Diffusion Guided Reconstruction`
 
 **Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
 *Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
@@ -462,7 +462,7 @@ CVPR 2023, 6 Apr 2023<br>
 arXiv preprint, 13 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://lakonik.github.io/ssdnerf/)] [[Github](https://github.com/Lakonik/SSDNeRF)]
 
-### `NeRF + SDF`
+### `SDF Based Reconstruction`
 
 **Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance**<br>
 *Lior Yariv, Yoni Kasten, Dror Moran, Meirav Galun, Matan Atzmon, Ronen Basri, Yaron Lipman*<br>
