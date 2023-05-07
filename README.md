@@ -793,6 +793,11 @@ EMBC 2022, 2 Feb 2022 <br>
 CVPR 2023, 24 Apr 2023 <br>
 [[arXiv](https://arxiv.org/abs/2304.12461)] [[Project](https://haian-jin.github.io/TensoIR/)] [[Github](https://github.com/Haian-Jin/TensoIR)] [[Video](https://www.bilibili.com/video/BV1Fc411n7Gb/)]
 
+**Inverse Global Illumination using a Neural Radiometric Prior**<br>
+*Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker*<br>
+SIGGRAPH 2023, 3 May 2023 <br>
+[[arXiv](https://arxiv.org/abs/2305.02192)] [Notes]
+
 ## Contributors
 
 Thanks to the community! This is to be updated.
