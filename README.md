@@ -6,7 +6,7 @@ This is a collection of documents and topics NeRF & Beyond channel accumulations
 
 For now, you can join us in the following way
 
-* [Bilibili Channel](https://www.bilibili.com) where we post near daily updates (primarily) on NeRF.
+* [Bilibili Channel](https://space.bilibili.com/455056488) where we post near daily updates (primarily) on NeRF.
 * WeChat group, due to the limitation of WeChat group, you can add my personal account: `jiheng_yang`, and I will add you to the chat groups.
 
 ## NeRF progresses
