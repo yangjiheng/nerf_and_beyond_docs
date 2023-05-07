@@ -1,13 +1,15 @@
 # <p align='center'>`NeRF and Beyond Docs`</p>
 
-This is a collection of documents and topics NeRF & Beyond channel accumulations as well as papers in literaure. Please feel free to join us on WeChat group or start a discussion topic here.
+This is a collection of documents and topics NeRF & Beyond channel accumulations, as well as papers in literaure. This is still far from complete info regarding to this active research area. We are actively maintaining this page trying to stay up-to-date and gather important works in a daily basis. Please feel free to join us on WeChat group or start a discussion topic here.
 
 ## How to join us
 
-For now, you can join us in the following way
+For now, you can join us in the following ways
 
 * [Bilibili Channel](https://space.bilibili.com/455056488) where we post near daily updates (primarily) on NeRF.
 * WeChat group, due to the limitation of WeChat group, you can add my personal account: `jiheng_yang`, and I will add you to the chat groups.
+* If you want to view this from a timeline perspective, please refer to this [ProcessOn Diagram](https://www.processon.com/view/link/643f8907f1144c215788f3e2)
+* If you think something is not correct or you think we could do better in some way, please write to us through all possible channels or drop an issue. All suggestions are appreciated!
 
 ## NeRF progresses
 
