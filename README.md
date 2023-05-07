@@ -44,22 +44,26 @@ For now, you can join us in the following way
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*<br>
-EUROGRAPHICS 2020 [[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)]
+ECCV 2020, 19 Mar 2020 <br>
+[[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)]
 
 
 #### **NeRF Related Surveys**
 
 **State of the Art on Neural Rendering**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer*<br>
-ECCV 2020 [[arXiv](https://arxiv.org/abs/2004.03805)]
+ECCV 2020,8 Apr 2020<br>
+[[arXiv](https://arxiv.org/abs/2004.03805)]
 
 **Advances in Neural Rendering**<br>
 *Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik*<br>
-ECCV 2022 [[arXiv](https://arxiv.org/abs/2111.05849)]
+ECCV 2022, 10 Nov 2021<br>
+[[arXiv](https://arxiv.org/abs/2111.05849)]
 
 **Neural Radiance Fields: Past, Present, and Future**<br>
 *Ansh Mittal*<br>
-In Progress [[arXiv](https://arxiv.org/abs/2304.10050)]
+In Progress,20 Apr 2023
+[[arXiv](https://arxiv.org/abs/2304.10050)]
 
 #### **NeRF Tutorials**
 
@@ -73,7 +77,8 @@ ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutoria
 
 **Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
-[[Github](https://github.com/nerfstudio-project/nerfstudio)] [[arXiv](https://arxiv.org/abs/2302.04264)]
+arXiv preprint, 8 Feb 2023<br>
+[[arXiv](https://arxiv.org/abs/2302.04264)] [[Github](https://github.com/nerfstudio-project/nerfstudio)] 
 
 ### `NeRF Training and Rendering Enhancements`
 
@@ -185,7 +190,7 @@ arXiv preprint, 9 Dec 2022<br>
 **Real-Time Neural Light Field on Mobile Devices**<br>
 *Junli Cao, Huan Wang, Pavlo Chemerys, Vladislav Shakhrai, Ju Hu, Yun Fu, Denys Makoviichuk, Sergey Tulyakov, Jian Ren*<br>
 CVPR 2023, 15 Dec 2022<br>
-[[arXiv](https://arxiv.org/abs/2212.08057)] [[Project](https://snap-research.github.io/MobileR2L/)] [[Code Coming Soon](https://github.com/snap-research/MobileR2L)]
+[[arXiv](https://arxiv.org/abs/2212.08057)] [[Project](https://snap-research.github.io/MobileR2L/)] [[Github](https://github.com/snap-research/MobileR2L)]
 
 **MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**<br>
 *Christian Reiser, Richard Szeliski, Dor Verbin, Pratul P. Srinivasan, Ben Mildenhall, Andreas Geiger, Jonathan T. Barron, Peter Hedman*<br>
