@@ -1,6 +1,10 @@
 # <p align='center'>`NeRF and Beyond Docs`</p>
 
-This is a collection of documents and topics NeRF & Beyond channel accumulations, as well as papers in literaure. This is still far from complete info regarding to this active research area. We are actively maintaining this page trying to stay up-to-date and gather important works in a daily basis. Please feel free to join us on WeChat group or start a discussion topic here.
+This is a collection of documents and topics NeRF & Beyond channel accumulated, as well as papers in literaure. This is still far from complete info regarding to this active research area. 
+
+We are actively maintaining this page trying to stay up-to-date and gather important works in a daily basis. We would also like to put as many notes as possible to some works, trying to make it easier to catch up. 
+
+Please feel free to join us on WeChat group or start a discussion topic here.
 
 ## How to join us
 
@@ -42,7 +46,7 @@ For now, you can join us in the following ways
 
 ### `New to NeRF`
 
-#### **Begin of NeRF**
+#### **Begin of NeRF, Always Start Here**
 
 **NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*<br>
