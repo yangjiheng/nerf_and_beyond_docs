@@ -217,7 +217,7 @@ CVPR 2023, 23 Jan 2023<br>
 :fire:**K-Planes: Explicit Radiance Fields in Space, Time, and Appearance**<br>
 *Sara Fridovich-Keil, Giacomo Meanti, Frederik Warburg, Benjamin Recht, Angjoo Kanazawa*<br>
 CVPR 2023, 24 Jan 2023<br>
-[[arXiv](https://arxiv.org/abs/2301.10241)] [[Project](https://sarafridov.github.io/K-Planes/)] [[Github](https://github.com/sarafridov/K-Planes)]
+[[arXiv](https://arxiv.org/abs/2301.10241)] [[Project](https://sarafridov.github.io/K-Planes/)] [[Github](https://github.com/sarafridov/K-Planes)] [[Notes](./paper_discussions/KPlane.md)]
 
 **PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**<br>
 *Xuan Li, Yi-Ling Qiao, Peter Yichen Chen, Krishna Murthy Jatavallabhula, Ming Lin, Chenfanfu Jiang, Chuang Gan*<br>
@@ -392,7 +392,7 @@ arXiv preprint, 20 Feb 2023 <br>
 :fire:**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**<br>
 *Jiawei Yang, Marco Pavone, Yue Wang*<br>
 CVPR 2023, 13 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://jiawei-yang.github.io/FreeNeRF/)] [[Github](https://github.com/Jiawei-Yang/FreeNeRF)]
+[[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://jiawei-yang.github.io/FreeNeRF/)] [[Github](https://github.com/Jiawei-Yang/FreeNeRF)] [[Notes](./paper_discussions/FreeNeRF.md)]
 
 **Zero-1-to-3: Zero-shot One Image to 3D Object**<br>
 *Jiawei Yang, Marco Pavone, Yue Wang*<br>
@@ -849,6 +849,14 @@ CVPR 2023, 24 Apr 2023 <br>
 *Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker*<br>
 SIGGRAPH 2023, 3 May 2023 <br>
 [[arXiv](https://arxiv.org/abs/2305.02192)] [Notes]
+
+### `Other 3D Generative Work`
+
+:fire:**Patch-based 3D Natural Scene Generation from a Single Example**<br>
+*Weiyu Li, Xuelin Chen, Jue Wang, Baoquan Chen*<br>
+CVPR 2023, 25 Apr 2023 <br>
+[[arXiv](https://arxiv.org/abs/2304.12670)] [[Project](http://weiyuli.xyz/Sin3DGen/)] [[Github](https://github.com/wyysf-98/Sin3DGen)] [[Notes](./paper_discussions/Sin3DGen.md)]
+
 
 ## Contributors
 
