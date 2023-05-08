@@ -30,7 +30,7 @@ For now, you can join us in the following ways
 - [Diffusion Guided Reconstruction](#diffusion-guided-reconstruction)
 - [SDF Based Reconstruction](#sdf-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
-- [NeRF + Point Cloud](#nerf--point-cloud)
+- [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
 - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
 - [NeRF + Avatar/Talking Head](#nerf--avatartalking-head)
 - [NeRF + Imaging Tasks](#nerf--imaging-tasks)
@@ -105,7 +105,7 @@ ICCV 2021, 24 Mar 2021<br>
 **Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
 CVPR 2022, 23 Nov 2021<br>
-[[arXiv](https://arxiv.org/abs/2111.12077)] [[Project](https://jonbarron.info/mipnerf360/)] [[Github](https://github.com/google-research/multinerf)] [[Discussion](./paper_discussions/mipnerf360.md)]
+[[arXiv](https://arxiv.org/abs/2111.12077)] [[Project](https://jonbarron.info/mipnerf360/)] [[Github](https://github.com/google-research/multinerf)] [[Notes](./paper_discussions/mipnerf360.md)]
 
 **Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**<br>
 *Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, Pratul P. Srinivasan*<br>
@@ -561,7 +561,7 @@ CVPR 2023, 23 Jun 2022  <br>
 ISCA 2023, 24 Apr 2023  <br>
 [[arXiv](https://arxiv.org/abs/2304.12467)]
 
-### `NeRF + Point Cloud`
+### `NeRF + Point Cloud / LiDAR`
 
 **Point-NeRF: Point-based Neural Radiance Fields**<br>
 *Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann*<br>
@@ -572,6 +572,12 @@ CVPR 2022, 21 Jan 2022 <br>
 *Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann*<br>
 arXiv preprint, 19 Apr 2023 <br>
 [[arXiv](https://arxiv.org/abs/2304.09987)] [[Project](https://jkulhanek.com/tetra-nerf/)] [[Github](https://github.com/jkulhanek/tetra-nerf/)]
+
+**Neural LiDAR Fields for Novel View Synthesis**<br>
+*Shengyu Huang, Zan Gojcic, Zian Wang, Francis Williams, Yoni Kasten, Sanja Fidler, Konrad Schindler, Or Litany*<br>
+arXiv preprint, 2 May 2023 <br>
+[[arXiv](https://arxiv.org/abs/2305.01643)] [[Project](https://research.nvidia.com/labs/toronto-ai/nfl/)] [[Notes](./paper_discussions/NFL.md)]
+
 
 ### `NeRF + Auto Data Collection`
 
