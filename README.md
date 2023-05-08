@@ -46,26 +46,26 @@ For now, you can join us in the following ways
 
 ### `New to NeRF`
 
-#### <span style="color:rgb(117, 104, 75)">**Begin of NeRF, Always Start Here**</span>
+#### **Begin of NeRF, Always Start Here**
 
-<span style="color:red">**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**</span><br>
+:fire:**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*<br>
 ECCV 2020, 19 Mar 2020 <br>
 [[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)]
 
 #### <span style="color:rgb(117, 104, 75)">**NeRF Related Surveys**</span>
 
-<span style="color:red">**State of the Art on Neural Rendering**</span><br>
+:fire:**State of the Art on Neural Rendering**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer*<br>
 ECCV 2020,8 Apr 2020<br>
 [[arXiv](https://arxiv.org/abs/2004.03805)]
 
-<span style="color:red">**Advances in Neural Rendering**</span><br>
+:fire:**Advances in Neural Rendering**<br>
 *Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Yifan Wang, Christoph Lassner, Vincent Sitzmann, Ricardo Martin-Brualla, Stephen Lombardi, Tomas Simon, Christian Theobalt, Matthias Niessner, Jonathan T. Barron, Gordon Wetzstein, Michael Zollhoefer, Vladislav Golyanik*<br>
 ECCV 2022, 10 Nov 2021<br>
 [[arXiv](https://arxiv.org/abs/2111.05849)]
 
-<span style="color:red">**NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review**</span><br>
+:fire:**NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review**<br>
 *Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li*<br>
 TPAMI 2022, 1 Oct 2022<br>
 [[arXiv](https://arxiv.org/abs/2210.00379)]
@@ -77,42 +77,42 @@ In Progress,20 Apr 2023
 
 #### <span style="color:rgb(117, 104, 75)">**NeRF Tutorials**</span>
 
-<span style="color:red">**Neural Rendering Course**</span><br>
+:fire:**Neural Rendering Course**<br>
 SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
 
-<span style="color:red">**Neural Volumetric Rendering for Computer Vision**</span><br>
+:fire:**Neural Volumetric Rendering for Computer Vision**<br>
 ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutorial/home)]
 
 #### <span style="color:rgb(117, 104, 75)">**NeRF OpenSource Tools**</span>
 
-<span style="color:red">**Nerfstudio: A Modular Framework for Neural Radiance Field Development**</span><br>
+:fire:**Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
 arXiv preprint, 8 Feb 2023<br>
 [[arXiv](https://arxiv.org/abs/2302.04264)] [[Github](https://github.com/nerfstudio-project/nerfstudio)] 
 
 ### `NeRF Fundamental Enhancements`
 
-<span style="color:red">**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections**</span><br>
+:fire:**NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections**<br>
 *Ricardo Martin-Brualla, Noha Radwan, Mehdi S. M. Sajjadi, Jonathan T. Barron, Alexey Dosovitskiy, Daniel Duckworth*<br>
 CVPR 2021, 5 Aug 2020 <br>
 [[arXiv](https://arxiv.org/abs/2008.02268)] [[Project](https://nerf-w.github.io/)]
 
-<span style="color:red">**Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields**</span><br>
+:fire:**Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, Pratul P. Srinivasan*<br>
 ICCV 2021, 24 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.13415)] [[Project](http://jonbarron.info/mipnerf)] [[Github](https://github.com/google/mipnerf)]
 
-<span style="color:red">**Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields**</span><br>
+:fire:**Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
 CVPR 2022, 23 Nov 2021<br>
 [[arXiv](https://arxiv.org/abs/2111.12077)] [[Project](https://jonbarron.info/mipnerf360/)] [[Github](https://github.com/google-research/multinerf)] [[Notes](./paper_discussions/mipnerf360.md)]
 
-<span style="color:red">**Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**</span><br>
+:fire:**Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**<br>
 *Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, Pratul P. Srinivasan*<br>
 CVPR 2022, 7 Dec 2021<br>
 [[arXiv](https://arxiv.org/abs/2112.03907)] [[Project](https://dorverbin.github.io/refnerf/)] [[Github](https://github.com/google-research/multinerf)]
 
-<span style="color:red">**PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo**</span><br>
+:fire:**PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo**<br>
 *Wenqi Yang, Guanying Chen, Chaofeng Chen, Zhenfang Chen, Kwan-Yee K. Wong*<br>
 ECCV 2022, 23 Jul 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.11406)] [[Project](https://ywq.github.io/psnerf/)] [[Github](https://github.com/ywq/psnerf)]
@@ -122,7 +122,7 @@ ECCV 2022, 23 Jul 2022<br>
 arXiv preprint, 9 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.11406)] [[Project](https://frozoul.github.io/4knerf/)] [[Github](https://github.com/frozoul/4K-NeRF)]
 
-<span style="color:red">**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**</span><br>
+:fire:**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
 arXiv preprint, 13 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)] [[Unofficial Impl](https://github.com/SuLvXiangXin/zipnerf-pytorch)]
@@ -134,12 +134,12 @@ arXiv preprint, 20 Apr 2023<br>
 
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
-<span style="color:red">**Depth-supervised NeRF: Fewer Views and Faster Training for Free**</span><br>
+:fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
 *Kangle Deng, Andrew Liu, Jun-Yan Zhu, Deva Ramanan*<br>
 CVPR 2022, 6 Jul 2021<br>
 [[arXiv](https://arxiv.org/abs/2107.02791)] [[Project](http://www.cs.cmu.edu/~dsnerf/)] [[Github](https://github.com/dunbar12138/DSNeRF)]
 
-<span style="color:red">**NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo**</span><br>
+:fire:**NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo**<br>
 *Yi Wei, Shaohui Liu, Yongming Rao, Wang Zhao, Jiwen Lu, Jie Zhou*<br>
 ICCV 2021, 2 Sep 2021<br>
 [[arXiv](https://arxiv.org/abs/2109.01129)] [[Project](https://weiyithu.github.io/NerfingMVS)] [[Github](https://github.com/weiyithu/NerfingMVS)]
@@ -156,7 +156,7 @@ arXiv preprint, 2 Feb 2023<br>
 
 ### `Activation Function Optimization`
 
-<span style="color:red">**Implicit Neural Representations with Periodic Activation Functions**</span><br>
+:fire:**Implicit Neural Representations with Periodic Activation Functions**<br>
 *Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein*<br>
 NeurIPS 2020, 17 Jun 2020<br>
 [[arXiv](https://arxiv.org/abs/2006.09661)]
@@ -168,7 +168,7 @@ ICLR 2021, 13 Jan 2021<br>
 
 ### `Deformable & Dynamic NeRF`
 
-<span style="color:red">**Nerfies: Deformable Neural Radiance Fields**</span><br>
+:fire:**Nerfies: Deformable Neural Radiance Fields**<br>
 *Keunhong Park, Utkarsh Sinha, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Steven M. Seitz, Ricardo Martin-Brualla*<br>
 ICCV 2021, 25 Nov 2020<br>
 [[arXiv](https://arxiv.org/abs/2011.12948)] [[Project](https://nerfies.github.io/)] [[Github](https://github.com/google/nerfies)]
@@ -188,7 +188,7 @@ CVPR 2021, 24 Jun 2021<br>
 ICCV 2021, 3 Sep 2021<br>
 [[arXiv](https://arxiv.org/abs/2109.01750)] [[Project](https://sites.google.com/view/wbjang/home/codenerf)] [[Github](https://github.com/wbjang/code-nerf)]
 
-<span style="color:red">**Deforming Radiance Fields with Cages**</span><br>
+:fire:**Deforming Radiance Fields with Cages**<br>
 *Tianhan Xu, Tatsuya Harada*<br>
 ECCV 2022, 25 Jul 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.12298)] [[Project](https://xth430.github.io/deforming-nerf/)] [[Github](https://github.com/xth430/deforming-nerf)]
@@ -198,7 +198,7 @@ ECCV 2022, 25 Jul 2022<br>
 CVPR 2023, 5 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.02239)] [[Project](https://robust-dynrf.github.io/)]
 
-<span style="color:red">**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**</span><br>
+:fire:**HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling**<br>
 *Benjamin Attal, Jia-Bin Huang, Christian Richardt, Michael Zollhoefer, Johannes Kopf, Matthew O'Toole, Changil Kim*<br>
 arXiv preprint, 5 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.02238)] [[Project](https://hyperreel.github.io/)] [[Github](https://github.com/facebookresearch/hyperreel)]
@@ -209,12 +209,12 @@ NeurIPS 2022, 01 Nov 2022<br>
 [[OpenReview](https://openreview.net/forum?id=kUnHCGiILeU)] [[Zhihu](https://zhuanlan.zhihu.com/p/581808674)] [[Github](https://github.com/PengYicong/CageNeRF)]
 
 
-<span style="color:red">**HexPlane: A Fast Representation for Dynamic Scenes**</span><br>
+:fire:**HexPlane: A Fast Representation for Dynamic Scenes**<br>
 *Ang Cao, Justin Johnson*<br>
 CVPR 2023, 23 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.09632)] [[Project](https://caoang327.github.io/HexPlane)] [[Github](https://github.com/Caoang327/HexPlane)]
 
-<span style="color:red">**K-Planes: Explicit Radiance Fields in Space, Time, and Appearance**</span><br>
+:fire:**K-Planes: Explicit Radiance Fields in Space, Time, and Appearance**<br>
 *Sara Fridovich-Keil, Giacomo Meanti, Frederik Warburg, Benjamin Recht, Angjoo Kanazawa*<br>
 CVPR 2023, 24 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.10241)] [[Project](https://sarafridov.github.io/K-Planes/)] [[Github](https://github.com/sarafridov/K-Planes)]
@@ -226,12 +226,12 @@ ICLR 2023, 02 Feb 2023<br>
 
 ### `NeRF Training and Rendering Enhancements`
 
-<span style="color:red">**Neural Sparse Voxel Fields**</span><br>
+:fire:**Neural Sparse Voxel Fields**<br>
 *Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt*<br>
 NeurIPS 2020, 22 Jul 2020<br>
 [[arXiv](https://arxiv.org/abs/2007.11571)]
 
-<span style="color:red">**NeRF++: Analyzing and Improving Neural Radiance Fields**</span><br>
+:fire:**NeRF++: Analyzing and Improving Neural Radiance Fields**<br>
 *Kai Zhang, Gernot Riegler, Noah Snavely, Vladlen Koltun*<br>
 arXiv Preprint 2020, 15 Oct 2020<br>
 [[arXiv](https://arxiv.org/abs/2010.07492)] [[Github](https://github.com/Kai-46/nerfplusplus)]
@@ -241,7 +241,7 @@ arXiv Preprint 2020, 15 Oct 2020<br>
 CVPR 2021, 25 Nov 2020<br>
 [[arXiv](https://arxiv.org/abs/2011.12490)] [[Project](https://ubc-vision.github.io/derf/)] [[Github](https://github.com/ubc-vision/derf/)]
 
-<span style="color:red">**AutoInt: Automatic Integration for Fast Neural Volume Rendering**</span><br>
+:fire:**AutoInt: Automatic Integration for Fast Neural Volume Rendering**<br>
 *David B. Lindell, Julien N. P. Martel, Gordon Wetzstein*<br>
 CVPR 2021, 15 Oct 2020<br>
 [[arXiv](https://arxiv.org/abs/2012.01714)] [[Github](https://github.com/computational-imaging/automatic-integration)]
@@ -261,12 +261,12 @@ ICCV 2021, 18 Mar 2021<br>
 ICCV 2021, 25 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.13744)] [[Github](https://github.com/creiser/kilonerf/)]
 
-<span style="color:red">**PlenOctrees for Real-time Rendering of Neural Radiance Fields**</span><br>
+:fire:**PlenOctrees for Real-time Rendering of Neural Radiance Fields**<br>
 *Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, Angjoo Kanazawa*<br>
 ICCV 2021, 25 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.14024)] [[Project](https://alexyu.net/plenoctrees/)] [[Github](https://github.com/sxyu/plenoctree)] [[Viewer Github](https://github.com/sxyu/volrend)]
 
-<span style="color:red">**Baking Neural Radiance Fields for Real-Time View Synthesis**</span><br>
+:fire:**Baking Neural Radiance Fields for Real-Time View Synthesis**<br>
 *Peter Hedman, Pratul P. Srinivasan, Ben Mildenhall, Jonathan T. Barron, Paul Debevec*<br>
 ICCV 2021, 26 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.14645)] [[Project](https://phog.github.io/snerg/)] [[Github](https://github.com/google-research/google-research/tree/master/snerg)]
@@ -286,17 +286,17 @@ arXiv preprint, 25 Nov 2021<br>
 arXiv preprint, 30 Nov 2021<br>
 [[arXiv](https://arxiv.org/abs/2111.15552)] [[Project](https://jaminfong.cn/neusample)] [[Github](https://github.com/hustvl/NeuSample)]
 
-<span style="color:red">**Plenoxels: Radiance Fields without Neural Networks**</span><br>
+:fire:**Plenoxels: Radiance Fields without Neural Networks**<br>
 *Alex Yu, Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin Recht, Angjoo Kanazawa*<br>
 arXiv preprint, 30 Nov 2021<br>
 [[arXiv](https://arxiv.org/abs/2112.05131)] [[Project](https://alexyu.net/plenoxels/)] [[Github](https://github.com/sxyu/svox2)]
 
-<span style="color:red">**Instant Neural Graphics Primitives with a Multiresolution Hash Encoding**</span><br>
+:fire:**Instant Neural Graphics Primitives with a Multiresolution Hash Encoding**<br>
 *Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller*<br>
 SIGGRAPH 2022, 16 Jan 2022<br>
 [[arXiv](https://arxiv.org/abs/2201.05989)] [[Project](https://nvlabs.github.io/instant-ngp/)] [[Github](https://github.com/NVlabs/instant-ngp)]
 
-<span style="color:red">**TensoRF: Tensorial Radiance Fields**</span><br>
+:fire:**TensoRF: Tensorial Radiance Fields**<br>
 *Anpei Chen, Zexiang Xu, Andreas Geiger, Jingyi Yu, Hao Su*<br>
 ECCV 2022, 17 Mar 2022<br>
 [[arXiv](https://arxiv.org/abs/2201.05989)] [[Project](https://apchenstu.github.io/TensoRF/)] [[Github](https://github.com/apchenstu/TensoRF)]
@@ -316,19 +316,19 @@ ECCV 2022, 21 Jul 2022<br>
 CVPR 2023, 15 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.08057)] [[Project](https://snap-research.github.io/MobileR2L/)] [[Github](https://github.com/snap-research/MobileR2L)]
 
-<span style="color:red">**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**</span><br>
+:fire:**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**<br>
 *Christian Reiser, Richard Szeliski, Dor Verbin, Pratul P. Srinivasan, Ben Mildenhall, Andreas Geiger, Jonathan T. Barron, Peter Hedman*<br>
 arXiv preprint, 23 Feb 2023<br>
 [[arXiv](https://arxiv.org/abs/2302.12249)] [[Project](https://merf42.github.io/)]
 
-<span style="color:red">**BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis**</span><br>
+:fire:**BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis**<br>
 *Lior Yariv, Peter Hedman, Christian Reiser, Dor Verbin, Pratul P. Srinivasan, Richard Szeliski, Jonathan T. Barron, Ben Mildenhall*<br>
 arXiv preprint, 28 Feb 2023<br>
 [[arXiv](https://arxiv.org/abs/2302.14859)] [[Project](https://bakedsdf.github.io/)]
 
 ### `One-Shot/Few-Shot Sparse View Reconstruction`
 
-<span style="color:red">**pixelNeRF: Neural Radiance Fields from One or Few Images**</span><br>
+:fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa*<br>
 CVPR 2021, 3 Dec 2020<br>
 [[arXiv](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://alexyu.net/pixelnerf/)]
@@ -338,7 +338,7 @@ CVPR 2021, 3 Dec 2020<br>
 CVPR 2021, 25 Feb 2021<br>
 [[arXiv](https://arxiv.org/abs/2102.13090)] [[Project](https://ibrnet.github.io/)] [[Github](https://github.com/googleinterns/IBRNet)]
 
-<span style="color:red">**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**</span><br>
+:fire:**Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis**<br>
 *Ajay Jain, Matthew Tancik, Pieter Abbeel*<br>
 arXiv preprint, 1 Apr 2021<br>
 [[arXiv](https://arxiv.org/abs/2104.00677)] [[Project](https://www.ajayj.com/dietnerf)] [[Github](https://github.com/ajayjain/DietNeRF)]
@@ -348,7 +348,7 @@ arXiv preprint, 1 Apr 2021<br>
 ICCV 2021, 27 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.14910)] [[Project](https://vincentfung13.github.io/projects/nemi/)] [[Github](https://github.com/vincentfung13/MINE)]
 
-<span style="color:red">**MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo**</span><br>
+:fire:**MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo**<br>
 *Anpei Chen, Zexiang Xu, Fuqiang Zhao, Xiaoshuai Zhang, Fanbo Xiang, Jingyi Yu, Hao Su*<br>
 ICCV 2021, 29 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.15595)] [[Project](https://apchenstu.github.io/mvsnerf/)] [[Github](https://github.com/apchenstu/mvsnerf)]
@@ -358,7 +358,7 @@ ICCV 2021, 29 Mar 2021<br>
 ICCV 2021, 29 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.15595)] [[Co3D Dataset](https://github.com/facebookresearch/co3d)]
 
-<span style="color:red">**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**</span><br>
+:fire:**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**<br>
 *Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška*<br>
 ECCV 2022, 18 Mar 2022<br>
 [[arXiv](https://arxiv.org/abs/2203.10157)] [[Project](https://jkulhanek.github.io/viewformer)] [[Github](https://github.com/jkulhanek/viewformer)]
@@ -389,7 +389,7 @@ arXiv preprint, 20 Feb 2023 <br>
 [[arXiv](https://arxiv.org/abs/2302.10109)] [[Project](https://jiataogu.me/nerfdiff/
 )]
 
-<span style="color:red">**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**</span><br>
+:fire:**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**<br>
 *Jiawei Yang, Marco Pavone, Yue Wang*<br>
 CVPR 2023, 13 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://jiawei-yang.github.io/FreeNeRF/)] [[Github](https://github.com/Jiawei-Yang/FreeNeRF)]
@@ -408,8 +408,8 @@ CVPR 2023, 20 Mar 2023<br>
 ICCV 2021, 23 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.12352)] [[Project](https://edgarsucar.github.io/iMAP/)]
 
-<span style="color:red">**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
-*Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys*</span><br>
+:fire:**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
+*Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys*<br>
 CVPR 2022, 22 Dec 2021<br>
 [[arXiv](https://arxiv.org/abs/2112.12130)] [[Project](https://pengsongyou.github.io/nice-slam)] [[Github](https://github.com/cvg/nice-slam)]
 
@@ -420,7 +420,7 @@ CVPR 2022, 22 Dec 2021<br>
 IROS 2021, 10 Dec 2020 <br>
 [[arXiv](https://arxiv.org/abs/2012.05877)] [[Github](https://github.com/huzi96/NVFPCC/)]
 
-<span style="color:red">**NeRF--: Neural Radiance Fields Without Known Camera Parameters**</span><br>
+:fire:**NeRF--: Neural Radiance Fields Without Known Camera Parameters**<br>
 *Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu*<br>
 arXiv preprint, 14 Feb 2021<br>
 [[arXiv](https://arxiv.org/abs/2102.07064)] [[Project](https://nerfmm.active.vision)] [[Github](https://github.com/ActiveVisionLab/nerfmm)]
@@ -430,7 +430,7 @@ arXiv preprint, 14 Feb 2021<br>
 ICCV 2021, 29 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.15606)] [[Github](https://github.com/MQ66/gnerf)]
 
-<span style="color:red">**BARF: Bundle-Adjusting Neural Radiance Fields**</span><br>
+:fire:**BARF: Bundle-Adjusting Neural Radiance Fields**<br>
 *Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey*<br>
 ICCV 2021, 13 Apr 2021<br>
 [[arXiv](https://arxiv.org/abs/2104.06405)] [[Project](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF)] [[Github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)]
@@ -445,7 +445,7 @@ ICCV 2021, 13 Apr 2021<br>
 CVPR 2023, 21 Nov 2022<br>
 [[arXiv](https://arxiv.org/abs/2211.11505)] [[Project](https://rover-xingyu.github.io/L2G-NeRF/)] [[Github](https://github.com/rover-xingyu/L2G-NeRF)]
 
-<span style="color:red">**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**</span><br>
+:fire:**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**<br>
 *Wenjing Bian, Zirui Wang, Kejie Li, Jia-Wang Bian, Victor Adrian Prisacariu*<br>
 CVPR 2023, 14 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.07388)] [[Project](https://nope-nerf.active.vision/)] [[Github](https://github.com/ActiveVisionLab/nope-nerf/)]
@@ -497,12 +497,12 @@ CVPR 2023, 28 Dec 2022<br>
 arXiv preprint, 26 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.11280)] [[Project](https://make-a-video3d.github.io/)]
 
-<span style="color:red">**LERF: Language Embedded Radiance Fields**</span><br>
+:fire:**LERF: Language Embedded Radiance Fields**<br>
 *Justin Kerr, Chung Min Kim, Ken Goldberg, Angjoo Kanazawa, Matthew Tancik*<br>
 arXiv preprint, 16 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.09553)] [[Project](https://www.lerf.io/)] [[Github](https://github.com/kerrj/lerf)]
 
-<span style="color:red">**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**</span><br>
+:fire:**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
 *Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
 arXiv preprint, 22 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io/)] [[Github](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
@@ -544,7 +544,7 @@ CVPR 2022,  9 Apr 2021<br>
 NeurIPS 2021, 22 Jun 2021 <br>
 [[arXiv](https://arxiv.org/abs/2106.12052)] [[Project](https://lioryariv.github.io/volsdf/)] [[Github](https://github.com/lioryariv/volsdf)]
 
-<span style="color:red">**NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction**</span><br>
+:fire:**NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction**<br>
 *Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, Wenping Wang*<br>
 NeurIPS 2021, 20 Jun 2021  <br>
 [[arXiv](https://arxiv.org/abs/2106.10689)] [[Project](https://lingjie0206.github.io/papers/NeuS/)] [[Github](https://github.com/Totoro97/NeuS)]
@@ -563,7 +563,7 @@ ISCA 2023, 24 Apr 2023  <br>
 
 ### `NeRF + Point Cloud / LiDAR`
 
-<span style="color:red">**Point-NeRF: Point-based Neural Radiance Fields**</span><br>
+:fire:**Point-NeRF: Point-based Neural Radiance Fields**<br>
 *Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann*<br>
 CVPR 2022, 21 Jan 2022 <br>
 [[arXiv](https://arxiv.org/abs/2201.08845)] [[Project](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)] [[Github](https://github.com/Xharlie/pointnerf)]
@@ -588,7 +588,7 @@ arXiv preprint, 21 Apr 2023 <br>
 
 ### `NeRF + Avatar/Talking Head`
 
-<span style="color:red">**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**</span><br>
+:fire:**AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**<br>
 *Yudong Guo, Keyu Chen, Sen Liang, Yong-Jin Liu, Hujun Bao, Juyong Zhang*<br>
 ICCV 2021, 20 Mar 2021 <br>
 [[arXiv](https://arxiv.org/abs/2103.11078)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Github](https://github.com/YudongGuo/AD-NeRF/)]
@@ -613,7 +613,7 @@ ECCV 2022, 24 Jul 2022 <br>
 ICLR 2023, 10 Oct 2022 <br>
 [[arXiv](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Github](https://github.com/hongfz16/EVA3D)] [[Video](https://www.bilibili.com/video/BV1GT411U7kk/)]
 
-<span style="color:red">**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion**</span><br>
+:fire:**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion**<br>
 *Tengfei Wang, Bo Zhang, Ting Zhang, Shuyang Gu, Jianmin Bao, Tadas Baltrusaitis, Jingjing Shen, Dong Chen, Fang Wen, Qifeng Chen, Baining Guo*<br>
 arXiv preprint, 12 Dec 2022 <br>
 [[arXiv](https://arxiv.org/abs/2212.06135)] [[Project](https://3d-avatar-diffusion.microsoft.com/)] [[Video](https://www.bilibili.com/video/BV1m44y1Z7gr/)]
@@ -635,7 +635,7 @@ CVPR 2023, 23 Feb 2023 <br>
 
 ### `NeRF + Imaging Tasks`
 
-<span style="color:red">**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**</span><br>
+:fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
 *Ben Mildenhall, Peter Hedman, Ricardo Martin-Brualla, Pratul Srinivasan, Jonathan T. Barron*<br>
 CVPR 2022, 26 Nov 2021 <br>
 [[arXiv](https://arxiv.org/abs/2111.13679)] [[Project](https://bmild.github.io/rawnerf/)] [[Github](https://github.com/google-research/multinerf)]
@@ -657,7 +657,7 @@ MM 2022, 3 Dec 2021 <br>
 
 ### `NeRF + Large Scale Scenes`
 
-<span style="color:red">**Urban Radiance Fields**</span><br>
+:fire:**Urban Radiance Fields**<br>
 *Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari*<br>
 CVPR 2022, 29 Nov 2021 <br>
 [[arXiv](https://arxiv.org/abs/2111.14643)] [[Project](https://urban-radiance-fields.github.io/)]
@@ -677,12 +677,12 @@ ECCV 2022, 9 Dec 2021 <br>
 ECCV 2022, 10 Dec 2021 <br>
 [[arXiv](https://arxiv.org/abs/2112.05504)] [[Project](https://city-super.github.io/citynerf/)] [[Github](https://github.com/city-super/BungeeNeRF)]
 
-<span style="color:red">**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**</span><br>
+:fire:**Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs**<br>
 *Haithem Turki, Deva Ramanan, Mahadev Satyanarayanan*<br>
 CVPR 2022, 20 Dec 2021 <br>
 [[arXiv](https://arxiv.org/abs/2112.10703)] [[Project](https://meganerf.cmusatyalab.org/)] [[Github](https://github.com/cmusatyalab/mega-nerf)]
 
-<span style="color:red">**Block-NeRF: Scalable Large Scene Neural View Synthesis**</span><br>
+:fire:**Block-NeRF: Scalable Large Scene Neural View Synthesis**<br>
 *Matthew Tancik, Vincent Casser, Xinchen Yan, Sabeek Pradhan, Ben Mildenhall, Pratul P. Srinivasan, Jonathan T. Barron, Henrik Kretzschmar*<br>
 CVPR 2022, 10 Feb 2022 <br>
 [[arXiv](https://arxiv.org/abs/2202.05263)] [[Project](https://waymo.com/intl/zh-cn/research/block-nerf/)]
@@ -749,12 +749,12 @@ arXiv preprint, 21 Dec 2022 <br>
 arXiv preprint, 19 Jan 2023 <br>
 [[arXiv](https://arxiv.org/abs/2301.07958)] [[Project](https://sites.google.com/view/recolornerf)] [[Github](https://github.com/yuehaowang/RecolorNeRF)] [[Video](https://www.bilibili.com/video/BV1qT411X7Y6/)]
 
-<span style="color:red">**Interactive Geometry Editing of Neural Radiance Fields**</span><br>
+:fire:**Interactive Geometry Editing of Neural Radiance Fields**<br>
 *Shaoxu Li, Ye Pan*<br>
 I3D 2023, 21 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.11537)] [[Project](https://repo-sam.inria.fr/fungraph/nerfshop/)] [[Github](https://github.com/graphdeco-inria/nerfshop)] [[Video](https://www.bilibili.com/video/BV1qk4y1b7L4/)]
 
-<span style="color:red">**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**</span><br>
+:fire:**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
 *Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
 arXiv preprint, 22 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io/)] [[Github](https://github.com/ayaanzhaque/instruct-nerf2nerf)] [[Video](https://www.bilibili.com/video/BV1rb411o7gR/)]
@@ -783,12 +783,12 @@ CVPR 2023, 21 Mar 2023 <br>
 arXiv preprint, 7 Dec 2022 <br>
 [[arXiv](https://arxiv.org/abs/2303.12012)] [[Project](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)] [[Video](https://www.bilibili.com/video/BV1XR4y1C7Yf/)]
 
-<span style="color:red">**Panoptic Lifting for 3D Scene Understanding with Neural Fields**</span><br>
+:fire:**Panoptic Lifting for 3D Scene Understanding with Neural Fields**<br>
 *Yawar Siddiqui, Lorenzo Porzi, Samuel Rota Buló, Norman Müller, Matthias Nießner, Angela Dai, Peter Kontschieder*<br>
 CVPR 2023, 19 Dec 2022 <br>
 [[arXiv](https://arxiv.org/abs/2212.09802)] [[Project](https://nihalsid.github.io/panoptic-lifting/)] [[Github](https://github.com/nihalsid/panoptic-lifting)] [[Video](https://www.youtube.com/watch?v=QtsiL-6rSuM)]
 
-<span style="color:red">**SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**</span><br>
+:fire:**SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**<br>
 *Ashkan Mirzaei, Tristan Aumentado-Armstrong, Konstantinos G. Derpanis, Jonathan Kelly, Marcus A. Brubaker, Igor Gilitschenski, Alex Levinshtein*<br>
 CVPR 2023, 22 Nov 2022 <br>
 [[arXiv](https://arxiv.org/abs/2211.12254)] [[Project](https://spinnerf3d.github.io/)] [[Github](https://github.com/SamsungLabs/SPIn-NeRF)] [[Video](https://www.bilibili.com/video/BV1Fm4y127TW/)]
@@ -801,7 +801,7 @@ arXiv preprint, 24 Apr 2023 <br>
 
 ### `NeRF + Mesh Extraction`
 
-<span style="color:red">**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**</span><br>
+:fire:**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**<br>
 *Jiaxiang Tang, Hang Zhou, Xiaokang Chen, Tianshu Hu, Errui Ding, Jingdong Wang, Gang Zeng*<br>
 arXiv preprint, 3 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.02091)] [[Project](https://me.kiui.moe/nerf2mesh/)] [[Github](https://github.com/ashawkey/nerf2mesh)] [[Video](https://www.bilibili.com/video/BV18M41147JN/)]
@@ -818,7 +818,7 @@ PCS 2022, 11 Dec 2022 <br>
 CVPR 2023, 24 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.14124)] [[Project](https://boheumd.github.io/D-NeRV/)] [[Github](https://github.com/boheumd/D-NeRV)]
 
-<span style="color:red">**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**</span><br>
+:fire:**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**<br>
 *Liao Wang, Qiang Hu, Qihan He, Ziyu Wang, Jingyi Yu, Tinne Tuytelaars, Lan Xu, Minye Wu*<br>
 CVPR 2023, 11 Dec 2022 <br>
 [[arXiv](https://arxiv.org/abs/2304.04452)] [[Project](https://aoliao12138.github.io/ReRF/)]
@@ -840,12 +840,12 @@ EMBC 2022, 2 Feb 2022 <br>
 
 ### `NeRF + Inverse Rendering`
 
-<span style="color:red">**TensoIR: Tensorial Inverse Rendering**</span><br>
+:fire:**TensoIR: Tensorial Inverse Rendering**<br>
 *Haian Jin, Isabella Liu, Peijia Xu, Xiaoshuai Zhang, Songfang Han, Sai Bi, Xiaowei Zhou, Zexiang Xu, Hao Su*<br>
 CVPR 2023, 24 Apr 2023 <br>
 [[arXiv](https://arxiv.org/abs/2304.12461)] [[Project](https://haian-jin.github.io/TensoIR/)] [[Github](https://github.com/Haian-Jin/TensoIR)] [[Video](https://www.bilibili.com/video/BV1Fc411n7Gb/)]
 
-<span style="color:red">**Inverse Global Illumination using a Neural Radiometric Prior**</span><br>
+:fire:**Inverse Global Illumination using a Neural Radiometric Prior**<br>
 *Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker*<br>
 SIGGRAPH 2023, 3 May 2023 <br>
 [[arXiv](https://arxiv.org/abs/2305.02192)] [Notes]
