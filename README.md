@@ -549,6 +549,11 @@ NeurIPS 2021, 22 Jun 2021 <br>
 NeurIPS 2021, 20 Jun 2021  <br>
 [[arXiv](https://arxiv.org/abs/2106.10689)] [[Project](https://lingjie0206.github.io/papers/NeuS/)] [[Github](https://github.com/Totoro97/NeuS)]
 
+**HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details**<br>
+*Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
+NeurIPS 2022, 15 Jun 2022 <br>
+[[arXiv](https://arxiv.org/abs/2206.07850)] [[Github](https://github.com/yiqun-wang/HFS)] [[Notes](./paper_discussions/HF-NeuS.md)]
+
 ### `NeRF + Hardware Acceleration`
 
 **EventNeRF: Neural Radiance Fields from a Single Colour Event Camera**<br>
