@@ -53,7 +53,6 @@ For now, you can join us in the following ways
 ECCV 2020, 19 Mar 2020 <br>
 [[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)]
 
-
 #### **NeRF Related Surveys**
 
 **State of the Art on Neural Rendering**<br>
@@ -106,7 +105,7 @@ ICCV 2021, 24 Mar 2021<br>
 **Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
 CVPR 2022, 23 Nov 2021<br>
-[[arXiv](https://arxiv.org/abs/2111.12077)] [[Project](https://jonbarron.info/mipnerf360/)] [[Github](https://github.com/google-research/multinerf)]
+[[arXiv](https://arxiv.org/abs/2111.12077)] [[Project](https://jonbarron.info/mipnerf360/)] [[Github](https://github.com/google-research/multinerf)] [[Discussion](./paper_discussions/mipnerf360.md)]
 
 **Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields**<br>
 *Dor Verbin, Peter Hedman, Ben Mildenhall, Todd Zickler, Jonathan T. Barron, Pratul P. Srinivasan*<br>
