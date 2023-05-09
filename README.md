@@ -100,7 +100,7 @@ CVPR 2021, 5 Aug 2020 <br>
 :fire:**Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Matthew Tancik, Peter Hedman, Ricardo Martin-Brualla, Pratul P. Srinivasan*<br>
 ICCV 2021, 24 Mar 2021<br>
-[[arXiv](https://arxiv.org/abs/2103.13415)] [[Project](http://jonbarron.info/mipnerf)] [[Github](https://github.com/google/mipnerf)]
+[[arXiv](https://arxiv.org/abs/2103.13415)] [[Project](http://jonbarron.info/mipnerf)] [[Github](https://github.com/google/mipnerf)] [[Notes](./paper_discussions/mipnerf.md)]
 
 :fire:**Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
