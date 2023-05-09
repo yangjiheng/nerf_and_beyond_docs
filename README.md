@@ -72,7 +72,7 @@ TPAMI 2022, 1 Oct 2022<br>
 
 **Neural Radiance Fields: Past, Present, and Future**<br>
 *Ansh Mittal*<br>
-In Progress,20 Apr 2023
+In Progress,20 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.10050)]
 
 #### <span style="color:rgb(117, 104, 75)">**NeRF Tutorials**</span>
