@@ -853,6 +853,11 @@ EMBC 2022, 2 Feb 2022 <br>
 
 ### `NeRF + Inverse Rendering`
 
+:fire:**Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes**<br>
+*Zhen Li, Lingli Wang, Mofang Cheng, Cihui Pan, Jiaqi Yang*<br>
+CVPR 2023, 18 Nov 2022 <br>
+[[arXiv](https://arxiv.org/abs/2211.10206)] [[Project](http://yodlee.top/TexIR/)] [[Github](http://github.com/LZleejean/TexIR_code)] [[Video](https://www.bilibili.com/video/BV1gM411K7ik/)]
+
 :fire:**TensoIR: Tensorial Inverse Rendering**<br>
 *Haian Jin, Isabella Liu, Peijia Xu, Xiaoshuai Zhang, Songfang Han, Sai Bi, Xiaowei Zhou, Zexiang Xu, Hao Su*<br>
 CVPR 2023, 24 Apr 2023 <br>
