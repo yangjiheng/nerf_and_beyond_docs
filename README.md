@@ -2,6 +2,8 @@
 
 This is a collection of documents and topics NeRF & Beyond channel accumulated, as well as papers in literaure. This is still far from complete info regarding to this active research area. 
 
+Some papers we discussed in the group, will be added to the back of the paper with a **Notes** link. You can follow the link to check whether there is topic you are interested in. If not, welcome to join us and ask the question to the crowd. The mighty community might have your answers.
+
 We are actively maintaining this page trying to stay up-to-date and gather important works in a daily basis. We would also like to put as many notes as possible to some works, trying to make it easier to catch up. 
 
 Please feel free to join us on WeChat group or start a discussion topic here.
@@ -43,7 +45,7 @@ For now, you can join us in the following ways
 - [NeRF + Model Conversion](#nerf--model-conversion)
 - [NeRF + Medical/Biology](#nerf--medicalbiology)
 - [NeRF + Inverse Rendering](#nerf--inverse-rendering)
-- [Datasets]
+- [Datasets](#datasets)
 
 ### `New to NeRF`
 
