@@ -43,6 +43,7 @@ For now, you can join us in the following ways
 - [NeRF + Model Conversion](#nerf--model-conversion)
 - [NeRF + Medical/Biology](#nerf--medicalbiology)
 - [NeRF + Inverse Rendering](#nerf--inverse-rendering)
+- [Datasets]
 
 ### `New to NeRF`
 
@@ -862,6 +863,12 @@ SIGGRAPH 2023, 3 May 2023 <br>
 CVPR 2023, 25 Apr 2023 <br>
 [[arXiv](https://arxiv.org/abs/2304.12670)] [[Project](http://weiyuli.xyz/Sin3DGen/)] [[Github](https://github.com/wyysf-98/Sin3DGen)] [[Notes](./paper_discussions/Sin3DGen.md)]
 
+### `Datasets`
+
+**MVImgNet: A Large-scale Dataset of Multi-view Images**<br>
+*Xianggang Yu, Mutian Xu, Yidan Zhang, Haolin Liu, Chongjie Ye, Yushuang Wu, Zizheng Yan, Chenming Zhu, Zhangyang Xiong, Tianyou Liang, Guanying Chen, Shuguang Cui, Xiaoguang Han*<br>
+CVPR 2023, 10 Mar 2023 <br>
+[[arXiv](https://arxiv.org/abs/2303.06042)] [[Project](https://gaplab.cuhk.edu.cn/projects/MVImgNet/#table_stat)] [[Github](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet)] [[Notes](./paper_discussions/MVImgNet.md)]
 
 ## Contributors
 
