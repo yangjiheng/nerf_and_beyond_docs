@@ -91,7 +91,12 @@ ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutoria
 :fire:**Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
 arXiv preprint, 8 Feb 2023<br>
-[[arXiv](https://arxiv.org/abs/2302.04264)] [[Github](https://github.com/nerfstudio-project/nerfstudio)] 
+[[arXiv](https://arxiv.org/abs/2302.04264)] [[Website](https://docs.nerf.studio/en/latest/#)] [[Github](https://github.com/nerfstudio-project/nerfstudio)] 
+
+:fire:**NerfAcc: Efficient Sampling Accelerates NeRFs**<br>
+*Ruilong Li, Hang Gao, Matthew Tancik, Angjoo Kanazawa*<br>
+arXiv preprint, 8 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.04966)] [[Website](https://www.nerfacc.com/en/latest/index.html)]  [[Github](https://github.com/KAIR-BAIR/nerfacc)]
 
 ### `NeRF Fundamental Enhancements`
 
