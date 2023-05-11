@@ -646,6 +646,16 @@ arXiv preprint, 16 Feb 2023 <br>
 CVPR 2023, 23 Feb 2023 <br>
 [[arXiv](https://arxiv.org/abs/2302.12237)] [[Project](https://zju3dv.github.io/instant_nvr/)] [[Video](https://www.bilibili.com/video/BV1Rs4y1j7DW/)]
 
+**NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images**<br>
+*Mingwu Zheng, Haiyu Zhang, Hongyu Yang, Di Huang*<br>
+CVPR 2023, 24 Mar 2023 <br>
+[[arXiv](https://arxiv.org/abs/2303.14092)] [[Github](https://github.com/aejion/NeuFace)] [[Notes](./paper_discussions/NeuFace.md)]
+
+**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**<br>
+*Mustafa Işık, Martin Rünz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nießner*<br>
+SIGGRAPH 2023, 10 May 2023 <br>
+[[arXiv](https://arxiv.org/abs/2305.06356)] [[Project](https://synthesiaresearch.github.io/humanrf/)] [[Github](https://github.com/synthesiaresearch/humanrf)] [[Video](https://www.bilibili.com/video/BV1ug4y1V7cy/)] [[Notes](./paper_discussions/HumanRF.md)]
+
 ### `NeRF + Imaging Tasks`
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
