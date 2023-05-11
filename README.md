@@ -394,8 +394,12 @@ arXiv preprint, 11 Jan 2023<br>
 **NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**<br>
 *Jiatao Gu, Alex Trevithick, Kai-En Lin, Josh Susskind, Christian Theobalt, Lingjie Liu, Ravi Ramamoorthi*<br>
 arXiv preprint, 20 Feb 2023 <br>
-[[arXiv](https://arxiv.org/abs/2302.10109)] [[Project](https://jiataogu.me/nerfdiff/
-)]
+[[arXiv](https://arxiv.org/abs/2302.10109)] [[Project](https://jiataogu.me/nerfdiff/)]
+
+**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**<br>
+*Jamie Wynn, Daniyar Turmukhambetov*<br>
+arXiv preprint, 23 Feb 2023 <br>
+[[arXiv](https://arxiv.org/abs/2302.12231)] [[Github](https://github.com/nianticlabs/diffusionerf)]
 
 :fire:**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**<br>
 *Jiawei Yang, Marco Pavone, Yue Wang*<br>
