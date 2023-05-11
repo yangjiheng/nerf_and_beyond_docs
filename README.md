@@ -505,6 +505,26 @@ CVPR 2022, 9 Dec 2021<br>
 CVPR 2022, 4 Jul 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.01583)] [[Project](https://tisl.cs.toronto.edu/publication/202210-eccv-laterf/)]
 
+**DreamFusion: Text-to-3D using 2D Diffusion**<br>
+*Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*<br>
+arXiv preprint, 29 Sep 2022<br>
+[[arXiv](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)] [[Unofficial Impl](https://github.com/ashawkey/stable-dreamfusion)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
+
+**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**<br>
+*Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or*<br>
+arXiv preprint, 14 Nov 2022<br>
+[[arXiv](https://arxiv.org/abs/2211.07600)] [[Github](https://github.com/eladrich/latent-nerf)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
+
+**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
+*Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
+CVPR 2023, 18 Nov 2022<br>
+[[arXiv](https://arxiv.org/abs/2211.10440)] [[Project](https://research.nvidia.com/labs/dir/magic3d/)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
+
+**Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**<br>
+*Haochen Wang, Xiaodan Du, Jiahao Li, Raymond A. Yeh, Greg Shakhnarovich*<br>
+CVPR 2023, 1 Dec 2022<br>
+[[arXiv](https://arxiv.org/abs/2212.00774)] [[Project](https://pals.ttic.edu/p/score-jacobian-chaining)] [[Github](https://github.com/pals-ttic/sjc/)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
+
 **SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction**<br>
 *Zhizhuo Zhou, Shubham Tulsiani*<br>
 CVPR 2023, 1 Dec 2022<br>
@@ -544,6 +564,11 @@ arXiv preprint, 23 Mar 2023<br>
 *Junshu Tang, Tengfei Wang, Bo Zhang, Ting Zhang, Ran Yi, Lizhuang Ma, Dong Chen*<br>
 arXiv preprint, 23 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.14184)] [[Project](https://make-it-3d.github.io/)] [[Github](https://github.com/junshutang/Make-It-3D)]
+
+**Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation**<br>
+*Rui Chen, Yongwei Chen, Ningxin Jiao, Kui Jia*<br>
+arXiv preprint, 24 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.13873)] [[Project](https://fantasia3d.github.io/)] [[Github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
 
 **DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**<br>
 *Hoigi Seo, Hayeon Kim, Gwanghyun Kim, Se Young Chun*<br>
