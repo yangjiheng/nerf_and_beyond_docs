@@ -439,7 +439,7 @@ ICCV 2021, 23 Mar 2021<br>
 :fire:**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
 *Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys*<br>
 CVPR 2022, 22 Dec 2021<br>
-[[arXiv](https://arxiv.org/abs/2112.12130)] [[Project](https://pengsongyou.github.io/nice-slam)] [[Github](https://github.com/cvg/nice-slam)]
+[[arXiv](https://arxiv.org/abs/2112.12130)] [[Project](https://pengsongyou.github.io/nice-slam)] [[Github](https://github.com/cvg/nice-slam)] [[Notes](./paper_discussions/NICE-SLAM.md)]
 
 #### <span style="color:rgb(117, 104, 75)">** BA & Others</span>
 
@@ -518,7 +518,7 @@ arXiv preprint, 14 Nov 2022<br>
 **Magic3D: High-Resolution Text-to-3D Content Creation**<br>
 *Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
 CVPR 2023, 18 Nov 2022<br>
-[[arXiv](https://arxiv.org/abs/2211.10440)] [[Project](https://research.nvidia.com/labs/dir/magic3d/)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
+[[arXiv](https://arxiv.org/abs/2211.10440)] [[Project](https://research.nvidia.com/labs/dir/magic3d/)] [[threeStudio](https://github.com/threestudio-project/threestudio)] [[Notes](./paper_discussions/Magic3D.md)]
 
 **Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**<br>
 *Haochen Wang, Xiaodan Du, Jiahao Li, Raymond A. Yeh, Greg Shakhnarovich*<br>
@@ -921,7 +921,7 @@ CVPR 2023, 24 Apr 2023 <br>
 :fire:**Inverse Global Illumination using a Neural Radiometric Prior**<br>
 *Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker*<br>
 SIGGRAPH 2023, 3 May 2023 <br>
-[[arXiv](https://arxiv.org/abs/2305.02192)] [Notes]
+[[arXiv](https://arxiv.org/abs/2305.02192)] [[Notes](./paper_discussions/InverseGlobalIllumination.md)]
 
 ### `Other 3D Generative Work`
 
