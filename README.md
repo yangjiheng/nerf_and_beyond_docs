@@ -407,6 +407,11 @@ CVPR 2023, 13 Mar 2023<br>
 CVPR 2023, 20 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://zero123.cs.columbia.edu/)] [[Github](https://github.com/cvlab-columbia/zero123)]
 
+**VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**<br>
+*Jiakai Sun, Zhanjie Zhang, Jiafu Chen, Guangyuan Li, Boyan Ji, Lei Zhao, Wei Xing*<br>
+IJCAI 2023, 26 Apr 2023<br>
+[[arXiv](https://arxiv.org/abs/2304.13386)] [[Github](https://github.com/SJoJoK/VGOS)]
+
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
 #### <span style="color:rgb(117, 104, 75)">**SLAM Based**</span>
