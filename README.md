@@ -91,12 +91,23 @@ ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutoria
 :fire:**Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
 arXiv preprint, 8 Feb 2023<br>
+>Nerfstudio provides a simple API that allows for a simplified end-to-end process of creating, training, and visualizing NeRFs. The library supports an interpretable implementation of NeRFs by modularizing each component.<br>
+
 [[arXiv](https://arxiv.org/abs/2302.04264)] [[Website](https://docs.nerf.studio/en/latest/#)] [[Github](https://github.com/nerfstudio-project/nerfstudio)] 
 
 :fire:**NerfAcc: Efficient Sampling Accelerates NeRFs**<br>
 *Ruilong Li, Hang Gao, Matthew Tancik, Angjoo Kanazawa*<br>
 arXiv preprint, 8 May 2023<br>
+>NerfAcc is a PyTorch Nerf acceleration toolbox for both training and inference. It focus on efficient sampling in the volumetric rendering pipeline of radiance fields, which is universal and plug-and-play for most of the NeRFs. With minimal modifications to the existing codebases, Nerfacc provides significant speedups in training various recent NeRF papers. And it is pure Python interface with flexible APIs!<br>
+
 [[arXiv](https://arxiv.org/abs/2305.04966)] [[Website](https://www.nerfacc.com/en/latest/index.html)]  [[Github](https://github.com/KAIR-BAIR/nerfacc)]
+
+:fire:**threestudio: A unified framework for 3D content generation**<br>
+*Yuan-Chen Guo and Ying-Tian Liu and Chen Wang and Zi-Xin Zou and Guan Luo and Chia-Hao Chen and Yan-Pei Cao and Song-Hai Zhang*<br>
+Github repo,2023<br>
+>threestudio is a unified framework for 3D content creation from text prompts, single images, and few-shot images, by lifting 2D text-to-image generation models.
+
+[[Github](https://github.com/threestudio-project/threestudio)]
 
 ### `NeRF Fundamental Enhancements`
 
