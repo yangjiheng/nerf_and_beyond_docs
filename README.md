@@ -350,7 +350,7 @@ arXiv preprint, 28 Feb 2023<br>
 :fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
 *Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa*<br>
 CVPR 2021, 3 Dec 2020<br>
-[[arXiv](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://alexyu.net/pixelnerf/)]
+[[arXiv](https://arxiv.org/abs/2012.02190)] [[Project](https://alexyu.net/pixelnerf/)] [[Github](https://github.com/sxyu/pixel-nerf)]
 
 **IBRNet: Learning Multi-View Image-Based Rendering**<br>
 *Qianqian Wang, Zhicheng Wang, Kyle Genova, Pratul Srinivasan, Howard Zhou, Jonathan T. Barron, Ricardo Martin-Brualla, Noah Snavely, Thomas Funkhouser*<br>
