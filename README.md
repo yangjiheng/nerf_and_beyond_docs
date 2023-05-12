@@ -318,7 +318,7 @@ SIGGRAPH 2022, 16 Jan 2022<br>
 :fire:**TensoRF: Tensorial Radiance Fields**<br>
 *Anpei Chen, Zexiang Xu, Andreas Geiger, Jingyi Yu, Hao Su*<br>
 ECCV 2022, 17 Mar 2022<br>
-[[arXiv](https://arxiv.org/abs/2201.05989)] [[Project](https://apchenstu.github.io/TensoRF/)] [[Github](https://github.com/apchenstu/TensoRF)]
+[[arXiv](https://arxiv.org/abs/2201.05989)] [[Project](https://apchenstu.github.io/TensoRF/)] [[Github](https://github.com/apchenstu/TensoRF)] [[Notes](./paper_discussions/TensoRF.md)]
 
 **SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**<br>
 *Krishna Wadhwani, Tamaki Kojima*<br>
