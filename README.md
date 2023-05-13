@@ -149,7 +149,12 @@ arXiv preprint, 13 Apr 2023<br>
 **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**<br>
 *Frederik Warburg, Ethan Weber, Matthew Tancik, Aleksander Holynski, Angjoo Kanazawa*<br>
 arXiv preprint, 20 Apr 2023<br>
-[[arXiv](https://arxiv.org/abs/2304.10532)] [[Project](https://ethanweber.me/nerfbusters//)] [[Github](https://github.com/ethanweber/nerfbusters)]
+[[arXiv](https://arxiv.org/abs/2304.10532)] [[Project](https://ethanweber.me/nerfbusters//)] [[Github](https://github.com/ethanweber/nerfbusters)] [[Video](https://www.bilibili.com/video/BV1hs4y197iN/)]
+
+**Multi-Space Neural Radiance Fields**<br>
+*Ze-Xin Yin, Jiaxiong Qiu, Ming-Ming Cheng, Bo Ren*<br>
+CVPR 2023, 7 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.04268)] [[Project](https://zx-yin.github.io/msnerf/)] [[Github](https://github.com/ZX-Yin/ms-nerf)] [[Video](https://www.bilibili.com/video/BV1NX4y117mL/)] [[Notes](./paper_discussions/ms-nerf.md)]
 
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
