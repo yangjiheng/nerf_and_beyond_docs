@@ -144,7 +144,7 @@ arXiv preprint, 9 Dec 2022<br>
 :fire:**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
 arXiv preprint, 13 Apr 2023<br>
-[[arXiv](https://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)] [[Unofficial Impl](https://github.com/SuLvXiangXin/zipnerf-pytorch)]
+[[arXiv](https://arxiv.org/abs/2304.06706)] [[Project](https://jonbarron.info/zipnerf/)] [[Unofficial Impl](https://github.com/SuLvXiangXin/zipnerf-pytorch)] [[Notes](./paper_discussions/Zip-NeRF.md)]
 
 **Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**<br>
 *Frederik Warburg, Ethan Weber, Matthew Tancik, Aleksander Holynski, Angjoo Kanazawa*<br>
@@ -634,7 +634,7 @@ CVPR 2022, 21 Jan 2022 <br>
 **Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**<br>
 *Qiangeng Xu, Zexiang Xu, Julien Philip, Sai Bi, Zhixin Shu, Kalyan Sunkavalli, Ulrich Neumann*<br>
 arXiv preprint, 19 Apr 2023 <br>
-[[arXiv](https://arxiv.org/abs/2304.09987)] [[Project](https://jkulhanek.com/tetra-nerf/)] [[Github](https://github.com/jkulhanek/tetra-nerf/)]
+[[arXiv](https://arxiv.org/abs/2304.09987)] [[Project](https://jkulhanek.com/tetra-nerf/)] [[Github](https://github.com/jkulhanek/tetra-nerf/)] [[Notes](./paper_discussions/Tetra-NeRF.md)]
 
 **Neural LiDAR Fields for Novel View Synthesis**<br>
 *Shengyu Huang, Zan Gojcic, Zian Wang, Francis Williams, Yoni Kasten, Sanja Fidler, Konrad Schindler, Or Litany*<br>
