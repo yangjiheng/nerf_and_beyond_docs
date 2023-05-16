@@ -518,7 +518,7 @@ CVPR 2022, 4 Jul 2022<br>
 **DreamFusion: Text-to-3D using 2D Diffusion**<br>
 *Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall*<br>
 arXiv preprint, 29 Sep 2022<br>
-[[arXiv](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)] [[Unofficial Impl](https://github.com/ashawkey/stable-dreamfusion)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
+[[arXiv](https://arxiv.org/abs/2209.14988)] [[Project](https://dreamfusion3d.github.io/)] [[Unofficial Impl](https://github.com/ashawkey/stable-dreamfusion)] [[threeStudio](https://github.com/threestudio-project/threestudio)] [[Notes](./paper_discussions/DreamFusion.md)]
 
 **Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**<br>
 *Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or*<br>
@@ -573,7 +573,7 @@ arXiv preprint, 23 Mar 2023<br>
 **Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**<br>
 *Junshu Tang, Tengfei Wang, Bo Zhang, Ting Zhang, Ran Yi, Lizhuang Ma, Dong Chen*<br>
 arXiv preprint, 23 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.14184)] [[Project](https://make-it-3d.github.io/)] [[Github](https://github.com/junshutang/Make-It-3D)]
+[[arXiv](https://arxiv.org/abs/2303.14184)] [[Project](https://make-it-3d.github.io/)] [[Github](https://github.com/junshutang/Make-It-3D)] [[Notes](./paper_discussions/Make-It-3D.md)]
 
 **Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation**<br>
 *Rui Chen, Yongwei Chen, Ningxin Jiao, Kui Jia*<br>
