@@ -446,6 +446,11 @@ ICCV 2021, 23 Mar 2021<br>
 CVPR 2022, 22 Dec 2021<br>
 [[arXiv](https://arxiv.org/abs/2112.12130)] [[Project](https://pengsongyou.github.io/nice-slam)] [[Github](https://github.com/cvg/nice-slam)] [[Notes](./paper_discussions/NICE-SLAM.md)]
 
+**Towards Open World NeRF-Based SLAM**<br>
+*Daniil Lisus, Connor Holmes, Steven Waslander*<br>
+CRV 2023, 8 Jan 2023<br>
+[[arXiv](https://arxiv.org/abs/2301.03102)]
+
 #### <span style="color:rgb(117, 104, 75)">** BA & Others</span>
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
@@ -701,10 +706,21 @@ CVPR 2023, 23 Feb 2023 <br>
 CVPR 2023, 24 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.14092)] [[Github](https://github.com/aejion/NeuFace)] [[Notes](./paper_discussions/NeuFace.md)]
 
-**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**<br>
+:fire:**HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion**<br>
 *Mustafa Işık, Martin Rünz, Markos Georgopoulos, Taras Khakhulin, Jonathan Starck, Lourdes Agapito, Matthias Nießner*<br>
 SIGGRAPH 2023, 10 May 2023 <br>
 [[arXiv](https://arxiv.org/abs/2305.06356)] [[Project](https://synthesiaresearch.github.io/humanrf/)] [[Github](https://github.com/synthesiaresearch/humanrf)] [[Video](https://www.bilibili.com/video/BV1ug4y1V7cy/)] [[Notes](./paper_discussions/HumanRF.md)]
+
+**BlendFields: Few-Shot Example-Driven Facial Modeling**<br>
+*Kacper Kania, Stephan J. Garbin, Andrea Tagliasacchi, Virginia Estellers, Kwang Moo Yi, Julien Valentin, Tomasz Trzciński, Marek Kowalski*<br>
+arXiv preprint, 12 May 2023 <br>
+[[arXiv](https://arxiv.org/abs/2305.07514)] [[Project](https://blendfields.github.io/)] [[Video](https://www.bilibili.com/video/BV1xs4y1M7dZ/)] 
+
+**Neural Face Rigging for Animating and Retargeting Facial Meshes in the Wild**<br>
+*Dafei Qin, Jun Saito, Noam Aigerman, Thibault Groueix, Taku Komura*<br>
+arXiv preprint, 15 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.08296)]
+
 
 ### `NeRF + Imaging Tasks`
 
