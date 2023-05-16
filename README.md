@@ -841,7 +841,7 @@ arXiv preprint, 19 Jan 2023 <br>
 :fire:**Interactive Geometry Editing of Neural Radiance Fields**<br>
 *Shaoxu Li, Ye Pan*<br>
 I3D 2023, 21 Mar 2023 <br>
-[[arXiv](https://arxiv.org/abs/2303.11537)] [[Project](https://repo-sam.inria.fr/fungraph/nerfshop/)] [[Github](https://github.com/graphdeco-inria/nerfshop)] [[Video](https://www.bilibili.com/video/BV1qk4y1b7L4/)]
+[[arXiv](https://arxiv.org/abs/2303.11537)] [[Project](https://repo-sam.inria.fr/fungraph/nerfshop/)] [[Github](https://github.com/graphdeco-inria/nerfshop)] [[Video](https://www.bilibili.com/video/BV1qk4y1b7L4/)] [[Notes](./paper_discussions/NeRFShop.md)]
 
 :fire:**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
 *Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
