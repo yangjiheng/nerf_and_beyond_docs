@@ -335,6 +335,11 @@ arXiv preprint, 6 Apr 2022<br>
 ECCV 2022, 21 Jul 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.10312)] [[Project](https://thomasneff.github.io/adanerf/)] [[Github](https://github.com/thomasneff/AdaNeRF)]
 
+:fire:**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**<br>
+*Zhiqin Chen, Thomas Funkhouser, Peter Hedman, Andrea Tagliasacchi*<br>
+CVPR 2023, 30 Jul 2022<br>
+[[arXiv](https://arxiv.org/abs/2208.00277)]
+
 **Real-Time Neural Light Field on Mobile Devices**<br>
 *Junli Cao, Huan Wang, Pavlo Chemerys, Vladislav Shakhrai, Ju Hu, Yun Fu, Denys Makoviichuk, Sergey Tulyakov, Jian Ren*<br>
 CVPR 2023, 15 Dec 2022<br>
