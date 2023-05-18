@@ -530,7 +530,7 @@ arXiv preprint, 29 Sep 2022<br>
 arXiv preprint, 14 Nov 2022<br>
 [[arXiv](https://arxiv.org/abs/2211.07600)] [[Github](https://github.com/eladrich/latent-nerf)] [[threeStudio](https://github.com/threestudio-project/threestudio)]
 
-**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
+:fire:**Magic3D: High-Resolution Text-to-3D Content Creation**<br>
 *Chen-Hsuan Lin, Jun Gao, Luming Tang, Towaki Takikawa, Xiaohui Zeng, Xun Huang, Karsten Kreis, Sanja Fidler, Ming-Yu Liu, Tsung-Yi Lin*<br>
 CVPR 2023, 18 Nov 2022<br>
 [[arXiv](https://arxiv.org/abs/2211.10440)] [[Project](https://research.nvidia.com/labs/dir/magic3d/)] [[threeStudio](https://github.com/threestudio-project/threestudio)] [[Notes](./paper_discussions/Magic3D.md)]
@@ -550,7 +550,7 @@ CVPR 2023, 1 Dec 2022<br>
 CVPR 2023, 2 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.01206)] [[Project](https://sirwyver.github.io/DiffRF/)]
 
-**Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**<br>
+:fire:**Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**<br>
 *Jiale Xu, Xintao Wang, Weihao Cheng, Yan-Pei Cao, Ying Shan, Xiaohu Qie, Shenghua Gao*<br>
 CVPR 2023, 28 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.14704)] [[Project](https://bluestyle97.github.io/dream3d/)]
@@ -570,18 +570,17 @@ arXiv preprint, 16 Mar 2023<br>
 arXiv preprint, 22 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io/)] [[Github](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
 
-**Shap-E: Generating Conditional 3D Implicit Functions**
+:fire:**Shap-E: Generating Conditional 3D Implicit Functions**
 *Heewoo Jun, Alex Nichol*<br>
 arXiv preprint, 3 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.02463)] [[Github](https://github.com/openai/shap-e)]
 
-
-**DreamBooth3D: Subject-Driven Text-to-3D Generation**<br>
+:fire:**DreamBooth3D: Subject-Driven Text-to-3D Generation**<br>
 *Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani*<br>
 arXiv preprint, 23 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.13508)] [[Project](https://dreambooth3d.github.io/)]
 
-**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**<br>
+:fire:**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**<br>
 *Junshu Tang, Tengfei Wang, Bo Zhang, Ting Zhang, Ran Yi, Lizhuang Ma, Dong Chen*<br>
 arXiv preprint, 23 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.14184)] [[Project](https://make-it-3d.github.io/)] [[Github](https://github.com/junshutang/Make-It-3D)] [[Notes](./paper_discussions/Make-It-3D.md)]
