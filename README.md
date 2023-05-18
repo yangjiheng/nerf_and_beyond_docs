@@ -612,6 +612,11 @@ arXiv preprint, 13 Apr 2023<br>
 
 ### `SDF Based Reconstruction`
 
+**Neural Point-Based Graphics**<br>
+*Kara-Ali Aliev, Artem Sevastopolsky, Maria Kolos, Dmitry Ulyanov, Victor Lempitsky*<br>
+arXiv preprint, 19 Jun 2019<br>
+[[arXiv](https://arxiv.org/abs/1906.08240v3)] [[Github](https://github.com/alievk/npbg)] [[Video](https://www.youtube.com/watch?v=2uIe4iD4gSY)]
+
 **Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance**<br>
 *Lior Yariv, Yoni Kasten, Dror Moran, Meirav Galun, Matan Atzmon, Ronen Basri, Yaron Lipman*<br>
 NeurIPS 2020, 22 Mar 2020<br>
@@ -636,6 +641,16 @@ NeurIPS 2021, 20 Jun 2021  <br>
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
 NeurIPS 2022, 15 Jun 2022 <br>
 [[arXiv](https://arxiv.org/abs/2206.07850)] [[Github](https://github.com/yiqun-wang/HFS)] [[Notes](./paper_discussions/HF-NeuS.md)]
+
+**NPBG++: Accelerating Neural Point-Based Graphics**<br>
+*Ruslan Rakhimov, Andrei-Timotei Ardelean, Victor Lempitsky, Evgeny Burnaev*<br>
+CVPR 2022,  24 Mar 2022<br>
+[[arXiv](https://arxiv.org/abs/2203.13318)] [[Project](https://rakhimovv.github.io/npbgpp/)] [[Github](https://github.com/rakhimovv/npbgpp)] 
+
+**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**<br>
+*Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
+CVPR 2023, 9 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.05594)] [[Github](https://arxiv.org/abs/2305.05594)]
 
 ### `NeRF + Hardware Acceleration`
 
