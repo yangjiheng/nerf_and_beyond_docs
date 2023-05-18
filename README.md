@@ -575,7 +575,7 @@ arXiv preprint, 22 Mar 2023<br>
 arXiv preprint, 3 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.02463)] [[Github](https://github.com/openai/shap-e)]
 
-**MeshDiffusion: Score-based Generative 3D Mesh Modeling**<br>
+:fire:**MeshDiffusion: Score-based Generative 3D Mesh Modeling**<br>
 *Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu*<br>
 ICLR 2023, 14 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.08133)] [[Project](https://meshdiffusion.github.io/)] [[Github](https://github.com/lzzcd001/MeshDiffusion/)]
