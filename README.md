@@ -570,6 +570,12 @@ arXiv preprint, 16 Mar 2023<br>
 arXiv preprint, 22 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io/)] [[Github](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
 
+**Shap-E: Generating Conditional 3D Implicit Functions**
+*Heewoo Jun, Alex Nichol*<br>
+arXiv preprint, 3 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.02463)] [[Github](https://github.com/openai/shap-e)]
+
+
 **DreamBooth3D: Subject-Driven Text-to-3D Generation**<br>
 *Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani*<br>
 arXiv preprint, 23 Mar 2023<br>

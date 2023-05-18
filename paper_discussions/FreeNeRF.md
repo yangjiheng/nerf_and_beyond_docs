@@ -13,3 +13,8 @@ Answer from Author: 还没有尝试，只是ngp上还没有frequency encoding的
 Q3: 论文的第二个去floater的loss在更稠密视角下挺影响density分布学习的，怎么看？
 
 Answer from Author: 是的，我们也观察到这个现象，有在limitation和appendix里讨论了这个问题。然后我们发现最近的nerfbuster里的visibility loss和freenerf里的occlusion loss形式很类似，但是惩罚的范围不太一样。后面也想详细看看对比一下。
+
+Q4: FreeNeRF是不是只能应用到频率编码的NeRF呢，感觉和ngp好像没法用
+
+Answer: 你可以把hash编码的L看成是位置编码的L
+<img src="./imgs/free_nerf_1.png"></img>
