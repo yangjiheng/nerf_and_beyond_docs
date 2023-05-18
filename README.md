@@ -658,6 +658,11 @@ arXiv preprint, 2 May 2023 <br>
 arXiv preprint, 21 Apr 2023 <br>
 [[arXiv](https://arxiv.org/abs/2304.11241)] [[Project](https://pierremarza.github.io/projects/autonerf/)] [[Video](https://www.bilibili.com/video/BV1iX4y1m7op/)]
 
+**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**<br>
+*Javier Yu, Jun En Low, Keiko Nagami, Mac Schwager*<br>
+ICRA 2023, 16 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.09761)] [[Github](https://github.com/javieryu/nerf_bridge)] [[Video](https://www.bilibili.com/video/BV1Bg4y1F7gD/)]
+
 
 ### `NeRF + Avatar/Talking Head`
 
