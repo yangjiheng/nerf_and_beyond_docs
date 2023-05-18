@@ -575,11 +575,15 @@ arXiv preprint, 22 Mar 2023<br>
 arXiv preprint, 3 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.02463)] [[Github](https://github.com/openai/shap-e)]
 
+:fire:**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**<br>
+*Anchit Gupta, Wenhan Xiong, Yixin Nie, Ian Jones, Barlas Oğuz*<br>
+arXiv preprint, 9 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.05371)]
+
 :fire:**MeshDiffusion: Score-based Generative 3D Mesh Modeling**<br>
 *Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu*<br>
 ICLR 2023, 14 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.08133)] [[Project](https://meshdiffusion.github.io/)] [[Github](https://github.com/lzzcd001/MeshDiffusion/)]
-
 
 :fire:**DreamBooth3D: Subject-Driven Text-to-3D Generation**<br>
 *Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani*<br>
