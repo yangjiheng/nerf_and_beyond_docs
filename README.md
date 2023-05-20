@@ -387,6 +387,11 @@ ICCV 2021, 29 Mar 2021<br>
 ICCV 2021, 29 Mar 2021<br>
 [[arXiv](https://arxiv.org/abs/2103.15595)] [[Co3D Dataset](https://github.com/facebookresearch/co3d)]
 
+**RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs**<br>
+*Michael Niemeyer, Jonathan T. Barron, Ben Mildenhall, Mehdi S. M. Sajjadi, Andreas Geiger, Noha Radwan*<br>
+CVPR 2022, 1 Dec 2021<br>
+[[arXiv](https://arxiv.org/abs/2112.00724)] [[Project](https://m-niemeyer.github.io/regnerf/index.html)] [[Code](https://github.com/google-research/google-research/tree/master/regnerf)] [[Notes](./paper_discussions/RegNeRF.md)]
+
 :fire:**ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers**<br>
 *Jonáš Kulhánek, Erik Derner, Torsten Sattler, Robert Babuška*<br>
 ECCV 2022, 18 Mar 2022<br>
