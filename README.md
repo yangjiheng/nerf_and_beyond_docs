@@ -57,7 +57,7 @@ For now, you can join us in the following ways
 ECCV 2020, 19 Mar 2020 <br>
 [[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)] [[Notes](./paper_discussions/NeRF.md)]
 
-#### <span style="color:rgb(117, 104, 75)">**NeRF Related Surveys**</span>
+#### **NeRF Related Surveys**
 
 :fire:**State of the Art on Neural Rendering**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer*<br>
@@ -79,7 +79,7 @@ TPAMI 2022, 1 Oct 2022<br>
 In Progress,20 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.10050)]
 
-#### <span style="color:rgb(117, 104, 75)">**NeRF Tutorials**</span>
+#### **NeRF Tutorials**
 
 :fire:**Neural Rendering Course**<br>
 SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
@@ -87,7 +87,7 @@ SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
 :fire:**Neural Volumetric Rendering for Computer Vision**<br>
 ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutorial/home)]
 
-#### <span style="color:rgb(117, 104, 75)">**NeRF OpenSource Tools**</span>
+#### **NeRF OpenSource Tools**
 
 :fire:**Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
@@ -445,7 +445,7 @@ IJCAI 2023, 26 Apr 2023<br>
 
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
-#### <span style="color:rgb(117, 104, 75)">**SLAM Based**</span>
+#### **SLAM Based**
 
 **iMAP: Implicit Mapping and Positioning in Real-Time**<br>
 *Edgar Sucar, Shikun Liu, Joseph Ortiz, Andrew J. Davison*<br>
@@ -462,7 +462,7 @@ CVPR 2022, 22 Dec 2021<br>
 CRV 2023, 8 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.03102)]
 
-#### <span style="color:rgb(117, 104, 75)">** BA & Others</span>
+#### **BA & Others**
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
 *Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin*<br>
