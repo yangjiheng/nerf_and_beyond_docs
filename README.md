@@ -16,6 +16,7 @@ For now, you can join us in the following ways
 * WeChat group, due to the limitation of WeChat group, you can add my personal account: `jiheng_yang`, and I will add you to the chat groups.
 * If you want to view this from a timeline perspective, please refer to this [ProcessOn Diagram](https://www.processon.com/view/link/643f8907f1144c215788f3e2)
 * If you think something is not correct or you think we could do better in some way, please write to us through all possible channels or drop an issue. All suggestions are appreciated!
+* For other discussed techniques that's related to 3D reconstruction and NeRF, please refer to [link](./NeRF_Related_Tech.md), we are constantly trying to add more resource to this document.
 
 ## NeRF progresses
 
@@ -575,7 +576,7 @@ arXiv preprint, 16 Mar 2023<br>
 arXiv preprint, 22 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io/)] [[Github](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
 
-:fire:**Shap-E: Generating Conditional 3D Implicit Functions**
+:fire:**Shap-E: Generating Conditional 3D Implicit Functions**<br>
 *Heewoo Jun, Alex Nichol*<br>
 arXiv preprint, 3 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.02463)] [[Github](https://github.com/openai/shap-e)]
