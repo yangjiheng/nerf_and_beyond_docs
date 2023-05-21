@@ -511,6 +511,15 @@ CVPR 2023, 10 Apr 2023<br>
 
 ### `Diffusion Guided Reconstruction`
 
+#### Survey
+
+**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**<br>
+*Chenghao Li, Chaoning Zhang, Atish Waghwase, Lik-Hang Lee, Francois Rameau, Yang Yang, Sung-Ho Bae, Choong Seon Hong*<br>
+arXiv prepring, 10 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.06131)]
+
+#### Progresses
+
 **Zero-Shot Text-Guided Object Generation with Dream Fields**<br>
 *Ajay Jain, Ben Mildenhall, Jonathan T. Barron, Pieter Abbeel, Ben Poole*<br>
 CVPR 2022, 2 Dec 2021<br>
