@@ -87,6 +87,9 @@ SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
 :fire:**Neural Volumetric Rendering for Computer Vision**<br>
 ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutorial/home)]
 
+:fire:**Scaling NeRF Up and Down: Big Scenes and Real-Time View Synthesis**<br>
+I3D 2023 Keynote [[Video](https://www.bilibili.com/video/BV1fh4y1t7rW/)]
+
 #### **NeRF OpenSource Tools**
 
 :fire:**Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
