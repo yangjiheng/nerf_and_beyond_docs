@@ -802,6 +802,11 @@ CVPR 2022, 29 Nov 2021 <br>
 MM 2022, 3 Dec 2021 <br>
 [[arXiv](https://arxiv.org/abs/2112.01759)] [[Project](https://cwchenwang.github.io/NeRF-SR/)] [[Github](https://github.com/cwchenwang/NeRF-SR)]
 
+**Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields**<br>
+*Ziteng Cui, Lin Gu, Xiao Sun, Yu Qiao, Tatsuya Harada*<br>
+arXiv preprint, 10 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.05807)] [[Project](https://cuiziteng.github.io/Aleth_NeRF_web/)] [[Github](https://github.com/cuiziteng/Aleth-NeRF)]
+
 ### `NeRF + Large Scale Scenes`
 
 :fire:**Urban Radiance Fields**<br>
