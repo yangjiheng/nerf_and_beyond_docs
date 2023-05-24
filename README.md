@@ -236,6 +236,10 @@ arXiv preprint, 5 Jan 2023<br>
 NeurIPS 2022, 01 Nov 2022<br>
 [[OpenReview](https://openreview.net/forum?id=kUnHCGiILeU)] [[Zhihu](https://zhuanlan.zhihu.com/p/581808674)] [[Github](https://github.com/PengYicong/CageNeRF)]
 
+**Robust Dynamic Radiance Fields**<br>
+*Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang*<br>
+CVPR 2023,  5 Jan 2023 <br>
+[[arXiv](https://arxiv.org/abs/2301.02239)] [[Project](https://robust-dynrf.github.io/)] [[Video](https://www.bilibili.com/video/BV15z4y1B7QZ/)]
 
 :fire:**HexPlane: A Fast Representation for Dynamic Scenes**<br>
 *Ang Cao, Justin Johnson*<br>
