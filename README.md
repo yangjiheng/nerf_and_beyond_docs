@@ -256,6 +256,12 @@ CVPR 2023, 24 Jan 2023<br>
 ICLR 2023, 02 Feb 2023<br>
 [[OpenReview](https://openreview.net/forum?id=tVkrbkz42vc)] [[Project](https://xuan-li.github.io/PAC-NeRF/)] [[Github](https://github.com/xuan-li/PAC-NeRF)]
 
+**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**<br>
+*Zhiwen Yan, Chen Li, Gim Hee Lee*<br>
+arXiv preprint, 24 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.14831)]
+
+
 ### `NeRF Training and Rendering Enhancements`
 
 :fire:**Neural Sparse Voxel Fields**<br>
@@ -632,6 +638,11 @@ CVPR 2023, 6 Apr 2023<br>
 arXiv preprint, 13 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://lakonik.github.io/ssdnerf/)] [[Github](https://github.com/Lakonik/SSDNeRF)]
 
+**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**<br>
+*Xinhang Liu, Shiu-hong Kao, Jiaben Chen, Yu-Wing Tai, Chi-Keung Tang*<br>
+arXiv preprint, 24 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.15171)]
+
 ### `SDF Based Reconstruction`
 
 **Neural Point-Based Graphics**<br>
@@ -919,6 +930,11 @@ arXiv preprint, 22 Mar 2023 <br>
 *Chong Bao, Yinda Zhang, Bangbang Yang, Tianxing Fan, Zesong Yang, Hujun Bao, Guofeng Zhang, Zhaopeng Cui*<br>
 CVPR 2023, 23 Mar 2023  <br>
 [[arXiv](https://arxiv.org/abs/2303.13277)] [[Project](https://zju3dv.github.io/sine/)] [[Video](https://www.bilibili.com/video/BV1d84y1u7V2/)]
+
+**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**<br>
+*Dongqing Wang, Tong Zhang, Alaa Abboud, Sabine Süsstrunk*<br>
+arXiv preprint, 24 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.15094)]
 
 ### `NeRF + Open Surface Reconstruction`
 
