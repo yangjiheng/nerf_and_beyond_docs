@@ -216,6 +216,11 @@ CVPR 2021, 24 Jun 2021<br>
 ICCV 2021, 3 Sep 2021<br>
 [[arXiv](https://arxiv.org/abs/2109.01750)] [[Project](https://sites.google.com/view/wbjang/home/codenerf)] [[Github](https://github.com/wbjang/code-nerf)]
 
+**D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**<br>
+*Tianhao Wu, Fangcheng Zhong, Andrea Tagliasacchi, Forrester Cole, Cengiz Oztireli*<br>
+CVPR 2022, 31 May 2022<br>
+[[arXiv](https://arxiv.org/abs/2205.15838)] [[Project](https://d2nerf.github.io/)] [[Github](https://github.com/ChikaYan/d2nerf)]
+
 :fire:**Deforming Radiance Fields with Cages**<br>
 *Tianhan Xu, Tatsuya Harada*<br>
 ECCV 2022, 25 Jul 2022<br>
