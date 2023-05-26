@@ -28,6 +28,11 @@ CVPR 2023, 13 Apr 2023<br>
 arXiv preprint, 15 Jan 2022<br>
 [[arXiv](https://arxiv.org/abs/2201.05816)]
 
+**ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild**<br>
+*Wang Zhao, Shaohui Liu, Hengkai Guo, Wenping Wang, Yong-Jin Liu*<br>
+ECCV 2022, 19 Jul 2022<br>
+[[arXiv](https://arxiv.org/abs/2207.09137)] [[Project](http://b1ueber2y.me/projects/ParticleSfM/)] [[Github](https://github.com/bytedance/particle-sfm)]
+
 **Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses**<br>
 *Eric Brachmann, Tommaso Cavallari, Victor Adrian Prisacariu*<br>
 CVPR 2023, 23 May 2023<br>

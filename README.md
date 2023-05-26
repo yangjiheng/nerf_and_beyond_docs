@@ -749,6 +749,11 @@ ECCV 2022, 4 Dec 2021 <br>
 ECCV 2022, 25 Mar 2022 <br>
 [[arXiv](https://arxiv.org/abs/2203.13817)] [[Project](https://zqbai-jeremy.github.io/autoavatar/)] [[Github](https://github.com/facebookresearch/AutoAvatar)] [[Video](https://www.bilibili.com/video/BV1FW4y1u7xX/)]
 
+**UV Volumes for Real-time Rendering of Editable Free-view Human Performance**<br>
+*Yue Chen, Xuan Wang, Xingyu Chen, Qi Zhang, Xiaoyu Li, Yu Guo, Jue Wang, Fei Wang*<br>
+CVPR 2023, 27 Mar 2022<br>
+[[arXiv](https://arxiv.org/abs/2203.14402)] [[Project](https://fanegg.github.io/UV-Volumes/)] [[Github](https://github.com/fanegg/UV-Volumes)]
+
 **Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**<br>
 *Shuai Shen, Wanhua Li, Zheng Zhu, Yueqi Duan, Jie Zhou, Jiwen Lu*<br>
 ECCV 2022, 24 Jul 2022 <br>
