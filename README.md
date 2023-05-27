@@ -648,6 +648,11 @@ arXiv preprint, 13 Apr 2023<br>
 arXiv preprint, 24 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.15171)]
 
+**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
+*Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
+arXiv preprint, 25 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] [[Unofficial Implementation](https://github.com/threestudio-project/threestudio/tree/prolific-dreamer)]
+
 ### `SDF Based Reconstruction`
 
 **Neural Point-Based Graphics**<br>
