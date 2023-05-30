@@ -10,6 +10,11 @@ Other NeRF and 3D reconstruction related technology are noted here.
 
 ### Monocular Depth Estimation
 
+**Vision Transformers for Dense Prediction**<br>
+*René Ranftl, Alexey Bochkovskiy, Vladlen Koltun*<br>
+arXiv preprint, later TPAMI, 24 Mar 2021<br>
+[[arXiv](https://arxiv.org/abs/2103.13413)] [[Github](https://github.com/isl-org/DPT)]
+
 **Single Image Depth Estimation: An Overview**<br>
 *Alican Mertan, Damien Jade Duff, Gozde Unal*<br>
 arXiv preprint, 13 Apr 2021<br>

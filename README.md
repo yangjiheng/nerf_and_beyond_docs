@@ -31,7 +31,7 @@ For now, you can join us in the following ways
 - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
 - [Camera Pose Estimation & Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
 - [Diffusion Guided Reconstruction](#diffusion-guided-reconstruction)
-- [SDF Based Reconstruction](#sdf-based-reconstruction)
+- [SDF Based Reconstruction/Other Geometry Based](#sdf-based-reconstruction--other-geometry-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
 - [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
 - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
@@ -653,7 +653,7 @@ arXiv preprint, 24 May 2023<br>
 arXiv preprint, 25 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] [[Unofficial Implementation](https://github.com/threestudio-project/threestudio/tree/prolific-dreamer)]
 
-### `SDF Based Reconstruction`
+### `SDF Based Reconstruction / Other Geometry Based Reconstruction`
 
 **Neural Point-Based Graphics**<br>
 *Kara-Ali Aliev, Artem Sevastopolsky, Maria Kolos, Dmitry Ulyanov, Victor Lempitsky*<br>
@@ -694,6 +694,11 @@ CVPR 2022,  24 Mar 2022<br>
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
 CVPR 2023, 9 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.05594)] [[Github](https://arxiv.org/abs/2305.05594)]
+
+**NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support**<br>
+*Xinyue Wei, Fanbo Xiang, Sai Bi, Anpei Chen, Kalyan Sunkavalli, Zexiang Xu, Hao Su*<br>
+arXiv preprint, 26 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.17134)] [[Project](https://sarahweiii.github.io/neumanifold/)]
 
 ### `NeRF + Hardware Acceleration`
 
@@ -809,6 +814,10 @@ arXiv preprint, 12 May 2023 <br>
 arXiv preprint, 15 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.08296)]
 
+**NCHO: Unsupervised Learning for Neural 3D Composition of Humans and Objects**<br>
+*Taeksoo Kim, Shunsuke Saito, Hanbyul Joo*<br>
+arXiv preprint, 23 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.14345)] [[Project](https://taeksuu.github.io/ncho/)]
 
 ### `NeRF + Imaging Tasks`
 
