@@ -31,7 +31,8 @@ For now, you can join us in the following ways
 - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
 - [Camera Pose Estimation & Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
 - [Diffusion Guided Reconstruction](#diffusion-guided-reconstruction)
-- [SDF Based Reconstruction/Other Geometry Based](#sdf-based-reconstruction--other-geometry-based-reconstruction)
+- [Generalization](#generalization)
+- [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
 - [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
 - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
@@ -160,6 +161,11 @@ arXiv preprint, 20 Apr 2023<br>
 CVPR 2023, 7 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.04268)] [[Project](https://zx-yin.github.io/msnerf/)] [[Github](https://github.com/ZX-Yin/ms-nerf)] [[Video](https://www.bilibili.com/video/BV1NX4y117mL/)] [[Notes](./paper_discussions/ms-nerf.md)]
 
+**NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support**<br>
+*Xinyue Wei, Fanbo Xiang, Sai Bi, Anpei Chen, Kalyan Sunkavalli, Zexiang Xu, Hao Su*<br>
+arXiv preprint, 26 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.17134)] [[Project](https://sarahweiii.github.io/neumanifold/)] [[Video](https://www.bilibili.com/video/BV1qX4y1h7ku/)]
+
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
@@ -267,7 +273,7 @@ arXiv preprint, 24 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.14831)]
 
 
-### `NeRF Training and Rendering Enhancements`
+### `NeRF Training and Rendering Speed Enhancements`
 
 :fire:**Neural Sparse Voxel Fields**<br>
 *Lingjie Liu, Jiatao Gu, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt*<br>
@@ -374,6 +380,11 @@ arXiv preprint, 23 Feb 2023<br>
 arXiv preprint, 28 Feb 2023<br>
 [[arXiv](https://arxiv.org/abs/2302.14859)] [[Project](https://bakedsdf.github.io/)]
 
+**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**<br>
+*Kang Han, Wei Xiang, Lu Yu*<br>
+arXiv preprint, 29 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.17916)]
+
 ### `One-Shot/Few-Shot Sparse View Reconstruction`
 
 :fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
@@ -435,6 +446,11 @@ arXiv preprint, 18 Dec 2022<br>
 *Naveen Venkat, Mayank Agarwal, Maneesh Singh, Shubham Tulsiani*<br>
 arXiv preprint, 11 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.04650)] [[Project](https://mayankgrwl97.github.io/gbt/)] [[Github](https://github.com/mayankgrwl97/gbt)]
+
+**Behind the Scenes: Density Fields for Single View Reconstruction**<br>
+*Felix Wimbauer, Nan Yang, Christian Rupprecht, Daniel Cremers*<br>
+CVPR 2023, 18 Jan 2023<br>
+[[arXiv](https://arxiv.org/abs/2301.07668)] [[Project](https://fwmb.github.io/bts/)] [[Github](https://github.com/Brummi/BehindTheScenes)] [[Video](https://www.bilibili.com/video/BV1Pc411V7aP/)]
 
 **NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**<br>
 *Jiatao Gu, Alex Trevithick, Kai-En Lin, Josh Susskind, Christian Theobalt, Lingjie Liu, Ravi Ramamoorthi*<br>
@@ -648,10 +664,17 @@ arXiv preprint, 13 Apr 2023<br>
 arXiv preprint, 24 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.15171)]
 
-**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
+:fire:**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
 *Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
 arXiv preprint, 25 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] [[Unofficial Implementation](https://github.com/threestudio-project/threestudio/tree/prolific-dreamer)]
+
+### `Generalization`
+
+**Local Implicit Ray Function for Generalizable Radiance Field Representation**<br>
+*Xin Huang, Qi Zhang, Ying Feng, Xiaoyu Li, Xuan Wang, Qing Wang*<br>
+CVPR 2023, 25 Apr 2023<br>
+[[arXiv](https://arxiv.org/abs/2304.12746)] [[Project](https://xhuangcv.github.io/lirf/)] [[Video](https://www.bilibili.com/video/BV1nm4y14743/)]
 
 ### `SDF Based Reconstruction / Other Geometry Based Reconstruction`
 
