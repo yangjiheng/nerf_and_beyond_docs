@@ -210,6 +210,11 @@ NeurIPS 2020, 17 Jun 2020<br>
 ICLR 2021, 13 Jan 2021<br>
 [[OpenReview](https://openreview.net/forum?id=OmtmcPkkhT)]
 
+**PREF: Phasorial Embedding Fields for Compact Neural Representations**<br>
+*Binbin Huang, Xinhao Yan, Anpei Chen, Shenghua Gao, Jingyi Yu*<br>
+arXiv preprint, 26 May 2022<br>
+[[avXiv](https://arxiv.org/abs/2205.13524)]
+
 ### `Positional Encoding`
 
 **Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains**<br>
