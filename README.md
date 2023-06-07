@@ -25,7 +25,7 @@ For now, you can join us in the following ways
 - [New to NeRF](#new-to-nerf)
 - [NeRF Fundamental Enhancements](#nerf-fundamental-enhancements)
 - [Activation Function Optimization](#activation-function-optimization)
-- [Positional Encoding]
+- [Positional Encoding](#positional-encoding)
 - [Robust Reconstruction \& Depth Supervised Reconstruction](#robust-reconstruction--depth-supervised-reconstruction)
 - [Deformable & Dynamic NeRF](#deformable--dynamic-nerf)
 - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-enhancements)
