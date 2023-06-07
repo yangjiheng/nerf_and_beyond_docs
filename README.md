@@ -25,6 +25,7 @@ For now, you can join us in the following ways
 - [New to NeRF](#new-to-nerf)
 - [NeRF Fundamental Enhancements](#nerf-fundamental-enhancements)
 - [Activation Function Optimization](#activation-function-optimization)
+- [Positional Encoding]
 - [Robust Reconstruction \& Depth Supervised Reconstruction](#robust-reconstruction--depth-supervised-reconstruction)
 - [Deformable & Dynamic NeRF](#deformable--dynamic-nerf)
 - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-enhancements)
@@ -206,6 +207,18 @@ NeurIPS 2020, 17 Jun 2020<br>
 *Rizal Fathony, Anit Kumar Sahu, Devin Willmott, J Zico Kolter*<br>
 ICLR 2021, 13 Jan 2021<br>
 [[OpenReview](https://openreview.net/forum?id=OmtmcPkkhT)]
+
+### `Positional Encoding`
+
+**Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains**<br>
+*Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng*<br>
+arXiv preprint, 18 Jun 2020<br>
+[[arXiv](https://arxiv.org/abs/2006.10739)]
+
+**BACON: Band-limited Coordinate Networks for Multiscale Scene Representation**<br>
+*David B. Lindell, Dave Van Veen, Jeong Joon Park, Gordon Wetzstein*<br>
+CVPR 2022, 9 Dec 2021<br>
+[[arXiv](https://arxiv.org/abs/2112.04645)] [[Project](https://www.computationalimaging.org/publications/bacon/)] 
 
 ### `Deformable & Dynamic NeRF`
 
