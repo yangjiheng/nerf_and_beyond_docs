@@ -31,7 +31,8 @@ For now, you can join us in the following ways
 - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-enhancements)
 - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
 - [Camera Pose Estimation & Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
-- [Diffusion Guided Reconstruction](#diffusion-guided-reconstruction)
+- [Text to 3D](#text-to-3d)
+- [Diffusion Based NeRF Reconstruction]
 - [Generalization](#generalization)
 - [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
@@ -583,7 +584,7 @@ CVPR 2023, 28 Mar 2023<br>
 CVPR 2023, 10 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.04848)] [[Project](https://neural-lens.github.io/)]
 
-### `Diffusion Guided Reconstruction`
+### `Text to 3D`
 
 #### Survey
 
@@ -634,11 +635,6 @@ CVPR 2023, 1 Dec 2022<br>
 CVPR 2023, 1 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.00792)] [[Project](https://sparsefusion.github.io/)] [[Github](https://github.com/zhizdev/sparsefusion)]
 
-**DiffRF: Rendering-Guided 3D Radiance Field Diffusion**<br>
-*Ashkan Mirzaei, Yash Kant, Jonathan Kelly, Igor Gilitschenski*<br>
-CVPR 2023, 2 Dec 2022<br>
-[[arXiv](https://arxiv.org/abs/2212.01206)] [[Project](https://sirwyver.github.io/DiffRF/)]
-
 :fire:**Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**<br>
 *Jiale Xu, Xintao Wang, Weihao Cheng, Yan-Pei Cao, Ying Shan, Xiaohu Qie, Shenghua Gao*<br>
 CVPR 2023, 28 Dec 2022<br>
@@ -654,35 +650,15 @@ arXiv preprint, 26 Jan 2023<br>
 arXiv preprint, 16 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.09553)] [[Project](https://www.lerf.io/)] [[Github](https://github.com/kerrj/lerf)]
 
-:fire:**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**<br>
-*Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa*<br>
-arXiv preprint, 22 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.12789)] [[Project](https://instruct-nerf2nerf.github.io/)] [[Github](https://github.com/ayaanzhaque/instruct-nerf2nerf)]
-
 :fire:**Shap-E: Generating Conditional 3D Implicit Functions**<br>
 *Heewoo Jun, Alex Nichol*<br>
 arXiv preprint, 3 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.02463)] [[Github](https://github.com/openai/shap-e)]
 
-:fire:**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**<br>
-*Anchit Gupta, Wenhan Xiong, Yixin Nie, Ian Jones, Barlas Oğuz*<br>
-arXiv preprint, 9 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.05371)]
-
-:fire:**MeshDiffusion: Score-based Generative 3D Mesh Modeling**<br>
-*Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu*<br>
-ICLR 2023, 14 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.08133)] [[Project](https://meshdiffusion.github.io/)] [[Github](https://github.com/lzzcd001/MeshDiffusion/)]
-
 :fire:**DreamBooth3D: Subject-Driven Text-to-3D Generation**<br>
 *Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani*<br>
 arXiv preprint, 23 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.13508)] [[Project](https://dreambooth3d.github.io/)]
-
-:fire:**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**<br>
-*Junshu Tang, Tengfei Wang, Bo Zhang, Ting Zhang, Ran Yi, Lizhuang Ma, Dong Chen*<br>
-arXiv preprint, 23 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.14184)] [[Project](https://make-it-3d.github.io/)] [[Github](https://github.com/junshutang/Make-It-3D)] [[Notes](./paper_discussions/Make-It-3D.md)]
 
 **Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation**<br>
 *Rui Chen, Yongwei Chen, Ningxin Jiao, Kui Jia*<br>
@@ -694,20 +670,43 @@ arXiv preprint, 24 Mar 2023<br>
 CVPR 2023, 6 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://janeyeon.github.io/ditto-nerf/)] [[Github](https://github.com/janeyeon/ditto-nerf-code)]
 
+:fire:**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
+*Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
+arXiv preprint, 25 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] [[Unofficial Implementation](https://github.com/threestudio-project/threestudio/tree/prolific-dreamer)]
+
+### `Diffusion Based NeRF Reconstruction`
+
+**DiffRF: Rendering-Guided 3D Radiance Field Diffusion**<br>
+*Ashkan Mirzaei, Yash Kant, Jonathan Kelly, Igor Gilitschenski*<br>
+CVPR 2023, 2 Dec 2022<br>
+[[arXiv](https://arxiv.org/abs/2212.01206)] [[Project](https://sirwyver.github.io/DiffRF/)]
+
+:fire:**3DGen: Triplane Latent Diffusion for Textured Mesh Generation**<br>
+*Anchit Gupta, Wenhan Xiong, Yixin Nie, Ian Jones, Barlas Oğuz*<br>
+arXiv preprint, 9 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.05371)]
+
+:fire:**MeshDiffusion: Score-based Generative 3D Mesh Modeling**<br>
+*Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu*<br>
+ICLR 2023, 14 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.08133)] [[Project](https://meshdiffusion.github.io/)] [[Github](https://github.com/lzzcd001/MeshDiffusion/)]
+
 **Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**<br>
 *Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su*<br>
 arXiv preprint, 13 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://lakonik.github.io/ssdnerf/)] [[Github](https://github.com/Lakonik/SSDNeRF)]
+
+:fire:**Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior**<br>
+*Junshu Tang, Tengfei Wang, Bo Zhang, Ting Zhang, Ran Yi, Lizhuang Ma, Dong Chen*<br>
+arXiv preprint, 23 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.14184)] [[Project](https://make-it-3d.github.io/)] [[Github](https://github.com/junshutang/Make-It-3D)] [[Notes](./paper_discussions/Make-It-3D.md)]
 
 **Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**<br>
 *Xinhang Liu, Shiu-hong Kao, Jiaben Chen, Yu-Wing Tai, Chi-Keung Tang*<br>
 arXiv preprint, 24 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.15171)]
 
-:fire:**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
-*Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
-arXiv preprint, 25 May 2023<br>
-[[arXiv](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] [[Unofficial Implementation](https://github.com/threestudio-project/threestudio/tree/prolific-dreamer)]
 
 ### `Generalization`
 
