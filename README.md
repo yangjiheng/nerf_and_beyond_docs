@@ -52,6 +52,7 @@ For now, you can join us in the following ways
 - [NeRF + Other Applications](#nerf--other-applications)
 - [NeRF + Quality Metric](#nerf--quality-metric)
 - [Datasets](#datasets)
+- [Neural Surface Reconstruction]()
 
 ### `New to NeRF`
 
@@ -1156,6 +1157,18 @@ arXiv preprint, 29 May 2023<br>
 *Xianggang Yu, Mutian Xu, Yidan Zhang, Haolin Liu, Chongjie Ye, Yushuang Wu, Zizheng Yan, Chenming Zhu, Zhangyang Xiong, Tianyou Liang, Guanying Chen, Shuguang Cui, Xiaoguang Han*<br>
 CVPR 2023, 10 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.06042)] [[Project](https://gaplab.cuhk.edu.cn/projects/MVImgNet/#table_stat)] [[Github](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet)] [[Notes](./paper_discussions/MVImgNet.md)]
+
+### `Neural Surface Reconstruction`
+
+**Neural Kernel Surface Reconstruction**<br>
+*Jiahui Huang, Zan Gojcic, Matan Atzmon, Or Litany, Sanja Fidler, Francis Williams*<br>
+CVPR 2023, 31 May 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.19590)]
+
+**Neuralangelo: High-Fidelity Neural Surface Reconstruction**<br>
+*Zhaoshuo Li, Thomas Müller, Alex Evans, Russell H. Taylor, Mathias Unberath, Ming-Yu Liu, Chen-Hsuan Lin*<br>
+CVPR 2023, 5 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.03092)] [[Project](https://research.nvidia.com/labs/dir/neuralangelo)] [[Video](https://www.bilibili.com/video/BV1mh4y1d7rX/)]
 
 ## Contributors
 
