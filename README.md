@@ -32,7 +32,7 @@ For now, you can join us in the following ways
 - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
 - [Camera Pose Estimation & Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
 - [Text to 3D](#text-to-3d)
-- [Diffusion Based NeRF Reconstruction]
+- [Diffusion Based NeRF Reconstruction](#diffusion-based-nerf-reconstruction)
 - [Generalization](#generalization)
 - [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
