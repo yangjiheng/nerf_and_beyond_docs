@@ -1013,6 +1013,11 @@ CVPR 2023, 19 Apr 2022 <br>
 CVPR 2023, 19 Apr 2022 <br>
 [[arXiv](https://arxiv.org/abs/2211.13226)] [[Project](https://climatenerf.github.io/)] [[Video](https://www.bilibili.com/video/BV1B8411J7vV/)]
 
+**NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing**<br>
+*Bangbang Yang, Chong Bao, Junyi Zeng, Hujun Bao, Yinda Zhang, Zhaopeng Cui, Guofeng Zhang*<br>
+CVPR 2022, 25 Jul 2022<br>
+[[arXiv](https://arxiv.org/abs/2207.11911)] [[Project](https://zju3dv.github.io/neumesh/)] [[Github](https://github.com/zju3dv/neumesh)]
+
 :fire:**SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields**<br>
 *Ashkan Mirzaei, Tristan Aumentado-Armstrong, Konstantinos G. Derpanis, Jonathan Kelly, Marcus A. Brubaker, Igor Gilitschenski, Alex Levinshtein*<br>
 CVPR 2023, 22 Nov 2022 <br>
@@ -1048,10 +1053,20 @@ arXiv preprint, 22 Mar 2023 <br>
 CVPR 2023, 23 Mar 2023  <br>
 [[arXiv](https://arxiv.org/abs/2303.13277)] [[Project](https://zju3dv.github.io/sine/)] [[Video](https://www.bilibili.com/video/BV1d84y1u7V2/)]
 
+**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**<br>
+*Konstantinos Tertikas, Despoina Paschalidou, Boxiao Pan, Jeong Joon Park, Mikaela Angelina Uy, Ioannis Emiris, Yannis Avrithis, Leonidas Guibas*<br>
+CVPR 2023, 16 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.09554)] [[Project](https://ktertikas.github.io/part_nerf)] [[Github](https://github.com/ktertikas/part_nerf)]
+
 **InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**<br>
 *Dongqing Wang, Tong Zhang, Alaa Abboud, Sabine Süsstrunk*<br>
 arXiv preprint, 24 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.15094)]
+
+**FusedRF: Fusing Multiple Radiance Fields**<br>
+*Rahul Goel, Dhawal Sirikonda, Rajvi Shah, PJ Narayanan*<br>
+CVPR Workshop,  7 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.04180)]
 
 ### `NeRF + Open Surface Reconstruction`
 
