@@ -237,7 +237,7 @@ ICCV 2021, 25 Nov 2020<br>
 **Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes**<br>
 *Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang*<br>
 CVPR 2021, 26 Nov 2020<br>
-[[arXiv](https://arxiv.org/abs/2011.13084)] [[Github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)]
+[[arXiv](https://arxiv.org/abs/2011.13084)] [[Project](http://www.cs.cornell.edu/~zl548/NSFF/)] [[Github](https://github.com/zhengqili/Neural-Scene-Flow-Fields)]
 
 **HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields**<br>
 *Keunhong Park, Utkarsh Sinha, Peter Hedman, Jonathan T. Barron, Sofien Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, Steven M. Seitz*<br>
@@ -542,6 +542,11 @@ CVPR 2022, 22 Dec 2021<br>
 *Daniil Lisus, Connor Holmes, Steven Waslander*<br>
 CRV 2023, 8 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.03102)]
+
+**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**<br>
+*Chenxing Jiang, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen*<br>
+IEEE Robotics and Automation Letters,  5 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.03207)] [[Github](https://github.com/SYSU-STAR/H2-Mapping)] [[Video](https://www.bilibili.com/video/BV1Ku411Y7JU/)]
 
 #### **BA & Others**
 
