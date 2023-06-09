@@ -249,6 +249,11 @@ CVPR 2021, 24 Jun 2021<br>
 ICCV 2021, 3 Sep 2021<br>
 [[arXiv](https://arxiv.org/abs/2109.01750)] [[Project](https://sites.google.com/view/wbjang/home/codenerf)] [[Github](https://github.com/wbjang/code-nerf)]
 
+**Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation**<br>
+*Abhijit Kundu, Kyle Genova, Xiaoqi Yin, Alireza Fathi, Caroline Pantofaru, Leonidas Guibas, Andrea Tagliasacchi, Frank Dellaert, Thomas Funkhouser*<br>
+CVPR 2022, 9 May 2022<br>
+[[arXiv](https://arxiv.org/abs/2205.04334)] [[Project](https://abhijitkundu.info/projects/pnf/)]
+
 **D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video**<br>
 *Tianhao Wu, Fangcheng Zhong, Andrea Tagliasacchi, Forrester Cole, Cengiz Oztireli*<br>
 CVPR 2022, 31 May 2022<br>
@@ -543,11 +548,6 @@ CVPR 2022, 22 Dec 2021<br>
 CRV 2023, 8 Jan 2023<br>
 [[arXiv](https://arxiv.org/abs/2301.03102)]
 
-**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**<br>
-*Chenxing Jiang, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen*<br>
-IEEE Robotics and Automation Letters,  5 Jun 2023<br>
-[[arXiv](https://arxiv.org/abs/2306.03207)] [[Github](https://github.com/SYSU-STAR/H2-Mapping)] [[Video](https://www.bilibili.com/video/BV1Ku411Y7JU/)]
-
 #### **BA & Others**
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
@@ -594,6 +594,16 @@ CVPR 2023, 28 Mar 2023<br>
 *Wenqi Xian, Aljaž Božič, Noah Snavely, Christoph Lassner*<br>
 CVPR 2023, 10 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.04848)] [[Project](https://neural-lens.github.io/)]
+
+**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**<br>
+*Chenxing Jiang, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen*<br>
+IEEE Robotics and Automation Letters,  5 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.03207)] [[Github](https://github.com/SYSU-STAR/H2-Mapping)] [[Video](https://www.bilibili.com/video/BV1Ku411Y7JU/)]
+
+**LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**<br>
+*Zezhou Cheng, Carlos Esteves, Varun Jampani, Abhishek Kar, Subhransu Maji, Ameesh Makadia*<br>
+arXiv preprint, 8 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.05410)] [[Project](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)]
 
 ### `Text to 3D`
 
@@ -685,6 +695,11 @@ CVPR 2023, 6 Apr 2023<br>
 *Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
 arXiv preprint, 25 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.16213)] [[Project](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)] [[Unofficial Implementation](https://github.com/threestudio-project/threestudio/tree/prolific-dreamer)]
+
+**ATT3D: Amortized Text-to-3D Object Synthesis**<br>
+*Jonathan Lorraine, Kevin Xie, Xiaohui Zeng, Chen-Hsuan Lin, Towaki Takikawa,Nicholas Sharp, Tsung-Yi Lin, Ming-Yu Liu, Sanja Fidler, James Lucas*<br>
+nVidia release<br>
+[[Project](https://research.nvidia.com/labs/toronto-ai/ATT3D/?=&linkId=100000204660845)]
 
 ### `Diffusion Based NeRF Reconstruction`
 

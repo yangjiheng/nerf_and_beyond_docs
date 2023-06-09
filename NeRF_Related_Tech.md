@@ -42,3 +42,11 @@ ECCV 2022, 19 Jul 2022<br>
 *Eric Brachmann, Tommaso Cavallari, Victor Adrian Prisacariu*<br>
 CVPR 2023, 23 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.14059)] [[Project](https://nianticlabs.github.io/ace/)] [[Github](https://github.com/nianticlabs/ace)]
+
+
+## Street Reconstruction
+
+**StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views**<br>
+*Jianfei Guo, Nianchen Deng, Xinyang Li, Yeqi Bai, Botian Shi, Chiyu Wang, Chenjing Ding, Dongliang Wang, Yikang Li*<br>
+arXiv preprint, 8 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.04988)] [[Project](https://ventusff.github.io/streetsurf_web/)] [[Github](https://github.com/pjlab-ADG/neuralsim)]
