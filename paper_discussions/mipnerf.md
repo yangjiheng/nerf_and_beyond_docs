@@ -16,3 +16,7 @@ A:
 <img src="./imgs/mip_nerf_3.jpg"></img>
 
 采样点要在这个圆锥范围内，这一项表示角度关系，最大的角度就是你arctan(像素半径/方向的模长)
+
+A:
+<img src="./imgs/mip_nerf_4.jpg"></img>
+<img src="./imgs/mip_nerf_5.jpg"></img>
