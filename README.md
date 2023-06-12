@@ -176,6 +176,16 @@ arXiv preprint, 26 May 2023<br>
 arXiv preprint, 1 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.00696)] [[Project](http://nerfinternals.github.io/)]
 
+**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**<br>
+*Barbara Roessle, Norman Müller, Lorenzo Porzi, Samuel Rota Bulò, Peter Kontschieder, Matthias Nießner*<br>
+arXiv preprint, 9 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.06044)] [[Video](https://www.bilibili.com/video/BV1fW4y1X7JU/)]
+
+**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**<br>
+*Bipasha Sen, Gaurav Singh, Aditya Agarwal, Rohith Agaram, K Madhava Krishna, Srinath Sridhar*<br>
+arXiv preprint, 9 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.06093)]
+
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
