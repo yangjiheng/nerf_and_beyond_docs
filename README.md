@@ -768,15 +768,15 @@ NeurIPS 2020, 22 Mar 2020<br>
 CVPR 2022,  9 Apr 2021<br>
 [[arXiv](https://arxiv.org/abs/2003.09852)] [[Project](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/)] [[Github](https://github.com/dazinovic/neural-rgbd-surface-reconstruction)]
 
-**Volume Rendering of Neural Implicit Surfaces**<br>
-*Lior Yariv, Jiatao Gu, Yoni Kasten, Yaron Lipman*<br>
-NeurIPS 2021, 22 Jun 2021 <br>
-[[arXiv](https://arxiv.org/abs/2106.12052)] [[Project](https://lioryariv.github.io/volsdf/)] [[Github](https://github.com/lioryariv/volsdf)]
-
 :fire:**NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction**<br>
 *Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, Wenping Wang*<br>
 NeurIPS 2021, 20 Jun 2021  <br>
 [[arXiv](https://arxiv.org/abs/2106.10689)] [[Project](https://lingjie0206.github.io/papers/NeuS/)] [[Github](https://github.com/Totoro97/NeuS)]
+
+**Volume Rendering of Neural Implicit Surfaces**<br>
+*Lior Yariv, Jiatao Gu, Yoni Kasten, Yaron Lipman*<br>
+NeurIPS 2021, 22 Jun 2021 <br>
+[[arXiv](https://arxiv.org/abs/2106.12052)] [[Project](https://lioryariv.github.io/volsdf/)] [[Github](https://github.com/lioryariv/volsdf)]
 
 **HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details**<br>
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
@@ -797,6 +797,13 @@ CVPR 2023, 9 May 2023<br>
 *Xinyue Wei, Fanbo Xiang, Sai Bi, Anpei Chen, Kalyan Sunkavalli, Zexiang Xu, Hao Su*<br>
 arXiv preprint, 26 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.17134)] [[Project](https://sarahweiii.github.io/neumanifold/)]
+
+#### **Normal prior**
+
+**NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors**<br>
+*Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang*<br>
+arXiv preprint, 27 Jun 2022<br>
+[[arXiv](https://arxiv.org/abs/2206.13597)] [[Project](https://jiepengwang.github.io/NeuRIS/)] [[Github](https://github.com/jiepengwang/NeuRIS)]
 
 ### `NeRF + Hardware Acceleration`
 
