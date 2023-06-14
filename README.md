@@ -1100,6 +1100,11 @@ arXiv preprint, 24 May 2023<br>
 CVPR Workshop,  7 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.04180)]
 
+**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**<br>
+*Xingchen Zhou, Ying He, F. Richard Yu, Jianqiang Li, You Li*<br>
+IJCAI 2023, 9 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.05668)] [[Github](https://repaintnerf.github.io/)]
+
 ### `NeRF + Open Surface Reconstruction`
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
