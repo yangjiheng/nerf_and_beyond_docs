@@ -529,6 +529,11 @@ CVPR 2023, 20 Mar 2023<br>
 IJCAI 2023, 26 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.13386)] [[Github](https://github.com/SJoJoK/VGOS)]
 
+**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**<br>
+*Nagabhushan Somraj, Rajiv Soundararajan*<br>
+SIGGRAPH 2023, 28 Apr 2023<br>
+[[arXiv](https://arxiv.org/abs/2305.00041)] [[Project](https://nagabhushansn95.github.io/publications/2023/ViP-NeRF.html)] [[Github](https://github.com/NagabhushanSN95/ViP-NeRF)] [[Video](https://www.bilibili.com/video/BV1gg4y1K7QV/)]
+
 **DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**<br>
 *Jiuhn Song, Seonghoon Park, Honggyu An, Seokju Cho, Min-Seop Kwak, Sungjin Cho, Seungryong Kim*<br>
 arXiv preprint, 30 May 2023<br>
