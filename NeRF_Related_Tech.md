@@ -43,6 +43,15 @@ ECCV 2022, 19 Jul 2022<br>
 CVPR 2023, 23 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.14059)] [[Project](https://nianticlabs.github.io/ace/)] [[Github](https://github.com/nianticlabs/ace)]
 
+**Detector-Free Structure from Motion**<br>
+*Xingyi He, Jiaming Sun, Yifan Wang, Sida Peng, Qixing Huang, Hujun Bao, Xiaowei Zhou*<br>
+arXiv preprint, 27 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.15669)] [[Project](https://zju3dv.github.io/DetectorFreeSfM/)]
+
+**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**<br>
+*Jianyuan Wang, Christian Rupprecht, David Novotny*<br>
+arXiv preprint, 27 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.15667)] [[Project](https://posediffusion.github.io/)]
 
 ## Street Reconstruction
 
