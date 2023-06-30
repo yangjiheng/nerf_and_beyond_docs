@@ -716,6 +716,11 @@ arXiv preprint, 25 May 2023<br>
 nVidia release<br>
 [[Project](https://research.nvidia.com/labs/toronto-ai/ATT3D/?=&linkId=100000204660845)]
 
+**One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization**<br>
+*Minghua Liu, Chao Xu, Haian Jin, Linghao Chen, Mukund Varma T, Zexiang Xu, Hao Su*<br>
+arXiv preprint, 29 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.16928)] [[Project](http://one-2-3-45.com/)] [[Github](https://github.com/One-2-3-45/One-2-3-45)]
+
 ### `Diffusion Based NeRF Reconstruction`
 
 **DiffRF: Rendering-Guided 3D Radiance Field Diffusion**<br>
