@@ -1183,6 +1183,31 @@ AAAI 2023, 29 Nov 2022 <br>
 EMBC 2022, 2 Feb 2022 <br>
 [[arXiv](https://arxiv.org/abs/2202.01020)] [[Github](https://github.com/abrilcf/mednerf)]
 
+**NeAT: Neural Adaptive Tomography**<br>
+*Darius Rückert, Yuanhao Wang, Rui Li, Ramzi Idoughi, Wolfgang Heidrich*<br>
+arXiv preprint, 4 Feb, 2022<br>
+[[arXiv](https://arxiv.org/abs/2202.02171)]
+
+**NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction**<br>
+*Ruyi Zha, Yanhao Zhang, Hongdong Li*<br>
+MICCAI 2022, 29 Sep 2022<br>
+[[arXiv](https://arxiv.org/abs/2209.14540)]
+
+**SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields**<br>
+*Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen*<br>
+arXiv preprint, 30 Nov 2022<br>
+[[arXiv](https://arxiv.org/abs/2211.17048)]
+
+**Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction**<br>
+*Yiqun Lin, Zhongjin Luo, Wei Zhao, Xiaomeng Li*<br>
+arXiv preprint, 12 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.06681)]
+
+**Geometry-Aware Attenuation Field Learning for Sparse-View CBCT Reconstruction**<br>
+*Zhentao Liu, Yu Fang, Changjian Li, Han Wu, Yuan Liu, Zhiming Cui, Dinggang Shen*<br>
+arXiv preprint, 26 Mar, 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.14739)]
+
 
 ### `NeRF + Inverse Rendering`
 
