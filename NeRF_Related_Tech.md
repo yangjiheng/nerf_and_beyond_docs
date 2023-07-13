@@ -26,7 +26,7 @@ CVPR 2023, 13 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.06334)] [[Project](https://www.vis.xyz/pub/idisc/)] [[Notes](./paper_discussions/iDisc.md)]
 
 
-## Canera Pose Estimation
+## Camera Pose Estimation
 
 **A Critical Analysis of Image-based Camera Pose Estimation Techniques**<br>
 *Meng Xu, Youchen Wang, Bin Xu, Jun Zhang, Jian Ren, Stefan Poslad, Pengfei Xu*<br>
