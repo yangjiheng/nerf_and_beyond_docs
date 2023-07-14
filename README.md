@@ -49,6 +49,7 @@ For now, you can join us in the following ways
 - [NeRF + Model Conversion](#nerf--model-conversion)
 - [NeRF + Medical/Biology](#nerf--medicalbiology)
 - [NeRF + Inverse Rendering](#nerf--inverse-rendering)
+- [NeRF + Texture Synthesis](#nerf--texture-synthesis)
 - [NeRF + Other Applications](#nerf--other-applications)
 - [NeRF + Quality Metric](#nerf--quality-metric)
 - [Datasets](#datasets)
@@ -1115,6 +1116,11 @@ CVPR Workshop,  7 Jun 2023<br>
 IJCAI 2023, 9 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.05668)] [[Github](https://repaintnerf.github.io/)]
 
+**Relighting Neural Radiance Fields With Shadow and Highlight Hints**<br>
+*Chong Zeng, Guojun Chen, Yue Dong, Pieter Peers, Hongzhi Wu, Xin Tong*<br>
+SIGGRAPH 2023
+[[Paper](https://nrhints.github.io/pdfs/nrhints-sig23.pdf)] [[Project](https://nrhints.github.io/)] [[Github](https://github.com/iamNCJ/NRHints)]
+
 ### `NeRF + Open Surface Reconstruction`
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
@@ -1225,6 +1231,19 @@ CVPR 2023, 24 Apr 2023 <br>
 *Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker*<br>
 SIGGRAPH 2023, 3 May 2023 <br>
 [[arXiv](https://arxiv.org/abs/2305.02192)] [[Notes](./paper_discussions/InverseGlobalIllumination.md)]
+
+### `NeRF + Texture Synthesis`
+
+**NeRF-Tex: Neural Reflectance Field Textures**<br>
+*Hendrik Baatz, Jonathan Granskog, Marios Papas, Fabrice Rousselle, Jan Novák*<br>
+EGSR 2021, 22 Jun, 2021<br>
+[[Paper](https://d1qx31qr3h6wln.cloudfront.net/publications/NeRFTex.pdf)] [[Project](https://research.nvidia.com/publication/2021-06_nerf-tex-neural-reflectance-field-textures)]
+
+**NeRF-Texture: Texture Synthesis With Neural Radiance Fields**<br>
+*Yihua Huang, Yan-Pei Cao, Yu-Kun Lai, Ying Shan, Lin Gao*<br>
+SIGGRAPH 2023<br>
+[[Video](https://www.bilibili.com/video/BV1UW4y1f7oK/)]
+
 
 ### `Other 3D Generative Work`
 
