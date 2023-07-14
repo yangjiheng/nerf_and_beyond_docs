@@ -28,7 +28,7 @@ For now, you can join us in the following ways
 - [Positional Encoding](#positional-encoding)
 - [Robust Reconstruction \& Depth Supervised Reconstruction](#robust-reconstruction--depth-supervised-reconstruction)
 - [Deformable & Dynamic NeRF](#deformable--dynamic-nerf)
-- [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-enhancements)
+- [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-speed-enhancements)
 - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
 - [Camera Pose Estimation & Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
 - [Text to 3D](#text-to-3d)
