@@ -1289,7 +1289,7 @@ CVPR 2023, 5 Jun 2023<br>
 ## Contributors
 
 Thanks to the community! This is to be updated.
-<!-- <img src="https://contrib.rocks/image?repo=yangjiheng/nerf_and_beyond_docs"> -->
+<img src="https://contrib.rocks/image?repo=yangjiheng/nerf_and_beyond_docs">
 
 ## License
 
