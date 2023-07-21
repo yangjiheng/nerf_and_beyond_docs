@@ -52,6 +52,8 @@ For now, you can join us in the following ways
 - [NeRF + Texture Synthesis](#nerf--texture-synthesis)
 - [NeRF + Other Applications](#nerf--other-applications)
 - [NeRF + Quality Metric](#nerf--quality-metric)
+- [NeRF + CAD](#nerf--cad)
+- [NeRF + GIS]()
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction]()
 
@@ -945,6 +947,17 @@ arXiv preprint, 23 May 2023<br>
 arXiv preprint, 1 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.00783)] [[Github](https://github.com/BillyXYB/FDNeRF)]
 
+**PixelHuman: Animatable Neural Radiance Fields from Few Images**<br>
+*Gyumin Shim, Jaeseong Lee, Junha Hyung, Jaegul Choo*<br>
+arXiv preprint, 18 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.09070)]
+
+**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**<br>
+*Jiahe Li, Jiawei Zhang, Xiao Bai, Jun Zhou, Lin Gu*<br>
+ICCV 2023, 18 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.09323)] [[Github](https://github.com/fictionarry/er-nerf)]
+
+
 ### `NeRF + Imaging Tasks`
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
@@ -971,6 +984,11 @@ MM 2022, 3 Dec 2021 <br>
 *Ziteng Cui, Lin Gu, Xiao Sun, Yu Qiao, Tatsuya Harada*<br>
 arXiv preprint, 10 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.05807)] [[Project](https://cuiziteng.github.io/Aleth_NeRF_web/)] [[Github](https://github.com/cuiziteng/Aleth-NeRF)]
+
+**Lighting up NeRF via Unsupervised Decomposition and Enhancement**<br>
+**Haoyuan Wang, Xiaogang Xu, Ke Xu, Rynson WH. Lau*<br>
+ICCV 2023, 20 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.10664)] [[Project](https://whyy.site/paper/llnerf)] [[Github](https://github.com/onpix/LLNeRF)]
 
 ### `NeRF + Large Scale Scenes`
 
@@ -1043,6 +1061,11 @@ CVPR 2023, 19 Apr 2023 <br>
 *Fusang Wang, Arnaud Louys, Nathan Piasco, Moussab Bennehar, Luis Roldão, Dzmitry Tsishkou*<br>
 arXiv preprint, 26 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.16914)]
+
+**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**<br>
+*Fan Lu, Yan Xu, Guang Chen, Hongsheng Li, Kwan-Yee Lin, Changjun Jiang*<br>
+ICCV 2023, 20 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.10776)] [[Project](https://dnmp.github.io/)] [[Github](https://github.com/DNMP/DNMP)]
 
 ### `NeRF + Editing`
 
@@ -1267,6 +1290,20 @@ arXiv preprint, 8 Dec 2022<br>
 arXiv preprint, 29 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.18079)]
 
+### `NeRF + CAD`
+
+**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**<br>
+*Ke Li, Susanne Schmidt, Tim Rolff, Reinhard Bacher, Wim Leemans, Frank Steinicke*<br>
+TCVG, 19 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.09860)]
+
+### `NeRF + GIS`
+
+**Improving NeRF with Height Data for Utilization of GIS Data**<br>
+*Hinata Aoki, Takao Yamanaka*<br>
+ICIP 2023, 15 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.07729)]
+
 ### `Datasets`
 
 **MVImgNet: A Large-scale Dataset of Multi-view Images**<br>
@@ -1288,7 +1325,7 @@ CVPR 2023, 5 Jun 2023<br>
 
 ## Contributors
 
-Thanks to the community! <br>
+Thanks to the community and hoping more and more people are joining us and submit commits and PRs!<br>
 
 <a href="https://github.com/yangjiheng/nerf_and_beyond_docs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yangjiheng/nerf_and_beyond_docs" />
