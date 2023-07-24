@@ -53,7 +53,8 @@ For now, you can join us in the following ways
 - [NeRF + Other Applications](#nerf--other-applications)
 - [NeRF + Quality Metric](#nerf--quality-metric)
 - [NeRF + CAD](#nerf--cad)
-- [NeRF + GIS]()
+- [NeRF + GIS](#nerf--gis)
+- [NeRF + Copyright Protection](#nerf--copyright-protection)
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction]()
 
@@ -957,6 +958,10 @@ arXiv preprint, 18 Jul 2023<br>
 ICCV 2023, 18 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.09323)] [[Github](https://github.com/fictionarry/er-nerf)]
 
+**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**<br>
+*Sungwon Hwang, Junha Hyung, Daejin Kim, Min-Jung Kim, Jaegul Choo*<br>
+ICCV 2023, 21 July, 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.11418)]
 
 ### `NeRF + Imaging Tasks`
 
@@ -1303,6 +1308,13 @@ TCVG, 19 Jul 2023<br>
 *Hinata Aoki, Takao Yamanaka*<br>
 ICIP 2023, 15 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.07729)]
+
+### `NeRF + Copyright protection`
+
+**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**<br>
+*Ziyuan Luo, Qing Guo, Ka Chun Cheung, Simon See, Renjie Wan*<br>
+ICCV 2023, 21 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.11526)] [[Project](https://luo-ziyuan.github.io/copyrnerf/)]
 
 ### `Datasets`
 
