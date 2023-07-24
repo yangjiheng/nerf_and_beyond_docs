@@ -1339,11 +1339,11 @@ CVPR 2023, 5 Jun 2023<br>
 
 Thanks to the community and hoping more and more people are joining us and submit commits and PRs!<br>
 
-<a href="https://github.com/yangjiheng/nerf_and_beyond_docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yangjiheng/nerf_and_beyond_docs" />
+<a href = "https://github.com/yangjiheng/nerf_and_beyond_docs/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=yangjiheng/nerf_and_beyond_docs"/>
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contributors-img](https://contrib.rocks).
 
 ## License
 
