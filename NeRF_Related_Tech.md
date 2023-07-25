@@ -38,6 +38,11 @@ arXiv preprint, 15 Jan 2022<br>
 ECCV 2022, 19 Jul 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.09137)] [[Project](http://b1ueber2y.me/projects/ParticleSfM/)] [[Github](https://github.com/bytedance/particle-sfm)]
 
+**Robust Camera Pose Refinement for Multi-Resolution Hash Encoding**<br>
+*Hwan Heo, Taekyung Kim, Jiyoung Lee, Jaewon Lee, Soohyun Kim, Hyunwoo J. Kim, Jin-Hwa Kim*<br>
+arXiv preprint, 3 Feb 2023<br>
+[[arXiv](https://arxiv.org/abs/2302.01571)]
+
 **Accelerated Coordinate Encoding: Learning to Relocalize in Minutes using RGB and Poses**<br>
 *Eric Brachmann, Tommaso Cavallari, Victor Adrian Prisacariu*<br>
 CVPR 2023, 23 May 2023<br>
