@@ -546,7 +546,7 @@ SIGGRAPH 2023, 28 Apr 2023<br>
 **DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**<br>
 *Jiuhn Song, Seonghoon Park, Honggyu An, Seokju Cho, Min-Seop Kwak, Sungjin Cho, Seungryong Kim*<br>
 arXiv preprint, 30 May 2023<br>
-[[arXiv](https://arxiv.org/abs/2305.19201)] [[Projecthttps://ku-cvlab.github.io/DaRF/]]
+[[arXiv](https://arxiv.org/abs/2305.19201)] [[Project](https://ku-cvlab.github.io/DaRF/)]
 
 **ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**<br>
 *Kanghyeok Ko, Minhyeok Lee*<br>
