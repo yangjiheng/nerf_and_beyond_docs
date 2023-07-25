@@ -968,6 +968,11 @@ ICCV 2023, 18 Jul 2023<br>
 ICCV 2023, 21 July, 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.11418)]
 
+**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**<br>
+*Xiao Pan, Zongxin Yang, Jianxin Ma, Chang Zhou, Yi Yang*<br>
+ICCV 2023, 23 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.12291)] [[Project](https://pansanity666.github.io/TransHuman/)]
+
 ### `NeRF + Imaging Tasks`
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
@@ -1153,6 +1158,11 @@ IJCAI 2023, 9 Jun 2023<br>
 *Chong Zeng, Guojun Chen, Yue Dong, Pieter Peers, Hongzhi Wu, Xin Tong*<br>
 SIGGRAPH 2023
 [[Paper](https://nrhints.github.io/pdfs/nrhints-sig23.pdf)] [[Project](https://nrhints.github.io/)] [[Github](https://github.com/iamNCJ/NRHints)]
+
+**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**<br>
+*Shangzhan Zhang, Sida Peng, Yinji ShenTu, Qing Shuai, Tianrun Chen, Kaicheng Yu, Hujun Bao, Xiaowei Zhou*<br>
+arXiv preprint, 24 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.12909)] [[Project](https://dyn-e.github.io/)]
 
 ### `NeRF + Open Surface Reconstruction`
 
