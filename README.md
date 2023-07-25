@@ -190,6 +190,11 @@ arXiv preprint, 9 Jun 2023<br>
 arXiv preprint, 9 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.06093)]
 
+**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**<br>
+*Wenbo Hu, Yuling Wang, Lin Ma, Bangbang Yang, Lin Gao, Xiao Liu, Yuewen Ma*<br>
+ICCV 2023, 21 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.11335)] [[Project](https://wbhu.github.io/projects/Tri-MipRF/)] [[Video](https://www.bilibili.com/video/BV1Lu41157Yj/)]
+
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
