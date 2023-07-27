@@ -553,6 +553,11 @@ arXiv preprint, 30 May 2023<br>
 arXiv preprint, 5 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.02741)]
 
+**Car-Studio: Learning Car Radiance Fields from Single-View and Endless In-the-wild Images**<br>
+*Tianyu Liu, Hao Zhao, Yang Yu, Guyue Zhou, Ming Liu*<br>
+IEEE RA-L, 26 Jul, 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.14009)] [[Project](https://lty2226262.github.io/car-studio/)]
+
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
 #### **SLAM Based**
@@ -729,6 +734,11 @@ nVidia release<br>
 *Minghua Liu, Chao Xu, Haian Jin, Linghao Chen, Mukund Varma T, Zexiang Xu, Hao Su*<br>
 arXiv preprint, 29 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.16928)] [[Project](http://one-2-3-45.com/)] [[Github](https://github.com/One-2-3-45/One-2-3-45)]
+
+**Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation**<br>
+*Chaohui Yu, Qiang Zhou, Jingliang Li, Zhe Zhang, Zhibin Wang, Fan Wang*<br>
+ACMMM 2023, 26 Jul, 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.13908)]
 
 ### `Diffusion Based NeRF Reconstruction`
 
