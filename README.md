@@ -740,6 +740,11 @@ arXiv preprint, 29 Jun 2023<br>
 ACMMM 2023, 26 Jul, 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.13908)]
 
+**HD-Fusion: Detailed Text-to-3D Generation Leveraging Multiple Noise Estimation**<br>
+*Jinbo Wu, Xiaobo Gao, Xing Liu, Zhengyang Shen, Chen Zhao, Haocheng Feng, Jingtuo Liu, Errui Ding*<br>
+arXiv preprint, 30 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.16183)]
+
 ### `Diffusion Based NeRF Reconstruction`
 
 **DiffRF: Rendering-Guided 3D Radiance Field Diffusion**<br>
@@ -1174,6 +1179,11 @@ SIGGRAPH 2023
 arXiv preprint, 24 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.12909)] [[Project](https://dyn-e.github.io/)]
 
+**Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields**<br>
+*Xiangyu Wang, Jingsen Zhu, Qi Ye, Yuchi Huo, Yunlong Ran, Zhihua Zhong, Jiming Chen*<br>
+ICCV 2023, 27 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.15131)] [[Project](https://windingwind.github.io/seal-3d/)] [[Github](https://github.com/windingwind/seal-3d/)]
+
 ### `NeRF + Open Surface Reconstruction`
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
@@ -1347,6 +1357,11 @@ ICCV 2023, 21 Jul 2023<br>
 *Xianggang Yu, Mutian Xu, Yidan Zhang, Haolin Liu, Chongjie Ye, Yushuang Wu, Zizheng Yan, Chenming Zhu, Zhangyang Xiong, Tianyou Liang, Guanying Chen, Shuguang Cui, Xiaoguang Han*<br>
 CVPR 2023, 10 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.06042)] [[Project](https://gaplab.cuhk.edu.cn/projects/MVImgNet/#table_stat)] [[Github](https://github.com/GAP-LAB-CUHK-SZ/MVImgNet)] [[Notes](./paper_discussions/MVImgNet.md)]
+
+**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**<br>
+*Cheng-You Lu, Peisen Zhou, Angela Xing, Chandradeep Pokhariya, Arnab Dey, Ishaan Shah, Rugved Mavidipalli, Dylan Hu, Andrew Comport, Kefan Chen, Srinath Sridhar*<br>
+arXiv preprint, 31 Jul 2023<br>
+[[arXiv](https://arxiv.org/abs/2307.16897)] [[Project](https://diva360.github.io/)]
 
 ### `Neural Surface Reconstruction`
 
