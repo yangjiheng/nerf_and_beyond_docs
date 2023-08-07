@@ -190,7 +190,7 @@ arXiv preprint, 9 Jun 2023<br>
 arXiv preprint, 9 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.06093)]
 
-**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**<br>
+:fire:**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**<br>
 *Wenbo Hu, Yuling Wang, Lin Ma, Bangbang Yang, Lin Gao, Xiao Liu, Yuewen Ma*<br>
 ICCV 2023, 21 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.11335)] [[Project](https://wbhu.github.io/projects/Tri-MipRF/)] [[Video](https://www.bilibili.com/video/BV1Lu41157Yj/)]
@@ -426,6 +426,11 @@ CVPR 2023, 30 Jul 2022<br>
 CVPR 2023, 15 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.08057)] [[Project](https://snap-research.github.io/MobileR2L/)] [[Github](https://github.com/snap-research/MobileR2L)]
 
+**Factor Fields: A Unified Framework for Neural Fields and Beyond**
+*Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger*<br>
+arXiv preprint, 2 Feb 2023<br>
+[[arXiv](https://arxiv.org/abs/2302.01226)] [[Project](https://apchenstu.github.io/FactorFields/)] [[Github](https://github.com/autonomousvision/factor-fields)]
+
 :fire:**MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes**<br>
 *Christian Reiser, Richard Szeliski, Dor Verbin, Pratul P. Srinivasan, Ben Mildenhall, Andreas Geiger, Jonathan T. Barron, Peter Hedman*<br>
 arXiv preprint, 23 Feb 2023<br>
@@ -445,6 +450,11 @@ arXiv preprint, 29 May 2023<br>
 *Lingzhi Li, Zhongshu Wang, Zhen Shen, Li Shen, Ping Tan*<br>
 ICME 2023, 29 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.18163)]
+
+**Dictionary Fields: Learning a Neural Basis Decomposition**<br>
+*Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger*<br>
+SIGGRAPH 2023<br>
+[[Paper](https://apchenstu.github.io/FactorFields/Dictionary_Fields.pdf)] [[Github](https://github.com/autonomousvision/factor-fields)]
 
 ### `One-Shot/Few-Shot Sparse View Reconstruction`
 
