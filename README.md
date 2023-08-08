@@ -55,8 +55,9 @@ For now, you can join us in the following ways
 - [NeRF + CAD](#nerf--cad)
 - [NeRF + GIS](#nerf--gis)
 - [NeRF + Copyright Protection](#nerf--copyright-protection)
+- [NeRF + Motion Detection]
 - [Datasets](#datasets)
-- [Neural Surface Reconstruction]()
+- [Neural Surface Reconstruction](#neural-surface-reconstruction)
 
 ### `New to NeRF`
 
@@ -568,6 +569,11 @@ arXiv preprint, 5 Jun 2023<br>
 IEEE RA-L, 26 Jul, 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.14009)] [[Project](https://lty2226262.github.io/car-studio/)]
 
+**Where and How: Mitigating Confusion in Neural Radiance Fields from Sparse Inputs**<br>
+*Yanqi Bao, Yuxin Li, Jing Huo, Tianyu Ding, Xinyue Liang, Wenbin Li, Yang Gao*<br>
+ACMMM 2023, 5 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.02908)] [[Github](https://github.com/bbbbby-99/WaH-NeRF)]
+
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
 #### **SLAM Based**
@@ -754,6 +760,11 @@ ACMMM 2023, 26 Jul, 2023<br>
 *Jinbo Wu, Xiaobo Gao, Xing Liu, Zhengyang Shen, Chen Zhao, Haocheng Feng, Jingtuo Liu, Errui Ding*<br>
 arXiv preprint, 30 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.16183)]
+
+**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**<br>
+*Huichao Zhang, Bowen Chen, Hao Yang, Liao Qu, Xu Wang, Li Chen, Chao Long, Feida Zhu, Kang Du, Min Zheng*<br>
+arXiv preprint, 7 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.03610)] [[Project](https://avatarverse3d.github.io/)]
 
 ### `Diffusion Based NeRF Reconstruction`
 
@@ -1194,6 +1205,16 @@ arXiv preprint, 24 Jul 2023<br>
 ICCV 2023, 27 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.15131)] [[Project](https://windingwind.github.io/seal-3d/)] [[Github](https://github.com/windingwind/seal-3d/)]
 
+**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**<br>
+*Junyi Zeng, Chong Bao, Rui Chen, Zilong Dong, Guofeng Zhang, Hujun Bao, Zhaopeng Cui*<br>
+ACMMM 2023, 7 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.03280)] [[Project](https://zju3dv.github.io/Mirror-NeRF/)]
+
+**Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis**<br>
+*Yuxin Wang, Wayne Wu, Dan Xu*<br>
+ICCV 2023, 5 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.02840)] [[Project](https://w-ted.github.io/publications/udc-nerf)]
+
 ### `NeRF + Open Surface Reconstruction`
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
@@ -1360,6 +1381,13 @@ ICIP 2023, 15 Jul 2023<br>
 *Ziyuan Luo, Qing Guo, Ka Chun Cheung, Simon See, Renjie Wan*<br>
 ICCV 2023, 21 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.11526)] [[Project](https://luo-ziyuan.github.io/copyrnerf/)]
+
+### `NeRF + Motion Detection`
+
+**3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**<br>
+*Brandon Y. Feng, Hadi Alzayer, Michael Rubinstein, William T. Freeman, Jia-Bin Huang*<br>
+ICCV 2023, 7 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.03757)] [[Project](https://3d-motion-magnification.github.io/)]
 
 ### `Datasets`
 
