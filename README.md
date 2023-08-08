@@ -55,7 +55,7 @@ For now, you can join us in the following ways
 - [NeRF + CAD](#nerf--cad)
 - [NeRF + GIS](#nerf--gis)
 - [NeRF + Copyright Protection](#nerf--copyright-protection)
-- [NeRF + Motion Detection]
+- [NeRF + Motion Detection](#nerf--motion-detection)
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction](#neural-surface-reconstruction)
 
