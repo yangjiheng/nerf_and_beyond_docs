@@ -218,6 +218,11 @@ CVPR 2022, 6 Dec 2021<br>
 arXiv preprint, 2 Feb 2023<br>
 [[arXiv](https://arxiv.org/abs/2302.00833)] [[Project](https://robustnerf.github.io/public/)]
 
+**Digging into Depth Priors for Outdoor Neural Radiance Fields**<br>
+*Chen Wang, Jiadai Sun, Lina Liu, Chenming Wu, Zhelun Shen, Dayan Wu, Yuchao Dai, Liangjun Zhang*<br>
+ACMMM 2023, 8 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.04413)] [[Project](https://cwchenwang.github.io/outdoor-nerf-depth/)]
+
 ### `Activation Function Optimization`
 
 :fire:**Implicit Neural Representations with Periodic Activation Functions**<br>
