@@ -154,7 +154,7 @@ ECCV 2022, 23 Jul 2022<br>
 **4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**<br>
 *Zhongshu Wang, Lingzhi Li, Zhen Shen, Li Shen, Liefeng Bo*<br>
 arXiv preprint, 9 Dec 2022<br>
-[[arXiv](https://arxiv.org/abs/2207.11406)] [[Project](https://frozoul.github.io/4knerf/)] [[Github](https://github.com/frozoul/4K-NeRF)]
+[[arXiv](https://arxiv.org/abs/2212.04701)] [[Project](https://frozoul.github.io/4knerf/)] [[Github](https://github.com/frozoul/4K-NeRF)]
 
 :fire:**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**<br>
 *Jonathan T. Barron, Ben Mildenhall, Dor Verbin, Pratul P. Srinivasan, Peter Hedman*<br>
