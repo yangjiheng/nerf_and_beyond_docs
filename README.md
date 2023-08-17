@@ -334,6 +334,11 @@ CVPR 2023, 18 Feb 2023<br>
 arXiv preprint, 24 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.14831)]
 
+**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**<br>
+*Authors: Edith Tretschk, Vladislav Golyanik, Michael Zollhoefer, Aljaz Bozic, Christoph Lassner, Christian Theobalt*<br>
+arXiv preprint, 16 August, 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.08258)] [[Project](https://vcai.mpi-inf.mpg.de/projects/scenerflow/)]
+
 
 ### `NeRF Training and Rendering Speed Enhancements`
 
