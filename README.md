@@ -430,7 +430,7 @@ ECCV 2022, 21 Jul 2022<br>
 :fire:**MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures**<br>
 *Zhiqin Chen, Thomas Funkhouser, Peter Hedman, Andrea Tagliasacchi*<br>
 CVPR 2023, 30 Jul 2022<br>
-[[arXiv](https://arxiv.org/abs/2208.00277)]
+[[arXiv](https://arxiv.org/abs/2208.00277)] [[Project](https://mobile-nerf.github.io/)] [[Github](https://github.com/google-research/jax3d/tree/main/jax3d/projects/mobilenerf)]
 
 **Real-Time Neural Light Field on Mobile Devices**<br>
 *Junli Cao, Huan Wang, Pavlo Chemerys, Vladislav Shakhrai, Ju Hu, Yun Fu, Denys Makoviichuk, Sergey Tulyakov, Jian Ren*<br>
@@ -497,7 +497,7 @@ ICCV 2021, 29 Mar 2021<br>
 **Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction**<br>
 *Jeremy Reizenstein, Roman Shapovalov, Philipp Henzler, Luca Sbordone, Patrick Labatut, David Novotny*<br>
 ICCV 2021, 29 Mar 2021<br>
-[[arXiv](https://arxiv.org/abs/2103.15595)] [[Co3D Dataset](https://github.com/facebookresearch/co3d)]
+[[arXiv](https://arxiv.org/abs/2109.00512)] [[Co3D Dataset](https://github.com/facebookresearch/co3d)]
 
 **RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs**<br>
 *Michael Niemeyer, Jonathan T. Barron, Ben Mildenhall, Mehdi S. M. Sajjadi, Andreas Geiger, Noha Radwan*<br>
