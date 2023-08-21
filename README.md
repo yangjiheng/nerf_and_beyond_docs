@@ -744,7 +744,7 @@ arXiv preprint, 24 Mar 2023<br>
 **DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**<br>
 *Hoigi Seo, Hayeon Kim, Gwanghyun Kim, Se Young Chun*<br>
 CVPR 2023, 6 Apr 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://janeyeon.github.io/ditto-nerf/)] [[Github](https://github.com/janeyeon/ditto-nerf-code)]
+[[arXiv](https://arxiv.org/abs/2304.02827)] [[Project](https://janeyeon.github.io/ditto-nerf/)] [[Github](https://github.com/janeyeon/ditto-nerf-code)]
 
 :fire:**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**<br>
 *Zhengyi Wang, Cheng Lu, Yikai Wang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu*<br>
