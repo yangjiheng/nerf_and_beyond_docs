@@ -552,7 +552,7 @@ CVPR 2023, 13 Mar 2023<br>
 **Zero-1-to-3: Zero-shot One Image to 3D Object**<br>
 *Jiawei Yang, Marco Pavone, Yue Wang*<br>
 CVPR 2023, 20 Mar 2023<br>
-[[arXiv](https://arxiv.org/abs/2303.07418)] [[Project](https://zero123.cs.columbia.edu/)] [[Github](https://github.com/cvlab-columbia/zero123)]
+[[arXiv](https://arxiv.org/abs/2303.11328)] [[Project](https://zero123.cs.columbia.edu/)] [[Github](https://github.com/cvlab-columbia/zero123)]
 
 **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**<br>
 *Jiakai Sun, Zhanjie Zhang, Jiafu Chen, Guangyuan Li, Boyan Ji, Lei Zhao, Wei Xing*<br>
