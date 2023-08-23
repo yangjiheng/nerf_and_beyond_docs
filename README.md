@@ -34,6 +34,7 @@ For now, you can join us in the following ways
 - [Text to 3D](#text-to-3d)
 - [Diffusion Based NeRF Reconstruction](#diffusion-based-nerf-reconstruction)
 - [Generalization](#generalization)
+- [Model Compression](#model-compression)
 - [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
 - [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
@@ -222,6 +223,11 @@ arXiv preprint, 2 Feb 2023<br>
 *Chen Wang, Jiadai Sun, Lina Liu, Chenming Wu, Zhelun Shen, Dayan Wu, Yuchao Dai, Liangjun Zhang*<br>
 ACMMM 2023, 8 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.04413)] [[Project](https://cwchenwang.github.io/outdoor-nerf-depth/)]
+
+**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**<br>
+*Kun Wang, Zhiqiang Yan, Huang Tian, Zhenyu Zhang, Xiang Li, Jun Li, Jian Yang*<br>
+arXiv preprint, 19 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.10001)]
 
 ### `Activation Function Optimization`
 
@@ -660,6 +666,11 @@ IEEE Robotics and Automation Letters,  5 Jun 2023<br>
 arXiv preprint, 8 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.05410)] [[Project](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)]
 
+**CamP: Camera Preconditioning for Neural Radiance Fields**<br>
+*Keunhong Park, Philipp Henzler, Ben Mildenhall, Jonathan T. Barron, Ricardo Martin-Brualla*<br>
+Siggraph Asia 2023, 21 Aug, 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.10902)] [[Project](https://camp-nerf.github.io/)]
+
 ### `Text to 3D`
 
 #### Survey
@@ -815,6 +826,13 @@ arXiv preprint, 24 May 2023<br>
 *Xin Huang, Qi Zhang, Ying Feng, Xiaoyu Li, Xuan Wang, Qing Wang*<br>
 CVPR 2023, 25 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.12746)] [[Project](https://xhuangcv.github.io/lirf/)] [[Video](https://www.bilibili.com/video/BV1nm4y14743/)]
+
+### `Model Compression`
+
+**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**<br>
+*Xiufeng Xie, Riccardo Gherardi, Zhihong Pan, Stephen Huang*<br>
+ICCV 2023, 19 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.10122)]
 
 ### `SDF Based Reconstruction / Other Geometry Based Reconstruction`
 
