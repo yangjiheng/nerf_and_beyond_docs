@@ -590,6 +590,11 @@ IEEE RA-L, 26 Jul, 2023<br>
 ACMMM 2023, 5 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.02908)] [[Github](https://github.com/bbbbby-99/WaH-NeRF)]
 
+**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**<br>
+*Wentian Qu, Zhaopeng Cui, Yinda Zhang, Chenyu Meng, Cuixia Ma, Xiaoming Deng, Hongan Wang*<br>
+arXiv preprint, 22 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.11198)] [[Project](https://iscas3dv.github.io/HO-NeRF)]
+
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
 #### **SLAM Based**
