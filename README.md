@@ -879,7 +879,7 @@ CVPR 2022,  24 Mar 2022<br>
 **PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**<br>
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
 CVPR 2023, 9 May 2023<br>
-[[arXiv](https://arxiv.org/abs/2305.05594)] [[Github](https://arxiv.org/abs/2305.05594)]
+[[arXiv](https://arxiv.org/abs/2305.05594)] [[Github](https://github.com/yiqun-wang/PET-NeuS)]
 
 **NeuManifold: Neural Watertight Manifold Reconstruction with Efficient and High-Quality Rendering Support**<br>
 *Xinyue Wei, Fanbo Xiang, Sai Bi, Anpei Chen, Kalyan Sunkavalli, Zexiang Xu, Hao Su*<br>
