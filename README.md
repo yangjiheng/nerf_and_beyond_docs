@@ -950,7 +950,7 @@ ICCV 2021, 20 Mar 2021 <br>
 **MoFaNeRF: Morphable Facial Neural Radiance Field**<br>
 *Yiyu Zhuang, Hao Zhu, Xusen Sun, Xun Cao*<br>
 ECCV 2022, 4 Dec 2021 <br>
-[[arXiv](https://arxiv.org/abs/2112.02308)] [[Project](https://yudongguo.github.io/ADNeRF/)] [[Github](https://github.com/zhuhao-nju/mofanerf)] [[Video](https://www.bilibili.com/video/BV1GM41167Vo/)]
+[[arXiv](https://arxiv.org/abs/2112.02308)] [[Project](https://yiyuzhuang.github.io/mofanerf/)] [[Github](https://github.com/zhuhao-nju/mofanerf)] [[Video](https://www.bilibili.com/video/BV1GM41167Vo/)]
 
 **AutoAvatar: Autoregressive Neural Fields for Dynamic Avatar Modeling**<br>
 *Ziqian Bai, Timur Bagautdinov, Javier Romero, Michael Zollhöfer, Ping Tan, Shunsuke Saito*<br>
