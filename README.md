@@ -43,7 +43,7 @@ For now, you can join us in the following ways
 - [NeRF + Imaging Tasks](#nerf--imaging-tasks)
 - [NeRF + Large Scale Scenes](#nerf--large-scale-scenes)
 - [NeRF + Editing](#nerf--editing)
-- [NeRF + Open Surface Reconstruction](#nerf--open-surface-reconstruction)
+- [NeRF + Open Surface Reconstruction and Cloth Simulation](#nerf--open-surface-reconstruction)
 - [NeRF + Segmentation](#nerf--segmentation)
 - [NeRF + Mesh Extraction](#nerf--mesh-extraction)
 - [NeRF + Codec/Streaming](#nerf--codecstreaming)
@@ -1248,7 +1248,7 @@ ACMMM 2023, 7 Aug 2023<br>
 ICCV 2023, 5 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.02840)] [[Project](https://w-ted.github.io/publications/udc-nerf)]
 
-### `NeRF + Open Surface Reconstruction`
+### `NeRF + Open Surface Reconstruction and Cloth Simulation`
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
 *Xiaoxiao Long, Cheng Lin, Lingjie Liu, Yuan Liu, Peng Wang, Christian Theobalt, Taku Komura, Wenping Wang*<br>
@@ -1259,6 +1259,11 @@ CVPR 2023, 25 Nov 2022 <br>
 *Xiaoxu Meng, Weikai Chen, Bo Yang*<br>
 CVPR 2023, 21 Mar 2023 <br>
 [[arXiv](https://arxiv.org/abs/2303.12012)] [[Project](https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat)] [[Github](https://github.com/xmeng525/NeAT)] [[Video](https://www.bilibili.com/video/BV1ix4y1w7NC/)]
+
+**NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory**<br>
+*Navami Kairanda, Marc Habermann, Christian Theobalt, Vladislav Golyanik*<br>
+arXiv preprint, 24 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.12970)] [[Project](https://4dqv.mpi-inf.mpg.de/NeuralClothSim/)] [[Video](https://www.bilibili.com/video/BV1mF411C7JT/)]
 
 ### `NeRF + Segmentation`
 
