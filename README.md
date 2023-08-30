@@ -1156,7 +1156,7 @@ ICCV 2023, 20 Jul 2023<br>
 **Recolorable Posterization of Volumetric Radiance Fields Using Visibility-Weighted Palette Extraction**<br>
 *Seung Wook Kim, Bradley Brown, Kangxue Yin, Karsten Kreis, Katja Schwarz, Daiqing Li, Robin Rombach, Antonio Torralba, Sanja Fidler*<br>
 CVPR 2023, 19 Apr 2022 <br>
-[[Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14594)]
+[[Paper](https://drive.google.com/file/d/1HjAVDBiainhDAEejmDPH8WrvRxk-Fbtw/view?usp=sharing)] [[Project](https://kenji-tojo.github.io/publications/posternerf/)] [[Github](https://github.com/kenji-tojo/posternerf)]
 
 **ClimateNeRF: Physically-based Neural Rendering for Extreme Climate Synthesis**<br>
 *Yuan Li, Zhi-Hao Lin, David Forsyth, Jia-Bin Huang, Shenlong Wang*<br>
