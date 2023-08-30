@@ -1270,7 +1270,7 @@ arXiv preprint, 24 Aug 2023<br>
 **SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields**<br>
 *Siddhant Ranade, Christoph Lassner, Kai Li, Christian Haene, Shen-Chi Chen, Jean-Charles Bazin, Sofien Bouaziz*<br>
 arXiv preprint, 7 Dec 2022 <br>
-[[arXiv](https://arxiv.org/abs/2303.12012)] [[Project](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)] [[Video](https://www.bilibili.com/video/BV1XR4y1C7Yf/)]
+[[arXiv](https://arxiv.org/abs/2212.03406)] [[Project](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)] [[Video](https://www.bilibili.com/video/BV1XR4y1C7Yf/)]
 
 :fire:**Panoptic Lifting for 3D Scene Understanding with Neural Fields**<br>
 *Yawar Siddiqui, Lorenzo Porzi, Samuel Rota Buló, Norman Müller, Matthias Nießner, Angela Dai, Peter Kontschieder*<br>
