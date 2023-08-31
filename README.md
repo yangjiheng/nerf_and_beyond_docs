@@ -876,6 +876,11 @@ NeurIPS 2022, 15 Jun 2022 <br>
 CVPR 2022,  24 Mar 2022<br>
 [[arXiv](https://arxiv.org/abs/2203.13318)] [[Project](https://rakhimovv.github.io/npbgpp/)] [[Github](https://github.com/rakhimovv/npbgpp)] 
 
+**NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction**<br>
+*Yiming Wang, Qin Han, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu*<br>
+ICCV 2023, 10 Dec 2022<br>
+[[arXiv](https://arxiv.org/abs/2212.05231)] [[Project](https://vcai.mpi-inf.mpg.de/projects/NeuS2/)] [[Github](https://github.com/19reborn/NeuS2)]
+
 **PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**<br>
 *Yiqun Wang, Ivan Skorokhodov, Peter Wonka*<br>
 CVPR 2023, 9 May 2023<br>
