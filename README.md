@@ -55,6 +55,7 @@ For now, you can join us in the following ways
 - [NeRF + Quality Metric](#nerf--quality-metric)
 - [NeRF + CAD](#nerf--cad)
 - [NeRF + GIS](#nerf--gis)
+- [NeRF + Satellite Images](#nerf--satellite-images)
 - [NeRF + Copyright Protection](#nerf--copyright-protection)
 - [NeRF + Motion Detection](#nerf--motion-detection)
 - [Datasets](#datasets)
@@ -1417,6 +1418,18 @@ TCVG, 19 Jul 2023<br>
 *Hinata Aoki, Takao Yamanaka*<br>
 ICIP 2023, 15 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.07729)]
+
+### `NeRF + Satellite Images`
+
+**Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras**<br>
+*Roger Marí, Gabriele Facciolo, Thibaud Ehret*<br>
+CVPR 2022, 16 Mar 2022<br>
+[[arXiv](https://arxiv.org/abs/2203.08896)] 
+
+**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**<br>
+*Lulin Zhang, Ewelina Rupnik*<br>
+ISPRS Annals 2023, 1 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.00277)] [[Github](https://github.com/LulinZhang/SpS-NeRF)]
 
 ### `NeRF + Copyright protection`
 
