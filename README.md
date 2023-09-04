@@ -35,6 +35,7 @@ For now, you can join us in the following ways
 - [Diffusion Based NeRF Reconstruction](#diffusion-based-nerf-reconstruction)
 - [Generalization](#generalization)
 - [Model Compression](#model-compression)
+- [NeRF Based 2D High Quality Image Synthesis](#nerf-based-2d-high-quality-image-synthesis)
 - [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
 - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
 - [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
