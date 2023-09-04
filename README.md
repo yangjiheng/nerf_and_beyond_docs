@@ -840,6 +840,13 @@ CVPR 2023, 25 Apr 2023<br>
 ICCV 2023, 19 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.10122)]
 
+### `NeRF Based 2D High Quality Image Synthesis`
+
+**GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**<br>
+*Michael Niemeyer, Andreas Geiger*<br>
+CVPR 2012, 24 Nov 2020<br>
+[[arXiv](https://arxiv.org/abs/2011.12100)] [[Project](http://bit.ly/giraffe-project)] [[Github](https://github.com/autonomousvision/giraffe)]
+
 ### `SDF Based Reconstruction / Other Geometry Based Reconstruction`
 
 **Neural Point-Based Graphics**<br>
