@@ -199,6 +199,11 @@ arXiv preprint, 9 Jun 2023<br>
 ICCV 2023, 21 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.11335)] [[Project](https://wbhu.github.io/projects/Tri-MipRF/)] [[Video](https://www.bilibili.com/video/BV1Lu41157Yj/)]
 
+**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**<br>
+*Lily Goli, Cody Reading, Silvia Selllán, Alec Jacobson, Andrea Tagliasacchi*<br>
+arXiv preprint, 6 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.03185)] [[Project](https://bayesrays.github.io/)]
+
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
