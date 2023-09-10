@@ -317,6 +317,11 @@ arXiv preprint, 5 Jan 2023<br>
 NeurIPS 2022, 01 Nov 2022<br>
 [[OpenReview](https://openreview.net/forum?id=kUnHCGiILeU)] [[Zhihu](https://zhuanlan.zhihu.com/p/581808674)] [[Github](https://github.com/PengYicong/CageNeRF)]
 
+**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**<br>
+*Fengrui Tian, Shaoyi Du, Yueqi Duan*<br>
+ICCV 2023, 26 Dec 2022<br>
+[[arXiv](https://arxiv.org/abs/2212.13056)] [[Github](https://github.com/tianfr/MonoNeRF)]
+
 **Robust Dynamic Radiance Fields**<br>
 *Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang*<br>
 CVPR 2023,  5 Jan 2023 <br>
