@@ -357,6 +357,15 @@ arXiv preprint, 24 May 2023<br>
 arXiv preprint, 16 August, 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.08258)] [[Project](https://vcai.mpi-inf.mpg.de/projects/scenerflow/)] [[Video](https://www.bilibili.com/video/BV1v94y167So/)]
 
+**ResFields: Residual Neural Fields for Spatiotemporal Signals**<br>
+*Marko Mihajlovic, Sergey Prokudin, Marc Pollefeys, Siyu Tang*<br>
+arXiv preprint, 6 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.03160)] [[Project](https://markomih.github.io/ResFields/)] [[Github](https://github.com/markomih/ResFields)]
+
+**Dynamic Mesh-Aware Radiance Fields**<br>
+*Yi-Ling Qiao, Alexander Gao, Yiran Xu, Yue Feng, Jia-Bin Huang, Ming C. Lin*<br>
+ICCV 2023, 8 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.04581)] [[Project](https://mesh-aware-rf.github.io/)] [[Github](https://github.com/YilingQiao/DMRF/tree/cleaning)]
 
 ### `NeRF Training and Rendering Speed Enhancements`
 
