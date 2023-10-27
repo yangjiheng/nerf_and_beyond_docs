@@ -1505,6 +1505,11 @@ CVPR 2023, 5 Jun 2023<br>
 ACM ToG 2023, 8 August, 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.04079)] [[Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Github](https://github.com/graphdeco-inria/gaussian-splatting)]
 
+**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
+*Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin*<br>
+arXiv preprint, 22 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.13101)]
+
 **DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**<br>
 *Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng*<br>
 arXiv preprint, 28 Sep 2023<br>
@@ -1530,11 +1535,6 @@ arXiv preprint, 12 Oct 2023<br>
 *Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang*<br>
 arXiv preprint, 16 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.10642)]
-
-**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
-*Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin*<br>
-arXiv preprint, 22 Sep 2023<br>
-[[arXiv](https://arxiv.org/abs/2309.13101)]
 
 ## Contributors
 
