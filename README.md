@@ -699,6 +699,11 @@ arXiv preprint, 8 Jun 2023<br>
 Siggraph Asia 2023, 21 Aug, 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.10902)] [[Project](https://camp-nerf.github.io/)]
 
+**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**<br>
+*Hannah Schieber, Fabian Deuser, Bernhard Egger, Norbert Oswald, Daniel Roth*<br>
+arXiv preprint, 26 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.09412)]
+
 ### `Text to 3D`
 
 #### Survey
