@@ -62,7 +62,7 @@ For now, you can join us in the following ways
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction](#neural-surface-reconstruction)
 
-- [3D Gaussian Splatting]
+- [3D Gaussian Splatting](#3d-gaussian-splatting)
 
 ### `New to NeRF`
 
