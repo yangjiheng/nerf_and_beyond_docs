@@ -62,6 +62,8 @@ For now, you can join us in the following ways
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction](#neural-surface-reconstruction)
 
+- [3D Gaussian Splatting]
+
 ### `New to NeRF`
 
 #### **Begin of NeRF, Always Start Here**
@@ -1495,6 +1497,44 @@ CVPR 2023, 31 May 2023<br>
 *Zhaoshuo Li, Thomas Müller, Alex Evans, Russell H. Taylor, Mathias Unberath, Ming-Yu Liu, Chen-Hsuan Lin*<br>
 CVPR 2023, 5 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.03092)] [[Project](https://research.nvidia.com/labs/dir/neuralangelo)] [[Video](https://www.bilibili.com/video/BV1mh4y1d7rX/)]
+
+### `3D Gaussian Splatting`
+
+**3D Gaussian Splatting for Real-Time Radiance Field Rendering**<br>
+*Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis*<br>
+ACM ToG 2023, 8 August, 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.04079)] [[Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Github](https://github.com/graphdeco-inria/gaussian-splatting)]
+
+**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**<br>
+*Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng*<br>
+arXiv preprint, 28 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.16653)] [[Project](https://dreamgaussian.github.io/)] [[Github](https://github.com/dreamgaussian/dreamgaussian)]
+
+**Text-to-3D using Gaussian Splatting**<br>
+*Zilong Chen, Feng Wang, Huaping Liu*<br>
+arXiv preprint, 29 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.16585)] [[Project](https://gsgen3d.github.io/)] [[Github](https://github.com/gsgen3d/gsgen)]
+
+
+**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**<br>
+*Taoran Yi, Jiemin Fang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang*<br>
+arXiv preprint, 12 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2310.08529)] [[Project](https://taoranyi.com/gaussiandreamer/)] [[Github](https://github.com/hustvl/GaussianDreamer)]
+
+**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**<br>
+*Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang*<br>
+arXiv preprint, 12 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2310.08528)] [[Project](https://guanjunwu.github.io/4dgs/)] [[Github](https://github.com/hustvl/4DGaussians)]
+
+**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**<br>
+*Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang*<br>
+arXiv preprint, 16 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2310.10642)]
+
+**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
+*Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin*<br>
+arXiv preprint, 22 Sep 2023<br>
+[[arXiv](https://arxiv.org/abs/2309.13101)]
 
 ## Contributors
 
