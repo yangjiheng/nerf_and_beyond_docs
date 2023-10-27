@@ -618,6 +618,16 @@ ACMMM 2023, 5 Aug 2023<br>
 arXiv preprint, 22 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.11198)] [[Project](https://iscas3dv.github.io/HO-NeRF)]
 
+**PERF: Panoramic Neural Radiance Field from a Single Panorama**<br>
+*Guangcong Wang, Peng Wang, Zhaoxi Chen, Wenping Wang, Chen Change Loy, Ziwei Liu*<br>
+arXir preprint, 25 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2310.16831)] [[Project](https://perf-project.github.io/)] [[Github](https://github.com/perf-project/PeRF)]
+
+**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**<br>
+*Daiju Kanaoka, Motoharu Sonogashira, Hakaru Tamukoh, Yasutomo Kawanishi*<br>
+BMVC2023, 20 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2310.13670)] [[Github](https://github.com/haganelego/ManifoldNeRF_BMVC2023)]
+
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
 #### **SLAM Based**
@@ -1190,6 +1200,13 @@ arXiv preprint, 26 May 2023<br>
 *Fan Lu, Yan Xu, Guang Chen, Hongsheng Li, Kwan-Yee Lin, Changjun Jiang*<br>
 ICCV 2023, 20 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.10776)] [[Project](https://dnmp.github.io/)] [[Github](https://github.com/DNMP/DNMP)]
+
+**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**<br>
+*Jiaming Gu, Minchao Jiang, Hongsheng Li, Xiaoyuan Lu, Guangming Zhu, Syed Afaq Ali Shah, Liang Zhang, Mohammed Bennamoun*<br>
+NeurIPS 2023, 20 Oct 2023<br>
+[[arXiv](https://arxiv.org/abs/2310.13263)] [[Project](https://jamchaos.github.io/UE4-NeRF/)] [[Github](https://github.com/JamChaos/UE4-NeRF)]
+
+
 
 ### `NeRF + Editing`
 
