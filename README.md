@@ -325,6 +325,11 @@ CVPR 2022, 31 May 2022<br>
 ECCV 2022, 25 Jul 2022<br>
 [[arXiv](https://arxiv.org/abs/2207.12298)] [[Project](https://xth430.github.io/deforming-nerf/)] [[Github](https://github.com/xth430/deforming-nerf)]
 
+:fire:**NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields**<br>
+*Liangchen Song, Anpei Chen, Zhong Li, Zhang Chen, Lele Chen, Junsong Yuan, Yi Xu, Andreas Geiger*<br>
+IEEE TVCG, 28 Oct 2022<br>
+[[arXiv](https://arxiv.org/abs/2210.15947)] [[Project](https://lsongx.github.io/projects/nerfplayer.html)] [[Github(in nerfstudio)](https://github.com/nerfstudio-project/nerfstudio)]
+
 **Robust Dynamic Radiance Fields**<br>
 *Yu-Lun Liu, Chen Gao, Andreas Meuleman, Hung-Yu Tseng, Ayush Saraf, Changil Kim, Yung-Yu Chuang, Johannes Kopf, Jia-Bin Huang*<br>
 CVPR 2023, 5 Jan 2023<br>
