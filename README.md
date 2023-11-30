@@ -20,7 +20,7 @@ For now, you can join us in the following ways
 
 Recently there are lots of 3D Gaussian Splatting related work released. We move all related work to a new document for tracking in parallel.
 
-:fire:## 3DGS Progresses
+## 3DGS Progresses
 - [3D Gaussian Splatting Related Progresses](./3DGS.md)
 
 ## NeRF progresses
