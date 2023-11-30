@@ -345,6 +345,11 @@ arXiv preprint, 5 Jan 2023<br>
 NeurIPS 2022, 01 Nov 2022<br>
 [[OpenReview](https://openreview.net/forum?id=kUnHCGiILeU)] [[Zhihu](https://zhuanlan.zhihu.com/p/581808674)] [[Github](https://github.com/PengYicong/CageNeRF)]
 
+**DynIBaR: Neural Dynamic Image-Based Rendering**<br>
+*Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely*<br>
+CVPR 2023, 20 Nov 2022<br>
+[[arXiv](https://arxiv.org/abs/2211.11082)] [[Project](https://dynibar.github.io/)] [[Github](https://github.com/google/dynibar)] [[Video](https://www.bilibili.com/video/BV1hM4y1v77P/)]
+
 **MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**<br>
 *Fengrui Tian, Shaoyi Du, Yueqi Duan*<br>
 ICCV 2023, 26 Dec 2022<br>
