@@ -62,8 +62,7 @@ For now, you can join us in the following ways
 - [NeRF + Motion Detection](#nerf--motion-detection)
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction](#neural-surface-reconstruction)
-
-- [3D Gaussian Splatting](#3d-gaussian-splatting)
+- [3D Gaussian Splatting](./3DGS.md)
 
 ### `New to NeRF`
 
@@ -222,10 +221,20 @@ ICCV 2023, 27 Sep 2023<br>
 ICCV 2023, 29 Sep 2023<br>
 [[arXiv](https://arxiv.org/abs/2309.17450)] [[Project](https://zsh2000.github.io/mtvs.github.io/)] [[Github](https://github.com/zsh2000/MuvieNeRF)]
 
+**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**<br>
+*Yifan Wang, Yi Gong, Yuan Zeng*<br>
+arXiv preprint, 21 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.12490)]
+
 **VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**<br>
 *Yiying Yang, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen*<br>
 AAAI 2024, 23 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.14487)] 
+
+**Rethinking Directional Integration in Neural Radiance Fields**<br>
+*Congyue Deng, Jiawei Yang, Leonidas Guibas, Yue Wang*<br>
+arXiv preprint, 28 Nov, 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.16504)]
 
 ### `Robust Reconstruction & Depth Supervised Reconstruction`
 
@@ -567,6 +576,11 @@ arXiv preprint, 2 Oct 2023<br>
 arXiv preprint, 23 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.14695)]
 
+**Efficient Encoding of Graphics Primitives with Simplex-based Structures**<br>
+*Yibo Wen, Yunfan Yang*<br>
+arXiv preprint, 26 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.15439)]
+
 ### `One-Shot/Few-Shot Sparse View Reconstruction`
 
 :fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
@@ -704,6 +718,11 @@ BMVC2023, 20 Oct 2023<br>
 ICRA 2024, 1 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.00684)]
 
+**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**<br>
+*Haidong Zhu, Tianyu Ding, Tianyi Chen, Ilya Zharkov, Ram Nevatia, Luming Liang*<br>
+arXiv preprint, 27 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.15510)] [[Project](https://haidongz-usc.github.io/project/caesarnerf)]
+ 
 ### `Camera Pose Estimation & Weak Camera Pose Reconstruction`
 
 #### **SLAM Based**
@@ -925,6 +944,11 @@ arXiv preprint, 30 Jul 2023<br>
 *Huichao Zhang, Bowen Chen, Hao Yang, Liao Qu, Xu Wang, Li Chen, Chao Long, Feida Zhu, Kang Du, Min Zheng*<br>
 arXiv preprint, 7 Aug 2023<br>
 [[arXiv](https://arxiv.org/abs/2308.03610)] [[Project](https://avatarverse3d.github.io/)]
+
+**Animate124: Animating One Image to 4D Dynamic Scene**<br>
+*Yuyang Zhao, Zhiwen Yan, Enze Xie, Lanqing Hong, Zhenguo Li, Gim Hee Lee*<br>
+arXiv preprint, 24 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.14603)] [[Project](https://animate124.github.io/)]
 
 ### `Diffusion Based NeRF Reconstruction`
 
@@ -1352,6 +1376,21 @@ arXiv preprint, 30 Sep 2023<br>
 arXiv preprint, 2 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.00874)] [[Github](https://github.com/biter0088/pc-nerf)]
 
+**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**<br>
+*Kai Cheng, Xiaoxiao Long, Wei Yin, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen*<br>
+arXiv preprint, 28 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.16945)] [[Project](https://kcheng1021.github.io/ucnerf.github.io/)]
+
+**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**<br>
+*Zhuopeng Li, Chenming Wu, Liangjun Zhang, Jianke Zhu*<br>
+arXiv preprint, 28 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.16664)]
+
+**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**<br>
+*Yu Chen, Gim Hee Lee*<br>
+arXiv preprint, 28 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.16657)] [[Project](https://aibluefisher.github.io/SCALAR-NeRF/)]
+
 ### `NeRF + Editing`
 
 **Recolorable Posterization of Volumetric Radiance Fields Using Visibility-Weighted Palette Extraction**<br>
@@ -1523,6 +1562,10 @@ CVPR 2023, 19 Dec 2022 <br>
 arXiv preprint, 24 Apr 2023 <br>
 [[arXiv](https://arxiv.org/abs/2304.12308)] [[Project](https://jumpat.github.io/SA3D/)] [[Github](https://github.com/Jumpat/SegmentAnythingin3D)] [[Video](https://www.bilibili.com/video/BV1Xo4y1b7s6/)]
 
+**Obj-NeRF: Extract Object NeRFs from Multi-view Images**<br>
+*Zhiyi Li, Lihe Ding, Tianfan Xue*<br>
+arXiv preprint, 26 Nov, 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.15291)]
 
 ### `NeRF + Mesh Extraction`
 
@@ -1604,6 +1647,11 @@ CVPR 2023, 24 Apr 2023 <br>
 *Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker*<br>
 SIGGRAPH 2023, 3 May 2023 <br>
 [[arXiv](https://arxiv.org/abs/2305.02192)] [[Notes](./paper_discussions/InverseGlobalIllumination.md)]
+
+**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**<br>
+*Jesus Zarzar, Bernard Ghanem*<br>
+arXiv preprint, 28 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.16671)] 
 
 ### `NeRF + Texture Synthesis`
 
@@ -1729,44 +1777,6 @@ CVPR 2023, 31 May 2023<br>
 *Zhaoshuo Li, Thomas Müller, Alex Evans, Russell H. Taylor, Mathias Unberath, Ming-Yu Liu, Chen-Hsuan Lin*<br>
 CVPR 2023, 5 Jun 2023<br>
 [[arXiv](https://arxiv.org/abs/2306.03092)] [[Project](https://research.nvidia.com/labs/dir/neuralangelo)] [[Video](https://www.bilibili.com/video/BV1mh4y1d7rX/)]
-
-### `3D Gaussian Splatting`
-
-**3D Gaussian Splatting for Real-Time Radiance Field Rendering**<br>
-*Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis*<br>
-ACM ToG 2023, 8 August, 2023<br>
-[[arXiv](https://arxiv.org/abs/2308.04079)] [[Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Github](https://github.com/graphdeco-inria/gaussian-splatting)]
-
-**Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
-*Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin*<br>
-arXiv preprint, 22 Sep 2023<br>
-[[arXiv](https://arxiv.org/abs/2309.13101)]
-
-**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**<br>
-*Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng*<br>
-arXiv preprint, 28 Sep 2023<br>
-[[arXiv](https://arxiv.org/abs/2309.16653)] [[Project](https://dreamgaussian.github.io/)] [[Github](https://github.com/dreamgaussian/dreamgaussian)]
-
-**Text-to-3D using Gaussian Splatting**<br>
-*Zilong Chen, Feng Wang, Huaping Liu*<br>
-arXiv preprint, 29 Sep 2023<br>
-[[arXiv](https://arxiv.org/abs/2309.16585)] [[Project](https://gsgen3d.github.io/)] [[Github](https://github.com/gsgen3d/gsgen)]
-
-
-**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**<br>
-*Taoran Yi, Jiemin Fang, Guanjun Wu, Lingxi Xie, Xiaopeng Zhang, Wenyu Liu, Qi Tian, Xinggang Wang*<br>
-arXiv preprint, 12 Oct 2023<br>
-[[arXiv](https://arxiv.org/abs/2310.08529)] [[Project](https://taoranyi.com/gaussiandreamer/)] [[Github](https://github.com/hustvl/GaussianDreamer)]
-
-**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**<br>
-*Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang*<br>
-arXiv preprint, 12 Oct 2023<br>
-[[arXiv](https://arxiv.org/abs/2310.08528)] [[Project](https://guanjunwu.github.io/4dgs/)] [[Github](https://github.com/hustvl/4DGaussians)]
-
-**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**<br>
-*Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang*<br>
-arXiv preprint, 16 Oct 2023<br>
-[[arXiv](https://arxiv.org/abs/2310.10642)]
 
 ## Contributors
 
