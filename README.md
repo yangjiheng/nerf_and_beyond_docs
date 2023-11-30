@@ -18,6 +18,10 @@ For now, you can join us in the following ways
 * If you think something is not correct or you think we could do better in some way, please write to us through all possible channels or drop an issue. All suggestions are appreciated!
 * For other discussed techniques that's related to 3D reconstruction and NeRF, please refer to [link](./NeRF_Related_Tech.md), we are constantly trying to add more resource to this document.
 
+Recently there are lots of 3D Gaussian Splatting related work released. We move all related work to a new document for tracking in parallel.
+:fire:## 3DGS Progresses
+- [3D Gaussian Splatting Related Progresses](./3DGS.md)
+
 ## NeRF progresses
 
 <summary>Table of Content</summary>
@@ -62,7 +66,6 @@ For now, you can join us in the following ways
 - [NeRF + Motion Detection](#nerf--motion-detection)
 - [Datasets](#datasets)
 - [Neural Surface Reconstruction](#neural-surface-reconstruction)
-- [3D Gaussian Splatting](./3DGS.md)
 
 ### `New to NeRF`
 
