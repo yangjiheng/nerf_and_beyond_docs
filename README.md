@@ -17,6 +17,7 @@ For now, you can join us in the following ways
 * If you want to view this from a timeline perspective, please refer to this [ProcessOn Diagram](https://www.processon.com/view/link/643f8907f1144c215788f3e2)
 * If you think something is not correct or you think we could do better in some way, please write to us through all possible channels or drop an issue. All suggestions are appreciated!
 * For other discussed techniques that's related to 3D reconstruction and NeRF, please refer to [link](./NeRF_Related_Tech.md), we are constantly trying to add more resource to this document.
+* We are trying to gradually setup Discord channels, join the [Discord Channel](https://discord.gg/AF2uMWGc) if you want to, we will certainly look forward to talk with you guys!
 
 Recently there are lots of 3D Gaussian Splatting related work released. We move all related work to a new document for tracking in parallel.
 
