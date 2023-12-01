@@ -1247,6 +1247,11 @@ arXiv preprint, 5 Oct 2023<br>
 arXiv preprint, 16 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.10624)] [[Project](https://showlab.github.io/DynVideo-E/)]
 
+**CosAvatar: Consistent and Animatable Portrait Video Tuning with Text Prompt**<br>
+*Haiyao Xiao, Chenglai Zhong, Xuan Gao, Yudong Guo, Juyong Zhang*<br>
+arXiv preprint, 30 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.18288)] [[Project](https://ustc3dv.github.io/CosAvatar/)]
+
 ### `NeRF + Imaging Tasks`
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>

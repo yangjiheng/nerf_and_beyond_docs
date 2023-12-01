@@ -8,11 +8,13 @@
 - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
 - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
 - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
+- [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
 - [3DGS Based AIGC](#3dgs-based-aigc)
 - [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
 - [3DGS Avatar Generation](#3dgs-avatar-generation)
 - [3DGS Scene Editing and Animation](#3dgs-scene-editing-and-animation)
 - [3DGS Physical Simulation](#3dgs-physical-simulation)
+- [3DGS Based Scene Understanding]
 
 ## 3DGS Original Paper
 
@@ -62,6 +64,12 @@ arXiv preprint, 16 Oct 2023<br>
 *Jaeyoung Chung, Jeongtaek Oh, Kyoung Mu Lee*<br>
 arXiv preprint, 22 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.13398)]
+
+## 3DGS Based Large Scene Reconstruction
+**Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**<br>
+*Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang*<br>
+arXiv preprint, 30 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.18561)] [[Project](https://fudan-zvg.github.io/PVG/)]
 
 ## 3DGS Based AIGC
 
@@ -163,3 +171,10 @@ arXiv preprint, 28 Nov, 2023<br>
 *Tianyi Xie, Zeshun Zong, Yuxing Qiu, Xuan Li, Yutao Feng, Yin Yang, Chenfanfu Jiang*<br>
 arXiv preprint, 20 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.12198)] [[Project](https://xpandora.github.io/PhysGaussian/)]
+
+## 3DGS Based Scene Understanding
+
+**Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding**<br>
+*Jin-Chuan Shi, Miao Wang, Hao-Bin Duan, Shao-Hua Guan*<br>
+arXiv preprint, 30 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.18482)]
