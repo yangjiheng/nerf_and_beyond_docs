@@ -14,7 +14,7 @@
 - [3DGS Avatar Generation](#3dgs-avatar-generation)
 - [3DGS Scene Editing and Animation](#3dgs-scene-editing-and-animation)
 - [3DGS Physical Simulation](#3dgs-physical-simulation)
-- [3DGS Based Scene Understanding]
+- [3DGS Based Scene Understanding](#3dgs-based-scene-understanding)
 
 ## 3DGS Original Paper
 
