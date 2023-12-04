@@ -48,7 +48,7 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
 - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
 - [NeRF + Avatar/Talking Head](#nerf--avatartalking-head)
 - [NeRF + Imaging Tasks](#nerf--imaging-tasks)
-- [NeRF + Large Scale Scenes](#nerf--large-scale-scenes)
+- [NeRF + Large Scale Scenes & Urban Scenes](#nerf--large-scale-scenes)
 - [NeRF + Editing](#nerf--editing)
 - [NeRF + Open Surface Reconstruction and Cloth Simulation](#nerf--open-surface-reconstruction)
 - [NeRF + Segmentation](#nerf--segmentation)
@@ -834,6 +834,11 @@ arXiv preprint, 11 Oct 2023
 arXiv preprint, 15 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.09776)]
 
+**Continuous Pose for Monocular Cameras in Neural Implicit Representation**<br>
+*Qi Ma, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool*<br>
+arXiv preprint, 28 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.17119)]
+
 ### `Text to 3D`
 
 #### Survey
@@ -1284,7 +1289,7 @@ arXiv preprint, 10 Mar 2023<br>
 ICCV 2023, 20 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.10664)] [[Project](https://whyy.site/paper/llnerf)] [[Github](https://github.com/onpix/LLNeRF)]
 
-### `NeRF + Large Scale Scenes`
+### `NeRF + Large Scale Scenes & Urban Scenes`
 
 :fire:**Urban Radiance Fields**<br>
 *Konstantinos Rematas, Andrew Liu, Pratul P. Srinivasan, Jonathan T. Barron, Andrea Tagliasacchi, Thomas Funkhouser, Vittorio Ferrari*<br>
@@ -1400,6 +1405,11 @@ arXiv preprint, 28 Nov 2023<br>
 *Yu Chen, Gim Hee Lee*<br>
 arXiv preprint, 28 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.16657)] [[Project](https://aibluefisher.github.io/SCALAR-NeRF/)]
+
+**EvE: Exploiting Generative Priors for Radiance Field Enrichment**<br>
+*Karim Kassab, Antoine Schnepf, Jean-Yves Franceschi, Laurent Caraffa, Jeremie Mary, Valérie Gouet-Brunet*<br>
+arXiv preprint, 1 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.00639)] [[Project](https://eve-nvs.github.io/)]
 
 ### `NeRF + Editing`
 

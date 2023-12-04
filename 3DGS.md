@@ -6,6 +6,7 @@
 
 - [3DGS Original Paper](#3dgs-original-paper)
 - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
+- [3DGS Based Mesh Extraction](#3dgs-based-mesh-extraction)
 - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
 - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
 - [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
@@ -25,11 +26,6 @@ ACM ToG 2023, 8 August, 2023<br>
 
 ## 3DGS Quality Enhancement
 
-**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**<br>
-*Antoine Guédon, Vincent Lepetit*<br>
-arXiv preprint, 21 Nov 2023<br>
-[[arXiv](https://arxiv.org/abs/2311.12775)] [[Project](https://imagine.enpc.fr/~guedona/sugar/)]
-
 **Mip-Splatting: Alias-free 3D Gaussian Splatting**<br>
 *Zehao Yu, Anpei Chen, Binbin Huang, Torsten Sattler, Andreas Geiger*<br>
 arXiv preprint, 27 Nov 2023<br>
@@ -40,6 +36,18 @@ arXiv preprint, 27 Nov 2023<br>
 arXiv preprint, 28 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.17089)]
 
+**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**<br>
+*Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai*<br>
+arXiv preprint, 30 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.00109)] [[Project](https://city-super.github.io/scaffold-gs/)]
+
+
+## 3DGS Based Mesh Extraction
+
+**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**<br>
+*Antoine Guédon, Vincent Lepetit*<br>
+arXiv preprint, 21 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.12775)] [[Project](https://imagine.enpc.fr/~guedona/sugar/)]
 
 ## 3DGS Based Dynamic Scene
 
@@ -64,6 +72,11 @@ arXiv preprint, 16 Oct 2023<br>
 *Jaeyoung Chung, Jeongtaek Oh, Kyoung Mu Lee*<br>
 arXiv preprint, 22 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.13398)]
+
+**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**<br>
+*Zehao Zhu, Zhiwen Fan, Yifan Jiang, Zhangyang Wang*<br>
+arXiv preprint, 1 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.00451)] [[Project](https://zehaozhu.github.io/FSGS/)]
 
 ## 3DGS Based Large Scene Reconstruction
 **Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**<br>
