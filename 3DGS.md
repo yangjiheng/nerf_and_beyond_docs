@@ -51,6 +51,11 @@ arXiv preprint, 21 Nov 2023<br>
 
 ## 3DGS Based Dynamic Scene
 
+**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**<br>
+*Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan*<br>
+arXiv preprint, 18 Aug 2023<br>
+[[arXiv](https://arxiv.org/abs/2308.09713)] [[Project](https://dynamic3dgaussians.github.io/)] [[Github](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
+
 **Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction**<br>
 *Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin*<br>
 arXiv preprint, 22 Sep 2023<br>
