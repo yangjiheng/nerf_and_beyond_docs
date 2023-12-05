@@ -16,6 +16,7 @@
 - [3DGS Scene Editing and Animation](#3dgs-scene-editing-and-animation)
 - [3DGS Physical Simulation](#3dgs-physical-simulation)
 - [3DGS Based Scene Understanding](#3dgs-based-scene-understanding)
+- [3DGS Based SLAM]
 
 ## 3DGS Original Paper
 
@@ -70,6 +71,11 @@ arXiv preprint, 12 Oct 2023<br>
 *Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang*<br>
 arXiv preprint, 16 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.10642)]
+
+**Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction**<br>
+*Devikalyan Das, Christopher Wewer, Raza Yunus, Eddy Ilg, Jan Eric Lenssen*<br>
+arXiv preprint, 2 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.01196)]
 
 ## 3DGS Few-shot Reconstruction
 
@@ -150,6 +156,27 @@ arXiv preprint, 29 Nov 2023<br>
 arXiv preprint, 29 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.17857)]
 
+**GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis**<br>
+*Shunyuan Zheng, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02155)] [[Project](https://shunyuanzheng.github.io/)]
+
+**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**<br>
+*Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02134)] [[Project](https://huliangxiao.github.io/GaussianAvatar)]
+
+**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**<br>
+*Shenhan Qian, Tobias Kirschstein, Liam Schoneveld, Davide Davoli, Simon Giebenhain, Matthias Nießner*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02069)] [[Project](https://shenhanqian.github.io/gaussian-avatars)]
+
+**GaussianHead: Impressive 3D Gaussian-based Head Avatars with Dynamic Hybrid Neural Field**<br>
+*Jie Wang, Xianyan Li, Jiucheng Xie, Feng Xu, Hao Gao*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.01632)]
+
+
 ## 3DGS Scene Editing and Animation
 
 **Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**<br>
@@ -196,3 +223,12 @@ arXiv preprint, 20 Nov 2023<br>
 *Jin-Chuan Shi, Miao Wang, Hao-Bin Duan, Shao-Hua Guan*<br>
 arXiv preprint, 30 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.18482)]
+
+## 3DGS Based SLAM
+
+**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**<br>
+*Nikhil Keetha, Jay Karhade, Krishna Murthy Jatavallabhula, Gengshan Yang, Sebastian Scherer, Deva Ramanan, Jonathon Luiten*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02126)]
+
+

@@ -1548,6 +1548,11 @@ arXiv preprint, 9 Oct, 2023<br>
 arXiv preprint, 16 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.10650)]
 
+**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**<br>
+*Runze He, Shaofei Huang, Xuecheng Nie, Tianrui Hui, Luoqi Liu, Jiao Dai, Jizhong Han, Guanbin Li, Si Liu*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.01663)] [[Project](https://customnerf.github.io/)]
+
 ### `NeRF + Open Surface Reconstruction and Cloth Simulation`
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
@@ -1587,6 +1592,12 @@ arXiv preprint, 24 Apr 2023 <br>
 arXiv preprint, 26 Nov, 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.15291)]
 
+**SANeRF-HQ: Segment Anything for NeRF in High Quality**<br>
+*Yichen Liu, Benran Hu, Chi-Keung Tang, Yu-Wing Tai*<br>
+arXiv preprint, 3 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.01531)] [[Project](https://lyclyc52.github.io/SANeRF-HQ/)]
+
+
 ### `NeRF + Mesh Extraction`
 
 :fire:**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**<br>
@@ -1610,6 +1621,11 @@ CVPR 2023, 24 Mar 2023 <br>
 *Liao Wang, Qiang Hu, Qihan He, Ziyu Wang, Jingyi Yu, Tinne Tuytelaars, Lan Xu, Minye Wu*<br>
 CVPR 2023, 11 Dec 2022 <br>
 [[arXiv](https://arxiv.org/abs/2304.04452)] [[Project](https://aoliao12138.github.io/ReRF/)]
+
+**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**<br>
+*Liao Wang, Kaixin Yao, Chengcheng Guo, Zhirui Zhang, Qiang Hu, Jingyi Yu, Lan Xu, Minye Wu*<br>
+arxiv preprint, 3 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.01407)] [[Project](https://aoliao12138.github.io/VideoRF)]
 
 ### `NeRF + Model Conversion`
 
@@ -1649,6 +1665,12 @@ arXiv preprint, 12 Mar 2023<br>
 *Zhentao Liu, Yu Fang, Changjian Li, Han Wu, Yuan Liu, Zhiming Cui, Dinggang Shen*<br>
 arXiv preprint, 26 Mar, 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.14739)]
+
+**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**<br>
+*Yufei Shi, Beijia Lu, Jia-Wei Liu, Ming Li, Mike Zheng Shou*<br>
+arXiv preprint, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02015)] [[Project](https://showlab.github.io/ColonNeRF/)]
+
 
 
 ### `NeRF + Inverse Rendering`
