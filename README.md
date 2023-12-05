@@ -673,6 +673,11 @@ CVPR 2023, 13 Mar 2023<br>
 CVPR 2023, 20 Mar 2023<br>
 [[arXiv](https://arxiv.org/abs/2303.11328)] [[Project](https://zero123.cs.columbia.edu/)] [[Github](https://github.com/cvlab-columbia/zero123)]
 
+**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**<br>
+*Guangcong Wang, Zhaoxi Chen, Chen Change Loy, Ziwei Liu*<br>
+ICCV 2023, 28 Mar 2023<br>
+[[arXiv](https://arxiv.org/abs/2303.16196)] [[Project](https://sparsenerf.github.io/)] [[Github](https://sparsenerf.github.io/)]
+
 **VGOS: Voxel Grid Optimization for View Synthesis from Sparse Inputs**<br>
 *Jiakai Sun, Zhanjie Zhang, Jiafu Chen, Guangyuan Li, Boyan Ji, Lei Zhao, Wei Xing*<br>
 IJCAI 2023, 26 Apr 2023<br>
