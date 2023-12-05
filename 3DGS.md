@@ -141,6 +141,11 @@ arXiv preprint, 28 Nov 2023<br>
 
 ## 3DGS Avatar Generation
 
+**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**<br>
+*Yang Liu, Xiang Huang, Minghan Qin, Qinwei Lin, Haoqian Wang*<br>
+arXiv preprint, 27 Nov 2023<br>
+[[arXiv](https://arxiv.org/abs/2311.16482)] [[Project](https://jimmyyliu.github.io/Animatable-3D-Gaussian/)]
+
 **HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**<br>
 *Xian Liu, Xiaohang Zhan, Jiaxiang Tang, Ying Shan, Gang Zeng, Dahua Lin, Xihui Liu, Ziwei Liu*<br>
 arXiv preprint, 28 Nov 2023<br>
