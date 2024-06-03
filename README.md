@@ -44,9 +44,8 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
     - [Deformable \& Dynamic NeRF](#deformable--dynamic-nerf)
     - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-speed-enhancements)
     - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
+    - [NeRF Based SLAM](#nerf-based-slam)
     - [Camera Pose Estimation \& Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
-      - [**SLAM Based**](#slam-based)
-      - [**BA \& Others**](#ba--others)
     - [Text to 3D](#text-to-3d)
       - [Survey](#survey)
       - [Progresses](#progresses)
@@ -55,7 +54,6 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
     - [Model Compression](#model-compression)
     - [NeRF Based 2D High Quality Image Synthesis](#nerf-based-2d-high-quality-image-synthesis)
     - [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
-      - [**Normal prior**](#normal-prior)
     - [NeRF + Hardware Acceleration](#nerf--hardware-acceleration)
     - [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
     - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
@@ -772,26 +770,19 @@ arXiv preprint, 27 Nov 2023<br>
 NeurIPS 2023, 11 Dec, 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.06642)] [[Project](https://yxlao.github.io/corres-nerf/)] [[Code](https://github.com/yxlao/corres-nerf)]
  
-### Camera Pose Estimation & Weak Camera Pose Reconstruction
-
-#### **SLAM Based**
-
-**iMAP: Implicit Mapping and Positioning in Real-Time**<br>
-*Edgar Sucar, Shikun Liu, Joseph Ortiz, Andrew J. Davison*<br>
-ICCV 2021, 23 Mar 2021<br>
-[[arXiv](https://arxiv.org/abs/2103.12352)] [[Project](https://edgarsucar.github.io/iMAP/)]
+### NeRF Based SLAM
 
 :fire:**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
 *Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys*<br>
 CVPR 2022, 22 Dec 2021<br>
 [[arXiv](https://arxiv.org/abs/2112.12130)] [[Project](https://pengsongyou.github.io/nice-slam)] [[Github](https://github.com/cvg/nice-slam)] [[Notes](./paper_discussions/NICE-SLAM.md)]
 
-**Towards Open World NeRF-Based SLAM**<br>
-*Daniil Lisus, Connor Holmes, Steven Waslander*<br>
-CRV 2023, 8 Jan 2023<br>
-[[arXiv](https://arxiv.org/abs/2301.03102)]
+**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**<br>
+*Chenxing Jiang, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen*<br>
+IEEE Robotics and Automation Letters,  5 Jun 2023<br>
+[[arXiv](https://arxiv.org/abs/2306.03207)] [[Github](https://github.com/SYSU-STAR/H2-Mapping)] [[Video](https://www.bilibili.com/video/BV1Ku411Y7JU/)]
 
-#### **BA & Others**
+### Camera Pose Estimation & Weak Camera Pose Reconstruction
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
 *Lin Yen-Chen, Pete Florence, Jonathan T. Barron, Alberto Rodriguez, Phillip Isola, Tsung-Yi Lin*<br>
@@ -802,6 +793,11 @@ IROS 2021, 10 Dec 2020 <br>
 *Zirui Wang, Shangzhe Wu, Weidi Xie, Min Chen, Victor Adrian Prisacariu*<br>
 arXiv preprint, 14 Feb 2021<br>
 [[arXiv](https://arxiv.org/abs/2102.07064)] [[Project](https://nerfmm.active.vision)] [[Github](https://github.com/ActiveVisionLab/nerfmm)]
+
+**iMAP: Implicit Mapping and Positioning in Real-Time**<br>
+*Edgar Sucar, Shikun Liu, Joseph Ortiz, Andrew J. Davison*<br>
+ICCV 2021, 23 Mar 2021<br>
+[[arXiv](https://arxiv.org/abs/2103.12352)] [[Project](https://edgarsucar.github.io/iMAP/)]
 
 **GNeRF: GAN-based Neural Radiance Field without Posed Camera**<br>
 *Quan Meng, Anpei Chen, Haimin Luo, Minye Wu, Hao Su, Lan Xu, Xuming He, Jingyi Yu*<br>
@@ -828,6 +824,11 @@ CVPR 2023, 21 Nov 2022<br>
 CVPR 2023, 14 Dec 2022<br>
 [[arXiv](https://arxiv.org/abs/2212.07388)] [[Project](https://nope-nerf.active.vision/)] [[Github](https://github.com/ActiveVisionLab/nope-nerf/)]
 
+**Towards Open World NeRF-Based SLAM**<br>
+*Daniil Lisus, Connor Holmes, Steven Waslander*<br>
+CRV 2023, 8 Jan 2023<br>
+[[arXiv](https://arxiv.org/abs/2301.03102)]
+
 **F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**<br>
 *Peng Wang, Yuan Liu, Zhaoxi Chen, Lingjie Liu, Ziwei Liu, Taku Komura, Christian Theobalt, Wenping Wang*<br>
 CVPR 2023, 28 Mar 2023<br>
@@ -838,10 +839,6 @@ CVPR 2023, 28 Mar 2023<br>
 CVPR 2023, 10 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.04848)] [[Project](https://neural-lens.github.io/)]
 
-**H2-Mapping: Real-time Dense Mapping Using Hierarchical Hybrid Representation**<br>
-*Chenxing Jiang, Hanwen Zhang, Peize Liu, Zehuan Yu, Hui Cheng, Boyu Zhou, Shaojie Shen*<br>
-IEEE Robotics and Automation Letters,  5 Jun 2023<br>
-[[arXiv](https://arxiv.org/abs/2306.03207)] [[Github](https://github.com/SYSU-STAR/H2-Mapping)] [[Video](https://www.bilibili.com/video/BV1Ku411Y7JU/)]
 
 **LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs**<br>
 *Zezhou Cheng, Carlos Esteves, Varun Jampani, Abhishek Kar, Subhransu Maji, Ameesh Makadia*<br>
@@ -1139,8 +1136,6 @@ CVPR 2023, 9 May 2023<br>
 *Xinyue Wei, Fanbo Xiang, Sai Bi, Anpei Chen, Kalyan Sunkavalli, Zexiang Xu, Hao Su*<br>
 arXiv preprint, 26 May 2023<br>
 [[arXiv](https://arxiv.org/abs/2305.17134)] [[Project](https://sarahweiii.github.io/neumanifold/)]
-
-#### **Normal prior**
 
 **NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors**<br>
 *Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang*<br>
