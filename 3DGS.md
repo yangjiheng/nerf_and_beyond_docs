@@ -4,19 +4,23 @@
 
 <summary>Table of Content</summary>
 
-- [3DGS Original Paper](#3dgs-original-paper)
-- [3DGS Quality Enhancement](#3dgs-quality-enhancement)
-- [3DGS Based Mesh Extraction](#3dgs-based-mesh-extraction)
-- [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
-- [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
-- [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
-- [3DGS Based AIGC](#3dgs-based-aigc)
-- [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
-- [3DGS Avatar Generation](#3dgs-avatar-generation)
-- [3DGS Scene Editing and Animation](#3dgs-scene-editing-and-animation)
-- [3DGS Physical Simulation](#3dgs-physical-simulation)
-- [3DGS Based Scene Understanding](#3dgs-based-scene-understanding)
-- [3DGS Based SLAM]
+- [`NeRF and Beyond Docs`](#nerf-and-beyond-docs)
+  - [3DGS Original Paper](#3dgs-original-paper)
+  - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
+  - [3DGS Acceleration](#3dgs-acceleration)
+  - [3DGS Surface Reconstruction](#3dgs-surface-reconstruction)
+  - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
+  - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
+  - [3DGS Weak Camera Pose](#3dgs-weak-camera-pose)
+  - [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
+  - [3DGS Based AIGC](#3dgs-based-aigc)
+  - [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
+  - [3DGS Avatar Generation](#3dgs-avatar-generation)
+  - [3DGS Scene Editing and Animation](#3dgs-scene-editing-and-animation)
+  - [3DGS Physical Simulation](#3dgs-physical-simulation)
+  - [3DGS Based Scene Understanding](#3dgs-based-scene-understanding)
+  - [3DGS Based SLAM](#3dgs-based-slam)
+  - [3DGS Based Inverse Rendering](#3dgs-based-inverse-rendering)
 
 ## 3DGS Original Paper
 
@@ -42,13 +46,24 @@ arXiv preprint, 28 Nov 2023<br>
 arXiv preprint, 30 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.00109)] [[Project](https://city-super.github.io/scaffold-gs/)]
 
+## 3DGS Acceleration
 
-## 3DGS Based Mesh Extraction
+**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**<br>
+*Sharath Girish, Kamal Gupta, Abhinav Shrivastava*<br>
+arXiv preprint, 7 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.04564)] [[Project](https://efficientgaussian.github.io/)] [[Code](https://github.com/Sharath-girish/efficientgaussian)]
+
+## 3DGS Surface Reconstruction
 
 **SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**<br>
 *Antoine Guédon, Vincent Lepetit*<br>
 arXiv preprint, 21 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.12775)] [[Project](https://imagine.enpc.fr/~guedona/sugar/)]
+
+**NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance**<br>
+*Hanlin Chen, Chen Li, Gim Hee Lee*<br>
+arXiv preprint, 1 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.00846)]
 
 ## 3DGS Based Dynamic Scene
 
@@ -77,6 +92,16 @@ arXiv preprint, 16 Oct 2023<br>
 arXiv preprint, 2 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.01196)]
 
+**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**<br>
+*Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao*<br>
+arXiv preprint, 6 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.03431)]
+
+**CoGS: Controllable Gaussian Splatting**<br>
+*Heng Yu, Joel Julin, Zoltán Á. Milacski, Koichiro Niinuma, László A. Jeni*<br>
+CVPR 2024, 9 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.05664)]
+
 ## 3DGS Few-shot Reconstruction
 
 **Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**<br>
@@ -88,6 +113,13 @@ arXiv preprint, 22 Nov 2023<br>
 *Zehao Zhu, Zhiwen Fan, Yifan Jiang, Zhangyang Wang*<br>
 arXiv preprint, 1 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.00451)] [[Project](https://zehaozhu.github.io/FSGS/)]
+
+## 3DGS Weak Camera Pose
+
+**COLMAP-Free 3D Gaussian Splatting**<br>
+*Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang*<br>
+CVPR 2024, 12 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.07504)] [[Project](https://oasisyang.github.io/colmap-free-3dgs/)] [[Video](https://www.youtube.com/watch?si=kqu3dbXopDdNg0wX&v=mGeVQS4ExK4&feature=youtu.be)]
 
 ## 3DGS Based Large Scene Reconstruction
 **Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**<br>
@@ -139,6 +171,7 @@ arXiv preprint, 29 Nov 2023<br>
 arXiv preprint, 28 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.17245)] [[Project](https://lightgaussian.github.io/)] [[Video](https://www.bilibili.com/video/BV1QN4y127o9/)]
 
+
 ## 3DGS Avatar Generation
 
 **Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**<br>
@@ -181,6 +214,35 @@ arXiv preprint, 4 Dec 2023<br>
 arXiv preprint, 4 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.01632)]
 
+**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**<br>
+*Shoukang Hu, Ziwei Liu*<br>
+CVPR 2024, 5 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02973)] [[Project](https://skhu101.github.io/GauHuman/)] [[Code](https://github.com/skhu101/GauHuman)]
+
+**HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting**<br>
+*Helisa Dhamo, Yinyu Nie, Arthur Moreau, Jifei Song, Richard Shaw, Yiren Zhou, Eduardo Pérez-Pellitero*<br>
+arXiv preprint, 5 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.02902)]
+
+**Relightable Gaussian Codec Avatars**<br>
+*Shunsuke Saito, Gabriel Schwartz, Tomas Simon, Junxuan Li, Giljoo Nam*<br>
+CVPR 2024, 5 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.03704)] [[Project](https://shunsukesaito.github.io/rgca/)]
+
+**HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting**<br>
+*Yuheng Jiang, Zhehao Shen, Penghao Wang, Zhuo Su, Yu Hong, Yingliang Zhang, Jingyi Yu, Lan Xu*<br>
+arXiv preprint, 6 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.03461)]
+
+**MonoGaussianAvatar: Monocular Gaussian Point-based Head Avatar**<br>
+*Yufan Chen, Lizhen Wang, Qijing Li, Hongjiang Xiao, Shengping Zhang, Hongxun Yao, Yebin Liu*<br>
+SIGGRAPH 2024, 7 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.04558)] [[Project](https://yufan1012.github.io/MonoGaussianAvatar)] [[Code](https://github.com/yufan1012/MonoGaussianAvatar)] [[Video](https://www.youtube.com/embed/3UvBkyPc-oc)]
+
+**ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering**<br>
+*Haokai Pang, Heming Zhu, Adam Kortylewski, Christian Theobalt, Marc Habermann*<br>
+arXiv preprint, 10 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.05941)] [[Project](https://vcai.mpi-inf.mpg.de/projects/ash/)] [[Code](https://github.com/kv2000/ASH)]
 
 ## 3DGS Scene Editing and Animation
 
@@ -236,4 +298,9 @@ arXiv preprint, 30 Nov 2023<br>
 arXiv preprint, 4 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.02126)]
 
+## 3DGS Based Inverse Rendering
 
+**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**<br>
+*Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang*<br>
+arXiv preprint, 8 Dec, 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.05133)] [[Project](https://3dgir.github.io/)]
