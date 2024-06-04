@@ -45,9 +45,11 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
     - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-speed-enhancements)
     - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
     - [NeRF Based SLAM](#nerf-based-slam)
+      - [Survey](#survey)
+      - [Progress](#progress)
     - [Camera Pose Estimation \& Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
     - [Text to 3D](#text-to-3d)
-      - [Survey](#survey)
+      - [Survey](#survey-1)
       - [Progresses](#progresses)
     - [Diffusion Based NeRF Reconstruction](#diffusion-based-nerf-reconstruction)
     - [Generalization](#generalization)
@@ -81,7 +83,7 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
     - [NeRF + Quality Metric](#nerf--quality-metric)
     - [NeRF + CAD](#nerf--cad)
     - [NeRF + GIS](#nerf--gis)
-    - [NeRF + Satellite Images](#nerf--satellite-images)
+    - [NeRF + Satellite Images / Radar](#nerf--satellite-images--radar)
     - [NeRF + Copyright protection and Security](#nerf--copyright-protection-and-security)
     - [NeRF + Motion Detection](#nerf--motion-detection)
     - [Datasets](#datasets)
@@ -651,6 +653,21 @@ arXiv preprint, 13 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.08136)] [[Project](https://kaist-viclab.github.io/pronerf-site/)] [[Code](https://github.com/KAIST-VICLab/pronerf)]
 
 
+**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**<br>
+*Paweł Batorski, Dawid Malarz, Marcin Przewięźlikowski, Marcin Mazur, Sławomir Tadeja, Przemysław Spurek*<br>
+arXiv preprint, 2 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.01524)]
+
+**Preconditioners for the Stochastic Training of Implicit Neural Representations**<br>
+*Shin-Fang Chng, Hemanth Saratchandran, Simon Lucey*<br>
+arXiv preprint, 13 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.08784)]
+
+**Improved Generalization of Weight Space Networks via Augmentations**<br>
+*Aviv Shamsian, Aviv Navon, David W. Zhang, Yan Zhang, Ethan Fetaya, Gal Chechik, Haggai Maron*<br>
+arXiv preprint, 6 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.04081)]
+
 ### One-Shot/Few-Shot Sparse View Reconstruction
 
 :fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
@@ -819,6 +836,15 @@ arXiv preprint, 22 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.11711)]
 
 ### NeRF Based SLAM
+
+#### Survey
+
+**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**<br>
+*Fabio Tosi, Youmin Zhang, Ziren Gong, Erik Sandström, Stefano Mattoccia, Martin R. Oswald, Matteo Poggi*<br>
+arXiv preprint, 20 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.13255)]
+
+#### Progress
 
 :fire:**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
 *Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys*<br>
@@ -1166,6 +1192,11 @@ arXiv preprint, 19 Dec 2023<br>
 arXiv preprint, 3 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.01647)] [[Project](https://signerf.jdihlmann.com/)] [[Code](https://github.com/cgtuebingen/SIGNeRF)] [[Video](https://www.youtube.com/playlist?list=PL5y23CB9WmildtW3QyMEi3arXg06zB4ex)]
 
+**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**<br>
+*Bernard Spiegl, Andrea Perin, Stéphane Deny, Alexander Ilin*<br>
+arXiv preprint, 5 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.02906)]
+
 ### Generalization
 
 **Local Implicit Ray Function for Generalizable Radiance Field Representation**<br>
@@ -1258,6 +1289,16 @@ arXiv preprint, 26 May 2023<br>
 *Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang*<br>
 arXiv preprint, 27 Jun 2022<br>
 [[arXiv](https://arxiv.org/abs/2206.13597)] [[Project](https://jiepengwang.github.io/NeuRIS/)] [[Github](https://github.com/jiepengwang/NeuRIS)]
+
+:fire:**TensoSDF: Roughness-aware Tensorial Representation for Robust Geometry and Material Reconstruction**<br>
+*Jia Li, Lu Wang, Lei Zhang, Beibei Wang*<br>
+SIGGRAPH 2024, 5 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.02771)]
+
+**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**<br>
+*Minyoung Park, Mirae Do, YeonJae Shin, Jaeseok Yoo, Jongkwang Hong, Joongrock Kim, Chul Lee*<br>
+arXiv preprint, 13 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.08138)]
 
 ### NeRF + Hardware Acceleration
 
@@ -1493,6 +1534,11 @@ arXiv preprint, 22 Jan 2024<br>
 ICASSP 2024, 23 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.12568)]
 
+**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**<br>
+*Pinxin Liu, Luchuan Song, Daoan Zhang, Hang Hua, Yunlong Tang, Huaijin Tu, Jiebo Luo, Chenliang Xu*<br>
+arXiv preprint, 1 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.00827)]
+
 ### NeRF + Imaging Tasks
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
@@ -1699,6 +1745,13 @@ arXiv preprint, 16 Jan 2024<br>
 arXiv preprint, 31 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.18075)]
 
+**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**<br>
+*Xiuzhong Hu, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, Junyi Ma*<br>
+arXiv preprint, 14 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.09325)] [[Code](https://github.com/biter0088/pc-nerf)]
+
+
+
 ### NeRF + Editing
 
 **Recolorable Posterization of Volumetric Radiance Fields Using Visibility-Weighted Palette Extraction**<br>
@@ -1861,6 +1914,16 @@ arXiv preprint, 22 Jan 2024<br>
 arXiv preprint, 23 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.12456)]
 
+**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**<br>
+*Jiahua Dong, Yu-Xiong Wang*<br>
+NeurIPS 2023, 1 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.00864)] [[Code(https://github.com/Dongjiahua/VICA-NeRF)]]
+
+**Geometry Transfer for Stylizing Radiance Fields**<br>
+*Hyunyoung Jung, Seonghyeon Nam, Nikolaos Sarafianos, Sungjoo Yoo, Alexander Sorkine-Hornung, Rakesh Ranjan*<br>
+CVPR 2024, 1 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.00863)] [[Project](https://hyblue.github.io/geo-srf/)] [[Code](https://github.com/hyBlue/Geo-SRF)]
+
 ### NeRF + Open Surface Reconstruction and Cloth Simulation
 
 **NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies**<br>
@@ -1923,6 +1986,16 @@ arXiv preprint, 13 Dec 2023<br>
 CVPR 2024, 17 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.09419)] [[Project](https://www.garfield.studio/)] [[Code](https://github.com/chungmin99/garfield)]
 
+**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**<br>
+*Guibiao Liao, Kaichen Zhou, Zhenyu Bao, Kanglin Liu, Qing Li*<br>
+avXiv preprint, 7 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.04648)]
+
+**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**<br>
+*Michael Fischer, Zhengqin Li, Thu Nguyen-Phuoc, Aljaz Bozic, Zhao Dong, Carl Marshall, Tobias Ritschel*<br>
+arXiv preprint, 13 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.08784)]
+
 
 ### NeRF + Mesh Extraction
 
@@ -1962,6 +2035,11 @@ arxiv preprint, 3 Dec 2023<br>
 *Shiran Yuan, Hao Zhao*<br>
 3DV 2024, 15 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.10034)] [[Project](https://shiran-yuan.github.io/SlimmeRF/)] [[Code](https://github.com/Shiran-Yuan/SlimmeRF)]
+
+**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**<br>
+*Zhiyu Zhang, Guo Lu, Huanxiong Liang, Anni Tang, Qiang Hu, Li Song*<br>
+arXiv preprint, 2 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.01380)]
 
 ### NeRF + Model Conversion
 
@@ -2012,6 +2090,11 @@ arXiv preprint, 4 Dec 2023<br>
 MICCI 2024, 23 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.15253)] [[Code](https://github.com/Loping151/ForPlane)]
 
+**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**<br>
+*Leandro A. Passos, Douglas Rodrigues, Danilo Jodas, Kelton A. P. Costa, João Paulo Papa*<br>
+arXiv preprint, 11 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.07310)]
+
 ### NeRF + Inverse Rendering
 
 :fire:**Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes**<br>
@@ -2033,6 +2116,11 @@ SIGGRAPH 2023, 3 May 2023 <br>
 *Jesus Zarzar, Bernard Ghanem*<br>
 arXiv preprint, 28 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.16671)] 
+
+**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**<br>
+*Jingwang Ling, Ruihan Yu, Feng Xu, Chun Du, Shuang Zhao*<br>
+SIGGRAPH 2024, 7 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.04829)] [[Project](https://nerfemitterpbir.github.io/)]
 
 ### NeRF + Texture Synthesis
 
@@ -2083,6 +2171,21 @@ arXiv preprint, 15 Jan 2024<br>
 *Jiaxu Wang, Junhao He, Ziyi Zhang, Renjing Xu*<br>
 ICRA 2024, 30 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.17121)] [[Code](https://github.com/Mercerai/PAEv3d)]
+
+**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**<br>
+*Mahboubeh Asadi, Kourosh Zareinia, Sajad Saeedi*<br>
+arXiv preprint, 2 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.01485)] [[Project](https://sites.google.com/view/di-nerf/home)]
+
+**Reg-NF: Efficient Registration of Implicit Surfaces within Neural Fields**<br>
+*Stephen Hausler, David Hall, Sutharsan Mahendren, Peyman Moghadam*<br>
+ICRA 2024, 15 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.09722)]
+
+**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**<br>
+*Chenchang Li, Zihao Ai, Tong Wu, Xiaosa Li, Wenbo Ding, Huazhe Xu*<br>
+ICRA 2024, 12 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.07648)]
 
 ### NeRF + Transparent and Specular
 
@@ -2153,7 +2256,7 @@ TCVG, 19 Jul 2023<br>
 ICIP 2023, 15 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.07729)]
 
-### NeRF + Satellite Images
+### NeRF + Satellite Images / Radar
 
 **Sat-NeRF: Learning Multi-View Satellite Photogrammetry With Transient Objects and Shadow Modeling Using RPC Cameras**<br>
 *Roger Marí, Gabriele Facciolo, Thibaud Ehret*<br>
@@ -2169,6 +2272,16 @@ ISPRS Annals 2023, 1 Sep 2023<br>
 *Ningli Xu, Rongjun Qin, Debao Huang, Fabio Remondino*<br>
 arXiv preprint, 1 Oct 2023<br>
 [[arXiv](https://arxiv.org/abs/2310.00530)]
+
+**Dynamic Occupancy Grids for Object Detection: A Radar-Centric Approach**<br>
+*Max Peter Ronecker, Markus Schratter, Lukas Kuschnig, Daniel Watzenig*<br>
+ICRA 2024, 2 Feb 2024<br>
+[[arXiv](https://browse.arxiv.org/abs/2402.01488)]
+
+**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**<br>
+*Huiqing Zhang, Yifei Xue, Ming Liao, Yizhen Lao*<br>
+arXiv preprint, 7 Feb 2024<br>
+[[arXiv](https://arxiv.org/abs/2402.04554)]
 
 ### NeRF + Copyright protection and Security
 
