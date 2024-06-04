@@ -33,10 +33,10 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
   - [3DGS Progresses](#3dgs-progresses)
   - [NeRF progresses](#nerf-progresses)
     - [New to NeRF](#new-to-nerf)
-      - [**Begin of NeRF, Always Start Here**](#begin-of-nerf-always-start-here)
-      - [**NeRF Related Surveys**](#nerf-related-surveys)
-      - [**NeRF Tutorials**](#nerf-tutorials)
-      - [**NeRF OpenSource Tools**](#nerf-opensource-tools)
+      - [Begin of NeRF, Always Start Here](#begin-of-nerf-always-start-here)
+      - [NeRF Related Surveys](#nerf-related-surveys)
+      - [NeRF Tutorials](#nerf-tutorials)
+      - [NeRF OpenSource Tools](#nerf-opensource-tools)
     - [NeRF Fundamental Enhancements](#nerf-fundamental-enhancements)
     - [Depth Supervised Reconstruction](#depth-supervised-reconstruction)
     - [Activation Function Optimization](#activation-function-optimization)
@@ -74,7 +74,7 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
     - [NeRF + Texture Synthesis](#nerf--texture-synthesis)
     - [NeRF + Transparent Object](#nerf--transparent-object)
     - [NeRF + Transparent Object](#nerf--transparent-object-1)
-  - [NeRF + Robotics](#nerf--robotics)
+    - [NeRF + Robotics](#nerf--robotics)
     - [NeRF + Transparent and Specular](#nerf--transparent-and-specular)
     - [Other 3D Generative Work](#other-3d-generative-work)
     - [NeRF + Other applications](#nerf--other-applications)
@@ -93,14 +93,14 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
 
 ### New to NeRF
 
-#### **Begin of NeRF, Always Start Here**
+#### Begin of NeRF, Always Start Here
 
 :fire:**NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**<br>
 *Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng*<br>
 ECCV 2020, 19 Mar 2020 <br>
 [[arXiv](https://arxiv.org/abs/2003.08934)] [[Project](https://www.matthewtancik.com/nerf)] [[Code](https://github.com/bmild/nerf)] [[PyTorch Impl](https://github.com/yenchenlin/nerf-pytorch)] [[Notes](./paper_discussions/NeRF.md)]
 
-#### **NeRF Related Surveys**
+#### NeRF Related Surveys
 
 :fire:**State of the Art on Neural Rendering**<br>
 *Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer*<br>
@@ -122,7 +122,7 @@ TPAMI 2022, 1 Oct 2022<br>
 In Progress,20 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.10050)]
 
-#### **NeRF Tutorials**
+#### NeRF Tutorials
 
 :fire:**Neural Rendering Course**<br>
 SIGGRAPH 2021 [[BiliBili](https://www.bilibili.com/video/BV1B3411q7hy)]
@@ -133,7 +133,7 @@ ECCV 2022 Tutorial [[Website](https://sites.google.com/berkeley.edu/nerf-tutoria
 :fire:**Scaling NeRF Up and Down: Big Scenes and Real-Time View Synthesis**<br>
 I3D 2023 Keynote [[Video](https://www.bilibili.com/video/BV1fh4y1t7rW/)]
 
-#### **NeRF OpenSource Tools**
+#### NeRF OpenSource Tools
 
 :fire:**Nerfstudio: A Modular Framework for Neural Radiance Field Development**<br>
 *Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa*<br>
@@ -2062,7 +2062,7 @@ arXiv preprint, 13 Dec 2023<br>
 arXiv preprint, 13 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.08118)]
 
-## NeRF + Robotics
+### NeRF + Robotics
 
 **MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**<br>
 *Soshi Shimada, Franziska Mueller, Jan Bednarik, Bardia Doosti, Bernd Bickel, Danhang Tang, Vladislav Golyanik, Jonathan Taylor, Christian Theobalt, Thabo Beeler*<br>
