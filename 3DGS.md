@@ -13,6 +13,7 @@
   - [3DGS Few-shot Reconstruction](#3dgs-few-shot-reconstruction)
   - [3DGS Weak Camera Pose](#3dgs-weak-camera-pose)
   - [3DGS Based Large Scene Reconstruction](#3dgs-based-large-scene-reconstruction)
+  - [3DGS Autonomous Drivibng](#3dgs-autonomous-drivibng)
   - [3DGS Based AIGC](#3dgs-based-aigc)
   - [3DGS Model Compactness Optimization](#3dgs-model-compactness-optimization)
   - [3DGS Avatar Generation](#3dgs-avatar-generation)
@@ -126,6 +127,12 @@ CVPR 2024, 12 Dec 2023<br>
 *Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang*<br>
 arXiv preprint, 30 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.18561)] [[Project](https://fudan-zvg.github.io/PVG/)]
+
+## 3DGS Autonomous Drivibng
+**DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**<br>
+*Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang*<br>
+CVPR 2024, 13 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.07920)] [[Code](https://github.com/VDIGPKU/DrivingGaussian)]
 
 ## 3DGS Based AIGC
 

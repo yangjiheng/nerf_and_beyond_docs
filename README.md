@@ -64,12 +64,14 @@ Recently there are lots of 3D Gaussian Splatting related work released. We move 
     - [NeRF + Editing](#nerf--editing)
     - [NeRF + Open Surface Reconstruction and Cloth Simulation](#nerf--open-surface-reconstruction-and-cloth-simulation)
     - [NeRF + Segmentation](#nerf--segmentation)
+    - [NeRF + Semantic](#nerf--semantic)
     - [NeRF + Mesh Extraction](#nerf--mesh-extraction)
     - [NeRF + Codec/Streaming](#nerf--codecstreaming)
     - [NeRF + Model Conversion](#nerf--model-conversion)
     - [NeRF + Medical/Biology](#nerf--medicalbiology)
     - [NeRF + Inverse Rendering](#nerf--inverse-rendering)
     - [NeRF + Texture Synthesis](#nerf--texture-synthesis)
+    - [NeRF + Transparent Object](#nerf--transparent-object)
     - [NeRF + Transparent Object Synthesis](#nerf--transparent-object-synthesis)
     - [Other 3D Generative Work](#other-3d-generative-work)
     - [NeRF + Other applications](#nerf--other-applications)
@@ -618,6 +620,12 @@ arXiv preprint, 23 Oct 2023<br>
 arXiv preprint, 26 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.15439)]
 
+**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**<br>
+*Juan Luis Gonzalez Bello, Minh-Quan Viet Bui, Munchurl Kim*<br>
+arXiv preprint, 13 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.08136)] [[Project](https://kaist-viclab.github.io/pronerf-site/)] [[Code](https://github.com/KAIST-VICLab/pronerf)]
+
+
 ### One-Shot/Few-Shot Sparse View Reconstruction
 
 :fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
@@ -770,6 +778,13 @@ arXiv preprint, 27 Nov 2023<br>
 NeurIPS 2023, 11 Dec, 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.06642)] [[Project](https://yxlao.github.io/corres-nerf/)] [[Code](https://github.com/yxlao/corres-nerf)]
  
+**Novel View Synthesis with View-Dependent Effects from a Single Image**<br>
+*Juan Luis Gonzalez Bello, Munchurl Kim*<br>
+arXiv preprint, 13 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.08071)] [[Project](https://kaist-viclab.github.io/monovde-site/)]
+
+
+
 ### NeRF Based SLAM
 
 :fire:**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
@@ -1351,6 +1366,11 @@ arXiv preprint, 8 Dec, 2023<br>
 arXiv preprint, 9 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.05572)]
 
+**SIFU: Side-view Conditioned Implicit Function for Real-world Usable Clothed Human Reconstruction**<br>
+*Zechuan Zhang, Zongxin Yang, Yi Yang*<br>
+CVPR 2024, 10 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.06704)] [[Project](https://river-zhang.github.io/SIFU-projectpage/)] [[Code](https://github.com/River-Zhang/SIFU)]
+
 ### NeRF + Imaging Tasks
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
@@ -1721,6 +1741,12 @@ arXiv preprint, 26 Nov, 2023<br>
 arXiv preprint, 3 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.01531)] [[Project](https://lyclyc52.github.io/SANeRF-HQ/)]
 
+### NeRF + Semantic
+
+**uSF: Learning Neural Semantic Field with Uncertainty**<br>
+*Vsevolod Skorokhodov, Darya Drozdova, Dmitry Yudin*<br>
+arXiv preprint, 13 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.08012)] [[Code](https://github.com/sevashasla/usf/)]
 
 ### NeRF + Mesh Extraction
 
@@ -1833,6 +1859,15 @@ EGSR 2021, 22 Jun, 2021<br>
 *Yihua Huang, Yan-Pei Cao, Yu-Kun Lai, Ying Shan, Lin Gao*<br>
 SIGGRAPH 2023<br>
 [[Video](https://www.bilibili.com/video/BV1UW4y1f7oK/)]
+
+### NeRF + Transparent Object
+
+**Neural Radiance Fields for Transparent Object Using Visual Hull**<br>
+*Heechan Yoon, Seungkyu Lee*<br>
+arXiv preprint, 13 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.08118)]
+
+
 
 ### NeRF + Transparent Object Synthesis
 
