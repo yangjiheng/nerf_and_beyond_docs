@@ -22,7 +22,10 @@
   - [3DGS Based Scene Understanding](#3dgs-based-scene-understanding)
   - [3DGS Based SLAM](#3dgs-based-slam)
   - [3DGS Based Inverse Rendering](#3dgs-based-inverse-rendering)
-
+  - [3DGS Scene Understanding](#3dgs-scene-understanding)
+  - [3DGS Applications](#3dgs-applications)
+    - [3DGS Application in Animal Reconstruction](#3dgs-application-in-animal-reconstruction)
+  
 ## 3DGS Original Paper
 
 **3D Gaussian Splatting for Real-Time Radiance Field Rendering**<br>
@@ -46,6 +49,11 @@ arXiv preprint, 28 Nov 2023<br>
 *Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai*<br>
 arXiv preprint, 30 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.00109)] [[Project](https://city-super.github.io/scaffold-gs/)]
+
+**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**<br>
+*Dawid Malarz, Weronika Smolak, Jacek Tabor, Sławomir Tadeja, Przemysław Spurek*<br>
+arXiv preprint, 21 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.13729)]
 
 ## 3DGS Acceleration
 
@@ -103,6 +111,21 @@ arXiv preprint, 6 Dec 2023<br>
 CVPR 2024, 9 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.05664)]
 
+**GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis**<br>
+*Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao*<br>
+arXiv preprint, 18 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.11458)] [[Project](https://lynl7130.github.io/gaufre/index.html)]
+
+**SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**<br>
+*Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi*<br>
+CVPR 2024, 4 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.14937)] [[Project](https://yihua7.github.io/SC-GS-web/)] [[Code](https://github.com/yihua7/SC-GS)] [[Video](https://www.youtube.com/watch?v=CYQYX_0xi5E&feature=youtu.be)]
+
+**Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis**<br>
+*Zhan Li, Zhang Chen, Zhong Li, Yi Xu*<br>
+CVPR 2024, 28 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.16812)] [[Project](https://oppo-us-research.github.io/SpacetimeGaussians-website/)] [[Code](https://github.com/oppo-us-research/SpacetimeGaussians)] [[Video](https://www.youtube.com/watch?v=YsPPmf-E6Lg)]
+
 ## 3DGS Few-shot Reconstruction
 
 **Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**<br>
@@ -115,12 +138,29 @@ arXiv preprint, 22 Nov 2023<br>
 arXiv preprint, 1 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.00451)] [[Project](https://zehaozhu.github.io/FSGS/)]
 
+**Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers**<br>
+*Zi-Xin Zou, Zhipeng Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Yan-Pei Cao, Song-Hai Zhang*<br>
+arXiv preprint, 14 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.09147)] [[Project](https://zouzx.github.io/TriplaneGaussian/)] [[Code](https://github.com/VAST-AI-Research/TriplaneGaussian)]
+
+**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**<br>
+*David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann*<br>
+arXiv preprint, 19 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.12337)] [[Project](https://davidcharatan.com/pixelsplat/)] [[Code](https://github.com/dcharatan/pixelsplat)]
+
 ## 3DGS Weak Camera Pose
 
 **COLMAP-Free 3D Gaussian Splatting**<br>
 *Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang*<br>
 CVPR 2024, 12 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.07504)] [[Project](https://oasisyang.github.io/colmap-free-3dgs/)] [[Video](https://www.youtube.com/watch?si=kqu3dbXopDdNg0wX&v=mGeVQS4ExK4&feature=youtu.be)]
+
+**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**<br>
+*Yuan Sun, Xuan Wang, Yunfan Zhang, Jie Zhang, Caigui Jiang, Yu Guo, Fei Wang*<br>
+arXiv preprint, 14 Dec 2023<br>
+[[arXiv]https://arxiv.org/abs/2312.09031]
+
+
 
 ## 3DGS Based Large Scene Reconstruction
 **Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**<br>
@@ -171,12 +211,39 @@ arXiv preprint, 12 Oct 2023<br>
 arXiv preprint, 29 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.17907)]
 
+**Text2Immersion: Generative Immersive Scene with 3D Gaussians**<br>
+*Hao Ouyang, Kathryn Heal, Stephen Lombardi, Tiancheng Sun*<br>
+arXiv preprint, 14 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.09242)] [[Project](https://ken-ouyang.github.io/text2immersion/index.html)]
+
+**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**<br>
+*Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis*<br>
+CVPR 2024, 21 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.13763)] [[Project](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/)]
+
+:fire:**LangSplat: 3D Language Gaussian Splatting**<br>
+*Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister*<br>
+CVPR 2024, 26 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.16084)] [[Project](https://langsplat.github.io/)] [[Code](https://github.com/minghanqin/LangSplat)] [[Video](https://www.youtube.com/watch?v=XMlyjsei-Es)]
+
+**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**<br>
+*Yuyang Yin, Dejia Xu, Zhangyang Wang, Yao Zhao, Yunchao Wei*<br>
+arXiv preprint, 28 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.17225)] [[Project](https://vita-group.github.io/4DGen/)] [[Code](https://github.com/VITA-Group/4DGen)]
+
+
+**DreamGaussian4D: Generative 4D Gaussian Splatting**<br>
+*Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu*<br>
+arXiv preprint, 28 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.17142)] [[Project](https://jiawei-ren.github.io/projects/dreamgaussian4d/)] [[Code](https://github.com/jiawei-ren/dreamgaussian4d)]
+
 ## 3DGS Model Compactness Optimization
 
 **LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**<br>
 *Zhiwen Fan, Kevin Wang, Kairun Wen, Zehao Zhu, Dejia Xu, Zhangyang Wang*<br>
 arXiv preprint, 28 Nov 2023<br>
 [[arXiv](https://arxiv.org/abs/2311.17245)] [[Project](https://lightgaussian.github.io/)] [[Video](https://www.bilibili.com/video/BV1QN4y127o9/)]
+
 
 
 ## 3DGS Avatar Generation
@@ -251,6 +318,27 @@ SIGGRAPH 2024, 7 Dec, 2023<br>
 arXiv preprint, 10 Dec 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.05941)] [[Project](https://vcai.mpi-inf.mpg.de/projects/ash/)] [[Code](https://github.com/kv2000/ASH)]
 
+**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**<br>
+*Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang*<br>
+CVPR 2024, 14 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.09228)] [[Project](https://neuralbodies.github.io/3DGS-Avatar/)] [[Code](https://github.com/mikeqzy/3dgs-avatar-release)]
+
+**GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning**<br>
+*Ye Yuan, Xueting Li, Yangyi Huang, Shalini De Mello, Koki Nagano, Jan Kautz, Umar Iqbal*<br>
+CVPR 2024, 18 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.11461)] [[Project](https://nvlabs.github.io/GAvatar/)] [[Video](https://www.youtube.com/watch?v=PbCF1HzrKrs&feature=youtu.be)]
+
+**3D Points Splatting for Real-Time Dynamic Hand Reconstruction**<br>
+*Zheheng Jiang, Hossein Rahmani, Sue Black, Bryan M. Williams*<br>
+arXiv preprint, 21 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.13770)]
+
+**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**<br>
+*Mingwei Li, Jiachen Tao, Zongxin Yang, Yi Yang*<br>
+arXiv preprint, 23 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.15258)] [[Code](https://github.com/longxiang-ai/Human101)]
+
+
 ## 3DGS Scene Editing and Animation
 
 **Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**<br>
@@ -311,3 +399,19 @@ arXiv preprint, 4 Dec 2023<br>
 *Yahao Shi, Yanmin Wu, Chenming Wu, Xing Liu, Chen Zhao, Haocheng Feng, Jingtuo Liu, Liangjun Zhang, Jian Zhang, Bin Zhou, Errui Ding, Jingdong Wang*<br>
 arXiv preprint, 8 Dec, 2023<br>
 [[arXiv](https://arxiv.org/abs/2312.05133)] [[Project](https://3dgir.github.io/)]
+
+## 3DGS Scene Understanding
+
+*2D-Guided 3D Gaussian Segmentation*<br>
+*Kun Lan, Haoran Li, Haolin Shi, Wenjun Wu, Yong Liao, Lin Wang, Pengyuan Zhou*<br>
+arXiv preprint, 26 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.16047)]
+
+## 3DGS Applications
+
+### 3DGS Application in Animal Reconstruction
+
+**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**<br>
+*Selcuk Anil Karatopak, Deniz Sen*<br>
+arXiv preprint, 15 Dec 2023<br>
+[[arXiv](https://arxiv.org/abs/2312.09682)]
