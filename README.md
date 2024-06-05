@@ -1,5 +1,7 @@
 # <p align='center'>NeRF and Beyond Docs</p>
 
+## Hang in there, we are catching up latest progress in a couple days.
+
 This is a collection of documents and topics NeRF & Beyond channel accumulated, as well as papers in literaure. This is still far from complete info regarding to this active research area. 
 
 Some papers we discussed in the group, will be added to the back of the paper with a **Notes** link. You can follow the link to check whether there is topic you are interested in. If not, welcome to join us and ask the question to the crowd. The mighty community might have your answers.
