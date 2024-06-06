@@ -2,7 +2,7 @@
 
 ## Hang in there, we are catching up latest progress in a couple days.
 
-This is a collection of documents and topics NeRF & Beyond channel accumulated, as well as papers in literaure. This is still far from complete info regarding to this active research area. 
+This is a collection of documents and topics NeRF/3DGS & Beyond channel accumulated, as well as papers in literaure. Since there are lots of papers out there, so we split them into two seperate repositories: [NeRF and Beyond Docs](https://github.com/yangjiheng/nerf_and_beyond_docs) and [3DGS and Beyond Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs). Please choose accordingly recarding to your preference.
 
 Some papers we discussed in the group, will be added to the back of the paper with a **Notes** link. You can follow the link to check whether there is topic you are interested in. If not, welcome to join us and ask the question to the crowd. The mighty community might have your answers.
 
@@ -21,10 +21,9 @@ For now, you can join us in the following ways
 * For other discussed techniques that's related to 3D reconstruction and NeRF, please refer to [link](./NeRF_Related_Tech.md), we are constantly trying to add more resource to this document.
 * We are trying to gradually setup Discord channels, join the [Discord Channel](https://discord.gg/AF2uMWGc) if you want to, we will certainly look forward to talk with you guys!
 
-Recently there are lots of 3D Gaussian Splatting related work released. We move all related work to a new document for tracking in parallel.
-
 ## 3DGS Progresses
-- [3D Gaussian Splatting Related Progresses](./3DGS.md)
+
+For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs)
 
 ## NeRF progresses
 
