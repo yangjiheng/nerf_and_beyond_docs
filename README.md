@@ -2110,6 +2110,11 @@ arXiv preprint, 29 Mar 2024<br>
 arXiv preprint, 30 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.19876)]
 
+**Bilateral Guided Radiance Field Processing**<br>
+*Yuehao Wang, Chaoyi Wang, Bingchen Gong, Tianfan Xue*<br>
+SIGGRAPH 2024, 1 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.00448)] [[Project](https://bilarfpro.github.io/)] [[Code](https://github.com/yuehaowang/bilarf)] [[Video](https://www.bilibili.com/video/BV1is421u7C5)]
+
 ### NeRF + Indoor Scenes
 
 **3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**<br>
