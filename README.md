@@ -600,6 +600,11 @@ IROS2024, 4 May 2024<br>
 arXiv preprint, 23 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.14452)]
 
+**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**<br>
+*Takuhiro Kaneko*<br>
+CVPR 2024, 6 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.04155)] [[Project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/lpo/)] [[Video](https://www.youtube.com/watch?v=jSVgpjbMPvU)]
+
 ### NeRF Training and Rendering Speed Enhancements
 
 :fire:**Neural Sparse Voxel Fields**<br>
@@ -1594,6 +1599,11 @@ arXiv preprint, 26 Feb 2024<br>
 *Sicheng Li, Hao Li, Yiyi Liao, Lu Yu*<br>
 CVPR 2024, 2 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.02185)]
+
+**How Far Can We Compress Instant-NGP-Based NeRF?**<br>
+*Yihang Chen, Qianyi Wu, Mehrtash Harandi, Jianfei Cai*<br>
+arXiv preprint, 6 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.04101)] [[Project](https://yihangchen-ee.github.io/project_cnc/)] [[Code](https://github.com/yihangchen-ee/cnc/)]
 
 ### NeRF Based 2D High Quality Image Synthesis
 
@@ -2726,6 +2736,11 @@ arXiv preprint, 1 Apr 2024<br>
 *Chi Huang, Xinyang Li, Shengchuan Zhang, Liujuan Cao, Rongrong Ji*<br>
 arXiv preprint, 22 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.13921)]
+
+**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**<br>
+*Xinhang Liu, Yu-Wing Tai, Chi-Keung Tang, Pedro Miraldo, Suhas Lohit, Moitreya Chatterjee*<br>
+CVPR 2024, 6 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.03723)] [[Project](https://merl.com/research/highlights/gear-nerf)]
 
 ### NeRF + Mesh Extraction
 
