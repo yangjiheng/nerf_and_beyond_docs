@@ -360,6 +360,26 @@ arXiv preprint, 2 Jun 2024<br>
 CVPR 2024, 13 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.08839)]
 
+**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**<br>
+*Clinton Wang, Peter Hedman, Polina Golland, Jonathan T. Barron, Daniel Duckworth*<br>
+CVPR 2024 Neural Rendering Intelligence Workshop, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11737)]
+
+**Uncertainty modeling for fine-tuned implicit functions**<br>
+*Anna Susmelj, Mael Macuglia, Nataša Tagasovska, Reto Sutter, Sebastiano Caprara, Jean-Philippe Thiran, Ender Konukoglu*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.12082)]
+
+**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**<br>
+*Huaiji Zhou, Bing Wang, Changhao Chen*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11766)]
+
+**Federated Neural Radiance Field for Distributed Intelligence**<br>
+*Yintian Zhang, Ziyu Shao*<br>
+arXiv preprint, 15 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10474)]
+
 ## Depth Supervised Reconstruction
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
@@ -607,6 +627,11 @@ arXiv preprint, 23 May 2024<br>
 *Takuhiro Kaneko*<br>
 CVPR 2024, 6 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.04155)] [[Project](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/lpo/)] [[Video](https://www.youtube.com/watch?v=jSVgpjbMPvU)]
+
+**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**<br>
+*Bo Sun, Thibault Groueix, Chen Song, Qixing Huang, Noam Aigerman*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.12121)]
 
 ## NeRF Training and Rendering Speed Enhancements
 
@@ -1167,6 +1192,11 @@ arXiv preprint, 20 Apr 2024<br>
 arXiv preprint, 28 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.18284)]
 
+**Fast Global Localization on Neural Radiance Field**<br>
+*Mangyu Kong, Seongwon Lee, Jaewon Lee, Euntai Kim*<br>
+arXiv preprint, 18 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.12202)]
+
 ## Camera Pose Estimation & Weak Camera Pose Reconstruction
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
@@ -1590,6 +1620,11 @@ arXiv preprint, 11 Jun 2024<br>
 arXiv preprint, 11 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.07742)]
 
+**OrientDream: Streamlining Text-to-3D Generation**<br>
+*Yuzhong Huang, Zhong Li, Zhang Chen, Zhiyuan Ren, Guosheng Lin, Fred Morstatter, Yi Xu*<br>
+arXiv preprint, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10000)]
+
 ## Generalization
 
 **Local Implicit Ray Function for Generalizable Radiance Field Representation**<br>
@@ -1737,6 +1772,11 @@ arXiv preprint, 9 May 2024<br>
 *Rengan Xie, Wenting Zheng, Kai Huang, Yizheng Chen, Qi Wang, Qi Ye, Wei Chen, Yuchi Huo*<br>
 arXiv preprint, 23 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.14580)]
+
+**RaNeuS: Ray-adaptive Neural Surface Reconstruction**<br>
+*Yida Wang, David Joseph Tan, Nassir Navab, Federico Tombari*<br>
+3DV 2024, 14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.09801)]
 
 ## NeRF + Hardware Optimization/Acceleration
 
@@ -2086,6 +2126,11 @@ arXiv preprint, 30 May 2024<br>
 *Chunjin Song, Zhijie Wu, Bastian Wandt, Leonid Sigal, Helge Rhodin*<br>
 arXiv preprint, 2 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.00637)]
+
+**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**<br>
+*Niu Guanchen*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11259)]
 
 ## NeRF + Imaging Tasks
 
@@ -2623,6 +2668,11 @@ arXiv preprint, 12 May 2024<br>
 CVPR 2024, 10 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.06133)]
 
+**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**<br>
+*Zhenggang Tang, Zhongzheng Ren, Xiaoming Zhao, Bowen Wen, Jonathan Tremblay, Stan Birchfield, Alexander Schwing*<br>
+CVPR 2024, 15 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.10543)] [[Code](https://github.com/nerfdeformer/nerfdeformer)]
+
 ## NeRF + Relighting
 
 
@@ -2799,6 +2849,16 @@ arXiv preprint, 12 Jun 2024<br>
 *Christopher D. Hsu, Pratik Chaudhari*<br>
 arXiv preprint, 11 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.07431)]
+
+**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**<br>
+*Letian Wang, Seung Wook Kim, Jiawei Yang, Cunjun Yu, Boris Ivanovic, Steven L. Waslander, Yue Wang, Sanja Fidler, Marco Pavone, Peter Karkus*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.12095)]
+
+**LLaNA: Large Language and NeRF Assistant**<br>
+*Andrea Amaduzzi, Pierluigi Zama Ramirez, Giuseppe Lisanti, Samuele Salti, Luigi Di Stefano*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.11840)]
 
 ## NeRF + Mesh Extraction
 
@@ -3077,6 +3137,11 @@ arXiv preprint, 7 May 2024<br>
 *Shangjie Xue, Jesse Dill, Pranay Mathur, Frank Dellaert, Panagiotis Tsiotra, Danfei Xu*<br>
 CVPR 2024, 11 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.06948)] [[Project](https://sites.google.com/view/nvf-cvpr24/)]
+
+**dGrasp:NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**<br>
+*Gergely Sóti, Xi Huang, Christian Wurll, Gergely Sóti<br>
+arXiv preprint,  14 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.09939)]
 
 ## NeRF + Transparent and Specular
 
@@ -3378,6 +3443,12 @@ CVPR 2024, 4 Dec, 2023<br>
 arXiv preprint, 8 Jan 2024<br>
 [[arXiv](https://arxiv.org/abs/2401.03771)]
 
+### Diffusion Surveys
+
+**Diffusion Models in Low-Level Vision: A Survey**<Br>
+*Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li*<br>
+arXiv preprint, 17 Jun 2024<br>
+[[arXiv0](https://arxiv.org/abs/2406.11138)] [[Code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
 
 ## Contributors
 
