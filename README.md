@@ -93,6 +93,7 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + GIS](#nerf--gis)
   - [NeRF + Terrain](#nerf--terrain)
   - [NeRF + Satellite Images / Radar](#nerf--satellite-images--radar)
+  - [NeRF + UAV/Drone](#nerf--uavdrone)
   - [NeRF + Copyright protection and Security](#nerf--copyright-protection-and-security)
     - [NeRF + Motion Detection](#nerf--motion-detection)
   - [Datasets](#datasets)
@@ -1110,6 +1111,11 @@ arXiv preprint, 11 Jun 2024<br>
 *Peiye Zhuang, Songfang Han, Chaoyang Wang, Aliaksandr Siarohin, Jiaxu Zou, Michael Vasilkovsky, Vladislav Shakhrai, Sergey Korolev, Sergey Tulyakov, Hsin-Ying Lee*<br>
 arXiv preprint, 9 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.05649)] [[Project](https://payeah.net/projects/GTR/)]
+
+**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**<br>
+*Ahmad AlMughrabi, Ricardo Marques, Petia Radeva*<br>
+arXiv preprint, 2 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.02668)] [[Code](https://amughrabi.github.io/momentsnerf/)]
 
 ## NeRF-3DGS Transfer
 
@@ -2919,6 +2925,11 @@ arXiv preprint, 17 Jun 2024<br>
 arXiv preprint, 23 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.15982)]
 
+**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**<br>
+*Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang*<br>
+arXiv preprintm, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01220)]
+
 ## NeRF + Mesh Extraction
 
 :fire:**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**<br>
@@ -3424,6 +3435,18 @@ CVPR 2024, 7 Jun 2024<br>
 *Tongtong Zhang, Yuanxiang Li*<br>
 arXiv preprint, 22 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.15707)]
+
+## NeRF + UAV/Drone
+
+**Active Human Pose Estimation via an Autonomous UAV Agent**<br>
+*Jingxi Chen, Botao He, Chahat Deep Singh, Cornelia Fermuller, Yiannis Aloimonos*<br>
+arXiv preprint, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01811)]
+
+**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**<br>
+*Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan*<br>
+ICCP 2024, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01761)]
 
 ## NeRF + Copyright protection and Security
 
