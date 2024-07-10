@@ -640,6 +640,11 @@ CVPR 2024, 6 Jun 2024<br>
 arXiv preprint, 17 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.12121)]
 
+**Dynamic Neural Radiance Field From Defocused Monocular Video**<br>
+*Xianrui Luo, Huiqiang Sun, Juewen Peng, Zhiguo Cao*<br>
+ECCV 2024, 8 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.05586)]
+
 ## NeRF Training and Rendering Speed Enhancements
 
 :fire:**Neural Sparse Voxel Fields**<br>
@@ -1105,6 +1110,11 @@ arXiv preprint, 11 Jun 2024<br>
 *Peiye Zhuang, Songfang Han, Chaoyang Wang, Aliaksandr Siarohin, Jiaxu Zou, Michael Vasilkovsky, Vladislav Shakhrai, Sergey Korolev, Sergey Tulyakov, Hsin-Ying Lee*<br>
 arXiv preprint, 9 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.05649)] [[Project](https://payeah.net/projects/GTR/)]
+
+**Enhancing Neural Radiance Fields with Depth and Normal Completion Priors from Sparse Views**<br>
+*Jiawei Guo, HungChyun Chou, Ning Ding*<br>
+arXiv preprint, 8 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.05666)]
 
 ## NeRF-3DGS Transfer
 
@@ -1701,6 +1711,12 @@ CVPR 2024, 2 Apr 2024<br>
 arXiv preprint, 6 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.04101)] [[Project](https://yihangchen-ee.github.io/project_cnc/)] [[Code](https://github.com/yihangchen-ee/cnc/)]
 
+:fire:**LaRa: Efficient Large-Baseline Radiance Fields**<br>
+*Anpei Chen, Haofei Xu, Stefano Esposito, Siyu Tang, Andreas Geiger*<br>
+arXiv preprint, 5 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.04699)]
+
+
 ## NeRF Based 2D High Quality Image Synthesis
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**<br>
@@ -2240,6 +2256,16 @@ arXiv preprint, 20 Jun 2024<br>
 *Haruo Fujiwara, Yusuke Mukuta, Tatsuya Harada*<br>
 arXiv preprint, 19 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.13393)] [[Project](https://haruolabs.github.io/style-n2n/)]
+
+**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**<br>
+*Dogyoon Lee, Donghyeong Kim, Jungho Lee, Minhyeok Lee, Seunghoon Lee, Sangyoun Lee*<br>
+arXiv preprint, 9 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.06613)] [[Project](https://dogyoonlee.github.io/sparsederf/)]
+
+**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**<br>
+*Mohammad Reza Karimi Dastjerdi, Frédéric Fortier-Chouinard, Yannick Hold-Geoffroy, Marc Hébert, Claude Demers, Nima Kalantari, Jean-François Lalonde*<br>
+arXiv preprint, 8 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.06150)]
 
 ## NeRF + Indoor Scenes
 
@@ -3082,6 +3108,11 @@ arXiv preprint, 17 Apr 2024<br>
 arXiv preprint, 24 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.16360)] [[Project](https://brabbitdousha.github.io/MIRReS/)] [[Video](https://www.bilibili.com/video/BV18E421N7fU/)]
 
+**RRM: Relightable assets using Radiance guided Material extraction**<br>
+*Diego Gomez, Julien Philip, Adrien Kaiser, Élie Michel*<br>
+CGI 2024, 8 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.06397)]
+
 ## NeRF + Texture Synthesis
 
 **NeRF-Tex: Neural Reflectance Field Textures**<br>
@@ -3199,6 +3230,11 @@ arXiv preprint,  14 Jun 2024<br>
 *Jianning Deng, Kartic Subr, Hakan Bilen*<br>
 arXiv preprint, 24 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.16623)]
+
+**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**<br>
+*Weiyi Xue, Zehan Zheng, Fan Lu, Haiyun Wei, Guang Chen, Changjun Jiang*<br>
+arXiv preprint, 8 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.05597)]
 
 ## NeRF + Transparent and Specular
 
