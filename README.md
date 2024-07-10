@@ -28,10 +28,14 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
 <summary>Table of Content</summary>
 
 - [NeRF and Beyond Docs](#nerf-and-beyond-docs)
+  - [How to join us](#how-to-join-us)
+  - [3DGS Progresses](#3dgs-progresses)
+  - [NeRF progresses](#nerf-progresses)
   - [New to NeRF](#new-to-nerf)
     - [Begin of NeRF, Always Start Here](#begin-of-nerf-always-start-here)
     - [NeRF Related Surveys](#nerf-related-surveys)
     - [NeRF Tutorials](#nerf-tutorials)
+    - [NeRF Profiling](#nerf-profiling)
     - [NeRF OpenSource Tools](#nerf-opensource-tools)
   - [NeRF Fundamental Enhancements](#nerf-fundamental-enhancements)
   - [Depth Supervised Reconstruction](#depth-supervised-reconstruction)
@@ -39,11 +43,11 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [Positional Encoding](#positional-encoding)
   - [Deformable \& Dynamic NeRF](#deformable--dynamic-nerf)
   - [NeRF Training and Rendering Speed Enhancements](#nerf-training-and-rendering-speed-enhancements)
-  - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
+    - [One-Shot/Few-Shot Sparse View Reconstruction](#one-shotfew-shot-sparse-view-reconstruction)
   - [NeRF-3DGS Transfer](#nerf-3dgs-transfer)
   - [NeRF Based SLAM](#nerf-based-slam)
     - [NeRF SLAM Survey](#nerf-slam-survey)
-    - [NeRF SLAM Progresses](#nerf-slam-progress)
+    - [NeRF SLAM Progress](#nerf-slam-progress)
   - [Camera Pose Estimation \& Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
   - [NeRF AIGC](#nerf-aigc)
     - [NeRF AIGC Survey](#nerf-aigc-survey)
@@ -57,16 +61,17 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
   - [NeRF + Avatar/Talking Head](#nerf--avatartalking-head)
   - [NeRF + Imaging Tasks](#nerf--imaging-tasks)
+  - [NeRF + Super-resolution](#nerf--super-resolution)
   - [NeRF + Indoor Scenes](#nerf--indoor-scenes)
   - [NeRF + Large Scale Scenes \& Urban Scenes](#nerf--large-scale-scenes--urban-scenes)
   - [NeRF + Autonomous Driving](#nerf--autonomous-driving)
     - [NeRF Autonomous Driving Survey](#nerf-autonomous-driving-survey)
-    - [NeRF Autonomous Driving Progresses](#nerf-autonomous-driving-progress)
+    - [NeRF Autonomous Driving Progress](#nerf-autonomous-driving-progress)
   - [NeRF + Editing](#nerf--editing)
   - [NeRF + Relighting](#nerf--relighting)
   - [NeRF + Open Surface Reconstruction and Cloth Simulation](#nerf--open-surface-reconstruction-and-cloth-simulation)
   - [NeRF + Segmentation](#nerf--segmentation)
-  - [NeRF + Multi Modal](#nerf--multi-modal)
+  - [NeRF + Multi-Modal](#nerf--multi-modal)
     - [NeRF Multi-Modal Survey](#nerf-multi-modal-survey)
     - [NeRF Multi-Modal Progresses](#nerf-multi-modal-progresses)
   - [NeRF + Semantic/Understanding](#nerf--semanticunderstanding)
@@ -76,7 +81,6 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + Medical/Biology](#nerf--medicalbiology)
   - [NeRF + Inverse Rendering](#nerf--inverse-rendering)
   - [NeRF + Texture Synthesis](#nerf--texture-synthesis)
-  - [NeRF + Transparent Object](#nerf--transparent-object)
   - [NeRF + Robotics](#nerf--robotics)
     - [NeRF Robotics Survey](#nerf-robotics-survey)
     - [NeRF Robotics Progresses](#nerf-robotics-progresses)
@@ -89,14 +93,16 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + GIS](#nerf--gis)
   - [NeRF + Terrain](#nerf--terrain)
   - [NeRF + Satellite Images / Radar](#nerf--satellite-images--radar)
+  - [NeRF + UAV/Drone](#nerf--uavdrone)
   - [NeRF + Copyright protection and Security](#nerf--copyright-protection-and-security)
-  - [NeRF + Motion Detection](#nerf--motion-detection)
+    - [NeRF + Motion Detection](#nerf--motion-detection)
   - [Datasets](#datasets)
   - [Neural Surface Reconstruction](#neural-surface-reconstruction)
-- [Other Important Related Work](#other-important-related-work)
-  - [Depth Estimation](#depth-estimation)
-- [Contributors](#contributors)
-- [License](#license)
+  - [Other Important Related Work](#other-important-related-work)
+    - [Depth Estimation](#depth-estimation)
+    - [Diffusion Surveys](#diffusion-surveys)
+  - [Contributors](#contributors)
+  - [License](#license)
 
 ## New to NeRF
 
@@ -1115,6 +1121,11 @@ arXiv preprint, 9 Jun 2024<br>
 *Jiawei Guo, HungChyun Chou, Ning Ding*<br>
 arXiv preprint, 8 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.05666)]
+
+**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**<br>
+*Ahmad AlMughrabi, Ricardo Marques, Petia Radeva*<br>
+arXiv preprint, 2 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.02668)] [[Code](https://amughrabi.github.io/momentsnerf/)]
 
 ## NeRF-3DGS Transfer
 
@@ -2267,6 +2278,13 @@ arXiv preprint, 9 Jul 2024<br>
 arXiv preprint, 8 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.06150)]
 
+## NeRF + Super-resolution
+
+**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**<br>
+*Ding-Jiun Huang, Zi-Ting Chou, Yu-Chiang Frank Wang, Cheng Sun*<br>
+arXiv preprint, 28 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.20066)]
+
 ## NeRF + Indoor Scenes
 
 **3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**<br>
@@ -2933,6 +2951,11 @@ arXiv preprint, 17 Jun 2024<br>
 arXiv preprint, 23 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.15982)]
 
+**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**<br>
+*Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang*<br>
+arXiv preprintm, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01220)]
+
 ## NeRF + Mesh Extraction
 
 :fire:**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**<br>
@@ -3065,6 +3088,11 @@ arXiv preprint, 17 May 2024<br>
 *Zijie Jiang, Yusuke Monno, Masatoshi Okutomi, Sho Suzuki, Kenji Miki*<br>
 EMBC 2024, 29 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.18863)]
+
+**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**<br>
+*Zongyu Li, Yixuan Jia, Xiaojian Xu, Jason Hu, Jeffrey A. Fessler, Yuni K. Dewaraja*<br>
+arXiv preprint, 27 Jun 2024<br>
+[[arXiv](https://arxiv.org/abs/2406.18840)]
 
 ## NeRF + Inverse Rendering
 
@@ -3443,6 +3471,18 @@ CVPR 2024, 7 Jun 2024<br>
 *Tongtong Zhang, Yuanxiang Li*<br>
 arXiv preprint, 22 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.15707)]
+
+## NeRF + UAV/Drone
+
+**Active Human Pose Estimation via an Autonomous UAV Agent**<br>
+*Jingxi Chen, Botao He, Chahat Deep Singh, Cornelia Fermuller, Yiannis Aloimonos*<br>
+arXiv preprint, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01811)]
+
+**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**<br>
+*Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan*<br>
+ICCP 2024, 1 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.01761)]
 
 ## NeRF + Copyright protection and Security
 
