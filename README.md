@@ -135,6 +135,11 @@ TPAMI 2022, 1 Oct 2022<br>
 In Progress,20 Apr 2023<br>
 [[arXiv](https://arxiv.org/abs/2304.10050)]
 
+**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**<br>
+*Yonge Bai, LikHang Wong, TszYin Twan*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08137)]
+
 ### NeRF Tutorials
 
 :fire:**Neural Rendering Course**<br>
@@ -392,6 +397,11 @@ arXiv preprint, 17 Jun 2024<br>
 *Yintian Zhang, Ziyu Shao*<br>
 arXiv preprint, 15 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.10474)]
+
+**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**<br>
+*Ganlin Yang, Kaidong Zhang, Jingjing Fu, Dong Liu*<br>
+arXiv preprint, 10 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.07461)]
 
 ## Depth Supervised Reconstruction
 
@@ -1700,6 +1710,13 @@ CVPR 2024, 21 Apr 2024<br>
 CVPR 2024, 26 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.17528)] [[Project](https://gefucvpr24.github.io/)] [[Code](https://github.com/TQTQliu/GeFu)]
 
+
+:fire:**LaRa: Efficient Large-Baseline Radiance Fields**<br>
+*Anpei Chen, Haofei Xu, Stefano Esposito, Siyu Tang, Andreas Geiger*<br>
+arXiv preprint, 5 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.04699)]
+
+
 ## Model Compression
 
 **HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**<br>
@@ -1722,11 +1739,10 @@ CVPR 2024, 2 Apr 2024<br>
 arXiv preprint, 6 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.04101)] [[Project](https://yihangchen-ee.github.io/project_cnc/)] [[Code](https://github.com/yihangchen-ee/cnc/)]
 
-:fire:**LaRa: Efficient Large-Baseline Radiance Fields**<br>
-*Anpei Chen, Haofei Xu, Stefano Esposito, Siyu Tang, Andreas Geiger*<br>
-arXiv preprint, 5 Jul 2024<br>
-[[arXiv](https://arxiv.org/abs/2407.04699)]
-
+**Explicit_NeRF_QA: A Quality Assessment Database for Explicit NeRF Model Compression**<br>
+*Yuke Xing, Qi Yang, Kaifa Yang, Yilin Xu, Zhu Li*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08165)]
 
 ## NeRF Based 2D High Quality Image Synthesis
 
@@ -1826,6 +1842,11 @@ arXiv preprint, 23 May 2024<br>
 *Yida Wang, David Joseph Tan, Nassir Navab, Federico Tombari*<br>
 3DV 2024, 14 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.09801)]
+
+**Neural Geometry Processing via Spherical Neural Surfaces**<br>
+*Romy Williamson, Niloy J. Mitra*<br>
+arXiv preprint, 10 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.07755)]
 
 ## NeRF + Hardware Optimization/Acceleration
 
@@ -3380,6 +3401,11 @@ arXiv preprint, 5 May 2024<br>
 arXiv preprint, 19 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.11541)]
 
+**Bayesian uncertainty analysis for underwater 3D reconstruction with neural radiance fields**<br>
+*Haojie Lian, Xinhao Li, Yilin Qu, Jing Du, Zhuxuan Meng, Jie Liu, Leilei Chen*<br>
+arXiv preprint, 11 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.08154)]
+
 ## NeRF + Gaming
 
 **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**<br>
@@ -3510,6 +3536,11 @@ arXiv preprint, 2 Jan 2024<br>
 *Youngdong Jang, Dong In Lee, MinHyuk Jang, Jong Wook Kim, Feng Yang, Sangpil Kim*<br>
 arXiv preprint, 3 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.02066)]
+
+**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**<br>
+*Qi Song, Ziyuan Luo, Ka Chun Cheung, Simon See, Renjie Wan*<br>
+ECCV 2024, 10 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.07735)] [[Project](https://qsong2001.github.io/NeRFProtector/)]
 
 ### NeRF + Motion Detection
 
