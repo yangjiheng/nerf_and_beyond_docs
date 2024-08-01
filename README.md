@@ -49,6 +49,7 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
     - [NeRF SLAM Survey](#nerf-slam-survey)
     - [NeRF SLAM Progress](#nerf-slam-progress)
   - [Camera Pose Estimation \& Weak Camera Pose Reconstruction](#camera-pose-estimation--weak-camera-pose-reconstruction)
+  - [NeRF with MVS](#nerf-with-mvs)
   - [NeRF AIGC](#nerf-aigc)
     - [NeRF AIGC Survey](#nerf-aigc-survey)
     - [NeRF AIGC Progresses](#nerf-aigc-progresses)
@@ -57,6 +58,7 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF Based 2D High Quality Image Synthesis](#nerf-based-2d-high-quality-image-synthesis)
   - [SDF Based Reconstruction / Other Geometry Based Reconstruction](#sdf-based-reconstruction--other-geometry-based-reconstruction)
   - [NeRF + Hardware Optimization/Acceleration](#nerf--hardware-optimizationacceleration)
+  - [NeRF + Light Field Rendering](#nerf--light-field-rendering)
   - [NeRF + Point Cloud / LiDAR](#nerf--point-cloud--lidar)
   - [NeRF + Auto Data Collection](#nerf--auto-data-collection)
   - [NeRF + Avatar/Talking Head](#nerf--avatartalking-head)
@@ -95,7 +97,7 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [NeRF + Satellite Images / Radar](#nerf--satellite-images--radar)
   - [NeRF + UAV/Drone](#nerf--uavdrone)
   - [NeRF + Copyright protection and Security](#nerf--copyright-protection-and-security)
-    - [NeRF + Motion Detection](#nerf--motion-detection)
+  - [NeRF + Motion Detection](#nerf--motion-detection)
   - [Datasets](#datasets)
   - [Neural Surface Reconstruction](#neural-surface-reconstruction)
   - [Other Important Related Work](#other-important-related-work)
@@ -666,6 +668,11 @@ arXiv preprint, 17 Jun 2024<br>
 ECCV 2024, 8 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.05586)]
 
+**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**<br>
+*Yifan Zhan, Zhuoxiao Li, Muyao Niu, Zhihang Zhong, Shohei Nobuhara, Ko Nishino, Yinqiang Zheng*<br>
+ECCV 2024, 18 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.13185)]
+
 ## NeRF Training and Rendering Speed Enhancements
 
 :fire:**Neural Sparse Voxel Fields**<br>
@@ -1152,6 +1159,12 @@ arXiv preprint, 8 Jul 2024<br>
 arXiv preprint, 2 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.02668)] [[Code](https://amughrabi.github.io/momentsnerf/)]
 
+**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**<br>
+*Xulong Wang, Siyan Dong, Youyi Zheng, Yanchao Yang*<br>
+ECCV 2024, 17 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.12661)] [[Code](https://github.com/Muliphein/InfoNorm)]
+
+
 ## NeRF-3DGS Transfer
 
 **NeRFs to Gaussian Splats, and Back**<br>
@@ -1254,6 +1267,16 @@ arXiv preprint, 28 Apr 2024<br>
 *Mangyu Kong, Seongwon Lee, Jaewon Lee, Euntai Kim*<br>
 arXiv preprint, 18 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.12202)]
+
+**I^2-SLAM: Inverting Imaging Process for Robust Photorealistic Dense SLAM**<br>
+*Gwangtak Bae, Changwoon Choi, Hyeongjun Heo, Sang Min Kim, Young Min Kim*<br>
+ECCV 2024, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11347)]
+
+**Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method**<br>
+*Adam Korycki, Colleen Josephson, Steve McGuire*<br>
+arXiv preprint, 15 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11238)]
 
 ## Camera Pose Estimation & Weak Camera Pose Reconstruction
 
@@ -1397,6 +1420,23 @@ arXiv preprint, 21 May 2024<br>
 *Shiyao Xu, Caiyun Liu, Yuantao Chen, Zhenxin Zhu, Zike Yan, Yongliang Shi, Hao Zhao, Guyue Zhou*<br>
 ICRA 2024, 23 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.14824)] [[Code](https://github.com/hnrna/ShadowfreeNeRF-CameraReloc)]
+
+**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**<br>
+*Yiyang Chen, Siyan Dong, Xulong Wang, Lulu Cai, Youyi Zheng, Yanchao Yang*<br>
+ECCV 2024, 17 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.12667)] [[Code](https://github.com/Iris-cyy/SG-NeRF)]
+
+**Invertible Neural Warp forNeRF**<br>
+*Shin-Fang Chng, Ravi Garg, Hemanth Saratchandran, Simon Lucey*<br>
+ECCV 2024, 17 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.12354)] [[Project](https://sfchng.github.io/ineurowarping-github.io/)] [[Code](https://github.com/sfchng/neural_invertible_warp)]
+
+## NeRF with MVS
+
+**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**<br>
+*Chih-Hai Su, Chih-Yao Hu, Shr-Ruei Tsai, Jie-Ying Lee, Chin-Yang Lin, Yu-Lun Liu*<br>
+SIGGRAPH 2024, 22 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.15848)] [[Project](https://su-terry.github.io/BoostMVSNeRFs/)] [[Code](https://github.com/Su-Terry/BoostMVSNeRFs)]
 
 ## NeRF AIGC
 
@@ -1693,6 +1733,21 @@ arXiv preprint, 25 jUN 2024<br>
 arXiv preprint, 21 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.15020)]
 
+**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**<br>
+*Zizheng Yan, Jiapeng Zhou, Fanpeng Meng, Yushuang Wu, Lingteng Qiu, Zisheng Ye, Shuguang Cui, Guanying Chen, Xiaoguang Han*<br>
+ECCV 2024, 23 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.16260)] [[Project](https://chester256.github.io/dreamdissector/)]
+
+**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**<br>
+*Zezeng Li, Weimin Wang, WenHai Li, Na Lei, Xianfeng Gu*<br>
+arXiv preprint, 19 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.14419)]
+
+**DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity**<br>
+*Jiwook Kim, Seonho Lee, Jaeyo Shin, Jiho Choi, Hyunjung Shim*<br>
+arXiv preprint, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11394)] [[Project](https://dream-catalyst.github.io/)]
+
 ## Generalization
 
 **Local Implicit Ray Function for Generalizable Radiance Field Representation**<br>
@@ -1925,6 +1980,12 @@ arXiv preprint, 10 Apr 2024<br>
 arXiv preprint, 12 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.09386)]
 
+## NeRF + Light Field Rendering
+
+**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**<br>
+*Zongyuan Yang, Baolin Liu, Yingde Song, Yongping Xiong, Lan Yi, Zhaohe Zhang, Xunbo Yu*<br>
+arXiv preprint, 19 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.14053)] [[Project](https://direct-l.github.io/)]
 
 ## NeRF + Point Cloud / LiDAR
 
@@ -2228,6 +2289,15 @@ arXiv preprint, 2 Jun 2024<br>
 arXiv preprint, 17 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.11259)]
 
+**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**<br>
+*Guanlin Wu, Zhonghao Lyu, Juyong Zhang, Jie Xu*<br>
+arXiv preprint, 19 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.13992)]
+
+**Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling**<br>
+*Jaehyeok Kim, Dongyoon Wee, Dan Xu*<br>
+ECCV 2024, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11962)] [[Project](https://stevejaehyeok.github.io/publications/moco-nerf/)]
 
 ## NeRF + Imaging Tasks
 
@@ -3594,7 +3664,17 @@ arXiv preprint, 3 May 2024<br>
 ECCV 2024, 10 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.07735)] [[Project](https://qsong2001.github.io/NeRFProtector/)]
 
-### NeRF + Motion Detection
+**GeometrySticker: Enabling Ownership Claim of Recolorized**<br>
+*Xiufeng Huang, Ka Chun Cheung, Simon See, Renjie Wan*<br>
+arXiv preprint, 18 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.13390)] [[Project](https://kevinhuangxf.github.io/GeometrySticker/)]
+
+**IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields**<br>
+*Wenxiang Jiang, Hanwei Zhang, Shuo Zhao, Zhongwen Guo, Hao Wang*<br>
+arXiv preprint, 16 Jul 2024<br>
+[[arXiv](https://arxiv.org/abs/2407.11921)] [[Code](https://github.com/jiang-wenxiang/IPA-NeRF)]
+
+## NeRF + Motion Detection
 
 **3D Motion Magnification: Visualizing Subtle Motions with Time Varying Radiance Fields**<br>
 *Brandon Y. Feng, Hadi Alzayer, Michael Rubinstein, William T. Freeman, Jia-Bin Huang*<br>
