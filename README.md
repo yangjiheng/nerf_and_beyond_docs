@@ -423,6 +423,11 @@ arXiv preprint, 10 Jul 2024<br>
 ECCV 2024, 14 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.10267)] [[Code](https://github.com/MyNiuuu/RS-NeRF)]
 
+**Efficient NeRF Optimization -- Not All Samples Remain Equally Hard**<br>
+*Juuso Korhonen, Goutham Rangu, Hamed R. Tavakoli, Juho Kannala*<br>
+arXiv preprint, 6 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.03193)]
+
 ## Depth Supervised Reconstruction
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
@@ -899,6 +904,11 @@ ECCV 2024, 15 Jul 2024<br>
 arXiv preprint, 15 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.10389)]
 
+**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**<br>
+*Yu Feng, Weikai Lin, Zihan Liu, Jingwen Leng, Minyi Guo, Han Zhao, Xiaofeng Hou, Jieru Zhao, Yuhao Zhu*<br>
+arXiv preprint, 13 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.06608)]
+
 ## One-Shot/Few-Shot Sparse View Reconstruction
 
 :fire:**pixelNeRF: Neural Radiance Fields from One or Few Images**<br>
@@ -1177,6 +1187,10 @@ arXiv preprint, 2 Jul 2024<br>
 ECCV 2024, 17 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.12661)] [[Code](https://github.com/Muliphein/InfoNorm)]
 
+**FewShotNeRF: Meta-Learning-based Novel View Synthesis for Rapid Scene-Specific Adaptation**<br>
+*Piraveen Sivakumar, Paul Janson, Jathushan Rajasegaran, Thanuja Ambegoda*<br>
+arXiv preprint, 9 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.04803)]
 
 ## NeRF-3DGS Transfer
 
@@ -1935,6 +1949,16 @@ arXiv preprint, 23 May 2024<br>
 *Romy Williamson, Niloy J. Mitra*<br>
 arXiv preprint, 10 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.07755)]
+
+**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**<br>
+*Jianyu Tao, Changping Hu, Edward Yang, Jing Xu, Rui Chen*<br>
+arXiv preprint, 13 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.06592)]
+
+**MGFs: Masked Gaussian Fields for Meshing Building based on Multi-View Images**<br>
+*Tengfei Wang, Zongqian Zhan, Rui Xia, Linxia Ji, Xin Wang*<br>
+arXiv preprint, 6 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.03060)]
 
 ## NeRF + Hardware Optimization/Acceleration
 
@@ -2959,6 +2983,11 @@ NeurIPS 2023, 4 Jan 2024<br>
 ICLR 2024, 4 Apr 2024<br>
 [[arXiv](https://arxiv.org/abs/2404.03650)] [[Project](https://opennerf.github.io/)] [[Code](https://github.com/opennerf/opennerf)]
 
+**Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space**<br>
+*Hyunjee Lee, Youngsik Yun, Jeongmin Bae, Seoha Kim, Youngjung Uh*<br>
+arXiv preprint, 14 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.07416)] [[Project](https://hyunji12.github.io/Open3DRF/)]
+
 ## NeRF + Multi-Modal
 
 ### NeRF Multi-Modal Survey
@@ -3229,6 +3258,11 @@ EMBC 2024, 29 May 2024<br>
 *Zongyu Li, Yixuan Jia, Xiaojian Xu, Jason Hu, Jeffrey A. Fessler, Yuni K. Dewaraja*<br>
 arXiv preprint, 27 Jun 2024<br>
 [[arXiv](https://arxiv.org/abs/2406.18840)]
+
+**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**<br>
+*Jaydeep Rade, Ethan Herron, Soumik Sarkar, Anwesha Sarkar, Adarsh Krishnamurthy*<br>
+arXiv preprint, 12 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.06244)]
 
 ## NeRF + Inverse Rendering
 
@@ -3536,6 +3570,11 @@ SIGGRAPH 2024, 12 Jul 2024<br>
 arXiv preprint, 11 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.08795)]
 
+**PanicleNeRF: low-cost, high-precision in-field phenotyping of rice panicles with smartphone**<br>
+*Xin Yang, Xuqi Lu, Pengyao Xie, Ziyue Guo, Hui Fang, Haowei Fu, Xiaochun Hu, Zhenbiao Sun, Haiyan Cen*<br>
+arXiv preprint, 4 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.02053)]
+
 ## NeRF + Gaming
 
 **Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video**<br>
@@ -3644,6 +3683,11 @@ arXiv preprint, 1 Jul 2024<br>
 *Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan*<br>
 ICCP 2024, 1 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.01761)]
+
+**Radiance Field Learners As UAV First-Person Viewers**<br>
+*Liqi Yan, Qifan Wang, Junhan Zhao, Qiang Guan, Zheng Tang, Jianhui Zhang, Dongfang Li*<br>
+ECCV 2024, 10 Aug 2024<br>
+[[arXiv](https://arxiv.org/abs/2408.05533)] [[Project](https://fpv-nerf.github.io/)]
 
 ## NeRF + Copyright protection and Security
 
