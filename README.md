@@ -8,6 +8,18 @@ We are actively maintaining this page trying to stay up-to-date and gather impor
 
 Please feel free to join us on WeChat group or start a discussion topic here.
 
+
+## NeRF/3DGS Book
+
+I have recently published a book with PHEI(Publishing House of Electronics Industry) on NeRF/3DGS. This would not have been possible without the help of the whole 3D vision community. It is now available on jd.com and it should be suitable as a reference handbook for NeRF/3DGS beginners or engineers in related areas. I sincerely hope the book can be helpful in any perspective. 
+
+For those of you who have already purchased the book, all references can be downloaded [HERE](./assets/book_references.pdf). If you experience any issue reading the book or have any suggestions to improve it, please contact me through my email address: `jiheng.yang@gmail.com`, or directly concact me on WeChat: `jiheng_yang`. I'm looking forward to talk to anyone reaching out to me, thanks in advance.
+
+<div style="text-align: center;">
+  <img src="./assets/book_cover.jpeg" width="400">
+</div>
+
+
 ## How to join us
 
 For now, you can join us in the following ways
@@ -28,6 +40,7 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
 <summary>Table of Content</summary>
 
 - [NeRF and Beyond Docs](#nerf-and-beyond-docs)
+  - [NeRF/3DGS Book](#nerf3dgs-book)
   - [How to join us](#how-to-join-us)
   - [3DGS Progresses](#3dgs-progresses)
   - [NeRF progresses](#nerf-progresses)
