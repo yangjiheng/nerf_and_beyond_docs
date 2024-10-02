@@ -691,6 +691,11 @@ ECCV 2024, 8 Jul 2024<br>
 ECCV 2024, 18 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.13185)]
 
+**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**<br>
+*Sandika Biswas, Qianyi Wu, Biplab Banerjee, Hamid Rezatofighi*<br>
+NeurIPS 2024, 26 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.17459)]
+
 ## NeRF Training and Rendering Speed Enhancements
 
 :fire:**Neural Sparse Voxel Fields**<br>
@@ -1330,6 +1335,11 @@ arXiv preprint, 15 Jul 2024<br>
 arXiv preprint, 21 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.11966)]
 
+**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**<br>
+*Qi Zhang, He Wang, Ru Li, Wenbin Li*<br>
+arXiv preprint, 26 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.17729)]
+
 ## Camera Pose Estimation & Weak Camera Pose Reconstruction
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
@@ -1886,6 +1896,16 @@ arXiv preprint, 12 Jul 2024<br>
 arXiv preprint, 9 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.05334)] [[Project](https://theialab.github.io/laghashes/)]
 
+**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**<br>
+*Jae Yong Lee, Yuqun Wu, Chuhang Zou, Derek Hoiem, Shenlong Wang*<br>
+arXiv preprint, 24 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.15689)]
+
+**Disentangled Generation and Aggregation for Robust Radiance Fields**<br>
+*Shihe Shen, Huachen Gao, Wangze Xu, Rui Peng, Luyang Tang, Kaiqiang Xiong, Jianbo Jiao, Ronggang Wang*<br>
+ECCV 2024, 24 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.15715)] [[Project](https://gaohchen.github.io/DiGARR/)]
+
 ## NeRF Based 2D High Quality Image Synthesis
 
 **GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields**<br>
@@ -2391,6 +2411,16 @@ ECCV 2024, 16 Jul 2024<br>
 ECCV 2024, 18 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.09347)]
 
+**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**<br>
+*Aggelina Chatziagapi, Bindita Chaudhuri, Amit Kumar, Rakesh Ranjan, Dimitris Samaras, Nikolaos Sarafianos*<br>
+ECCVW 2024, 25 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.16666)] [[Project](https://aggelinacha.github.io/TalkinNeRF/)]
+
+**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**<br>
+*Huan Wang, Feitong Tan, Ziqian Bai, Yinda Zhang, Shichen Liu, Qiangeng Xu, Menglei Chai, Anish Prabhu, Rohit Pandey, Sean Fanello, Zeng Huang, Yun Fu*<br>
+ECCV 2024 CADL Workshop, 26 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.18057)] [[Code](https://github.com/MingSun-Tse/LightAvatar-TensorFlow)]
+
 ## NeRF + Imaging Tasks
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
@@ -2492,6 +2522,11 @@ arXiv preprint, 8 Jul 2024<br>
 *Wei Zhi Tang, Daniel Rebain, Kostantinos G. Derpanis, Kwang Moo Yi*<br>
 arXiv preprint, 9 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.06104)] [[Code](https://github.com/ubc-vision/LSENeRF)]
+
+**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**<br>
+*Weng Fei Low, Gim Hee Lee*<br>
+ECCV 2024, 26 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.17988)] [[Project](https://wengflow.github.io/deblur-e-nerf/)] [[Code](https://github.com/wengflow/deblur-e-nerf)]
 
 ## NeRF + Super-resolution
 
@@ -3695,6 +3730,11 @@ arXiv preprint, 11 Jul 2024<br>
 *Xin Yang, Xuqi Lu, Pengyao Xie, Ziyue Guo, Hui Fang, Haowei Fu, Xiaochun Hu, Zhenbiao Sun, Haiyan Cen*<br>
 arXiv preprint, 4 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.02053)]
+
+**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**<br>
+*Samarth Chopra, Fernando Cladera, Varun Murali, Vijay Kumar*<br>
+arXiv preprint, 23 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.15487)]
 
 ## NeRF + Gaming
 
