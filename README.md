@@ -155,6 +155,11 @@ In Progress,20 Apr 2023<br>
 arXiv preprint, 11 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.08137)]
 
+**3D Representation Methods: A Survey**<br>
+*Zhengren Wang*<br>
+arXiv preprint, 9 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.06475)]
+
 ### NeRF Tutorials
 
 :fire:**Neural Rendering Course**<br>
@@ -428,6 +433,11 @@ ECCV 2024, 14 Jul 2024<br>
 arXiv preprint, 6 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.03193)]
 
+**Magnituder Layers for Implicit Neural Representations in 3D**<br>
+*Sang Min Kim, Byeongchan Kim, Arijit Sehanobish Krzysztof Choromanski, Dongseok Shim, Avinava Dubey, Min-hwan Oh*<br>
+arXiv preprint, 13 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.09771)]
+
 ## Depth Supervised Reconstruction
 
 :fire:**Depth-supervised NeRF: Fewer Views and Faster Training for Free**<br>
@@ -690,6 +700,11 @@ ECCV 2024, 8 Jul 2024<br>
 *Yifan Zhan, Zhuoxiao Li, Muyao Niu, Zhihang Zhong, Shohei Nobuhara, Ko Nishino, Yinqiang Zheng*<br>
 ECCV 2024, 18 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.13185)]
+
+**Deformable NeRF using Recursively Subdivided Tetrahedra**<br>
+*Zherui Qiu, Chenqu Ren, Kaiwen Song, Xiaoyi Zeng, Leyuan Yang, Juyong Zhang*<br>
+ACM MM 2024, 6 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.04402)] [[Project](https://ustc3dv.github.io/DeformRF/)]
 
 ## NeRF Training and Rendering Speed Enhancements
 
@@ -1191,6 +1206,11 @@ ECCV 2024, 17 Jul 2024<br>
 *Piraveen Sivakumar, Paul Janson, Jathushan Rajasegaran, Thanuja Ambegoda*<br>
 arXiv preprint, 9 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.04803)]
+
+**Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**<br>
+*Ziwei Liao, Binbin Xu, Steven L. Waslander*<br>
+CoRL 2024, 7 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.05514)] [[Code](https://github.com/TRAILab/GeneralObjectMapping)]
 
 ## NeRF-3DGS Transfer
 
@@ -1814,6 +1834,16 @@ arXiv preprint, 5 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.04699)]
 
 
+**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**<br>
+*Youngho Yoon, Hyun-Kurl Jang, Kuk-Jin Yoon*<br>
+ECCV 2024, 1 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.00672)] [[Code](https://github.com/yh-yoon/GMT)]
+
+**OPONeRF: One-Point-One NeRF for Robust Neural Rendering**<br>
+*Yu Zheng, Yueqi Duan, Kangfu Zheng, Hongru Yan, Jiwen Lu, Jie Zhou*<br>
+arXiv preprint, 30 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.20043)] [[Project](https://yzheng97.github.io/OPONeRF/)] [[Code](https://github.com/yzheng97/OPONeRF)]
+
 ## Model Compression
 
 **HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**<br>
@@ -2016,6 +2046,16 @@ arXiv preprint, 10 Apr 2024<br>
 *Sacha Jungerman, Mohit Gupta*<br>
 arXiv preprint, 12 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.09386)]
+
+**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**<br>
+*Chonghao Zhong, Chao Xu*<br>
+arXiv preprint, 7 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.04873)]
+
+**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**<br>
+*Md Farhan Tasnim Oshim, Albert Reed, Suren Jayasuriya, Tauhidur Rahman*<br>
+arXiv preprint, 14 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.10085)]
 
 ## NeRF + Light Field Rendering
 
@@ -2335,6 +2375,12 @@ arXiv preprint, 19 Jul 2024<br>
 *Jaehyeok Kim, Dongyoon Wee, Dan Xu*<br>
 ECCV 2024, 16 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.11962)] [[Project](https://stevejaehyeok.github.io/publications/moco-nerf/)]
+
+**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**<br>
+*Zhaorong Wang, Yoshihiro Kanamori, Yuki Endo*<br>
+arXiv preprint, 16 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.12242)] [[Code](https://github.com/LarsPh/EG-HumanNeRF)]
+
 
 ## NeRF + Imaging Tasks
 
@@ -3121,6 +3167,13 @@ arXiv preprint, 23 Jun 2024<br>
 arXiv preprintm, 1 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.01220)]
 
+**Improving 3D Finger Traits Recognition via Generalizable Neural Rendering**
+*Hongbin Xu, Junduan Huang, Yuer Ma, Zifeng Li, Wenxiong Kang*<br>
+IJCV 2024, 12 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.09582)] [[Project](https://scut-bip-lab.github.io/fingernerf/)]
+
+
+
 ## NeRF + Mesh Extraction
 
 :fire:**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**<br>
@@ -3263,6 +3316,11 @@ arXiv preprint, 27 Jun 2024<br>
 *Jaydeep Rade, Ethan Herron, Soumik Sarkar, Anwesha Sarkar, Adarsh Krishnamurthy*<br>
 arXiv preprint, 12 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.06244)]
+
+**HybridNeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**<br>
+*Pengcheng Chen, Wenhao Li, Nicole Gunderson, Jeremy Ruthberg, Randall Bly, Waleed M. Abuzeid, Zhenglong Sun, Eric J. Seibel*<br>
+arXiv preprint, 10 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.04041)]
 
 ## NeRF + Inverse Rendering
 
@@ -3439,6 +3497,17 @@ arXiv preprint, 8 Jul 2024<br>
 arXiv preprint, 15 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.10865)]
 
+**Active Neural Mapping at Scale**<br>
+*Zijia Kuang, Zike Yan, Hao Zhao, Guyue Zhou, Hongbin Zha*<br>
+arXiv preprint, 30 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.20276)]
+
+**Distributed NeRF Learning for Collaborative Multi-Robot Perception**<br>
+*Hongrui Zhao, Boris Ivanovic, Negar Mehr*<br>
+arXiv preprint, 30 Sep 2024<br>
+[[arXiv](https://arxiv.org/abs/2409.20289)]
+
+
 ## NeRF + Transparent and Specular
 
 **NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields**<br>
@@ -3574,6 +3643,11 @@ arXiv preprint, 11 Jul 2024<br>
 *Xin Yang, Xuqi Lu, Pengyao Xie, Ziyue Guo, Hui Fang, Haowei Fu, Xiaochun Hu, Zhenbiao Sun, Haiyan Cen*<br>
 arXiv preprint, 4 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.02053)]
+
+**NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**<br>
+*Adam Korycki, Cory Yeaton, Gregory S. Gilbert, Colleen Josephson, Steve McGuire*<br>
+arXiv preprint, 9 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.07418)] [[Code](https://github.com/harelab-ucsc/RedwoodNeRF)]
 
 ## NeRF + Gaming
 
