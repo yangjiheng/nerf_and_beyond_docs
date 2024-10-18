@@ -1293,11 +1293,6 @@ arXiv preprint, 7 Jan 2024<br>
 arXiv preprint, 12 Mar 2024<br>
 [[arXiv](https://arxiv.org/abs/2403.08125)]
 
-**GaussNav: Gaussian Splatting for Visual Navigation**<br>
-*Xiaohan Lei, Min Wang, Wengang Zhou, Houqiang Li*<br>
-arXiv preprint, 18 Mar 2024<br>
-[[arXiv](https://arxiv.org/abs/2403.11625)]
-
 **Learning Neural Volumetric Pose Features for Camera Localization**<br>
 *Jingyu Lin, Jiaqi Gu, Bojian Wu, Lubin Fan, Renjie Chen, Ligang Liu, Jieping Ye*<br>
 arXiv preprint, 19 Mar 2024<br>
@@ -3221,11 +3216,6 @@ ACM MMSys 24, 7 Mar 2024<br>
 arXiv preprint, 13 Mar 2024<br>
 [[arXiv](https://arxiv.org/abs/2403.08156)]
 
-:fire:**HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting**<br>
-*Hongyu Zhou, Jiahao Shao, Lu Xu, Dongfeng Bai, Weichao Qiu, Bingbing Liu, Yue Wang, Andreas Geiger, Yiyi Liao*<br>
-CVPR 2024, 19 Mar 2024<br>
-[[arXiv](https://arxiv.org/abs/2403.12722)] [[Project](https://xdimlab.github.io/hugs_website/)]
-
 **Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**<br>
 *Antoine Schnepf, Karim Kassab, Jean-Yves Franceschi, Laurent Caraffa, Flavian Vasile, Jeremie Mary, Andrew Comport, Valérie Gouet-Brunet**<br>
 3DMV-CVPR 2024,  18 Mar 2024<br>
@@ -3924,11 +3914,6 @@ arXiv preprint, 18 Sep 2024<br>
 *Jingxi Chen, Botao He, Chahat Deep Singh, Cornelia Fermuller, Yiannis Aloimonos*<br>
 arXiv preprint, 1 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.01811)]
-
-**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**<br>
-*Yujin Ham, Mateusz Michalkiewicz, Guha Balakrishnan*<br>
-ICCP 2024, 1 Jul 2024<br>
-[[arXiv](https://arxiv.org/abs/2407.01761)]
 
 **Radiance Field Learners As UAV First-Person Viewers**<br>
 *Liqi Yan, Qifan Wang, Junhan Zhao, Qiang Guan, Zheng Tang, Jianhui Zhang, Dongfang Li*<br>
