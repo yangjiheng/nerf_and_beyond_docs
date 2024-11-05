@@ -117,6 +117,7 @@ For 3DGS related progress, you can refer to [3DGS and Beyond Docs](https://githu
   - [Other Important Related Work](#other-important-related-work)
     - [Depth Estimation](#depth-estimation)
     - [Diffusion Surveys](#diffusion-surveys)
+  - [New Ideas](#new-ideas)
   - [Contributors](#contributors)
   - [License](#license)
 
@@ -438,6 +439,12 @@ arXiv preprint, 6 Aug 2024<br>
 *Sang Min Kim, Byeongchan Kim, Arijit Sehanobish Krzysztof Choromanski, Dongseok Shim, Avinava Dubey, Min-hwan Oh*<br>
 arXiv preprint, 13 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.09771)]
+
+**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**<br>
+*Antoine Schnepf, Karim Kassab, Jean-Yves Franceschi, Laurent Caraffa, Flavian Vasile, Jeremie Mary, Andrew Comport, Valerie Gouet-Brunet*<br>
+arXiv preprint, 30 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.22936)] [[Project](https://ig-ae.github.io/)]
+ 
 
 ## Depth Supervised Reconstruction
 
@@ -1238,6 +1245,17 @@ arXiv preprint, 29 Aug 2024<br>
 *Ziwei Liao, Binbin Xu, Steven L. Waslander*<br>
 CoRL 2024, 7 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.05514)] [[Code](https://github.com/TRAILab/GeneralObjectMapping)]
+
+**Few-shot NeRF by Adaptive Rendering Loss Regularization**<br>
+*Qingshan Xu, Xuanyu Yi, Jianyao Xu, Wenbing Tao, Yew-Soon Ong, Hanwang Zhang*<br>
+ECCV 2024, 23 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.17839)]
+
+**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**<br>
+*Chin-Yang Lin, Chung-Ho Wu, Chang-Han Yeh, Shih-Han Yen, Cheng Sun, Yu-Lun Liu*<br>
+arXiv preprint, 21 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.16271)] [[Project](https://linjohnss.github.io/frugalnerf/)]
+
 
 
 ## NeRF-3DGS Transfer
@@ -2465,6 +2483,21 @@ ECCV 2024 CADL Workshop, 26 Sep 2024<br>
 arXiv preprint, 16 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.12242)] [[Code](https://github.com/LarsPh/EG-HumanNeRF)]
 
+:fire:**Real-time 3D-aware Portrait Video Relighting**<br>
+*Ziqi Cai, Kaiwen Jiang, Shu-Yu Chen, Yu-Kun Lai, Hongbo Fu, Boxin Shi, Lin Gao*<br>
+CVPR 2024, 24 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.18355)] [[Project](http://geometrylearning.com/VideoRelighting/)]
+
+**Efficient Neural Implicit Representation for 3D Human Reconstruction**<br>
+*Zexu Huang, Sarah Monazam Erfani, Siying Lu, Mingming Gong*<br>
+arXiv preprint, 23 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.17741)] 
+
+**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**<br>
+*Malte Prinzler, Egor Zakharov, Vanessa Sklyarova, Berna Kabadayi, Justus Thies*<br>
+arXiv preprint, 21 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.16395)] [[Project](https://malteprinzler.github.io/projects/joker/)]
+
 ## NeRF + Imaging Tasks
 
 :fire:**NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images**<br>
@@ -3456,6 +3489,10 @@ arXiv preprint, 18 Sep 2024<br>
 arXiv preprint, 10 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.04041)]
 
+**Neural rendering enables dynamic tomography**<br>
+*Ivan Grega, William F. Whitney, Vikram S. Deshpande*<br>
+NeurIPS 2024, 27 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.20558)] [[Project](https://neural-xray.github.io/nerfxray/)]
 
 ## NeRF + Inverse Rendering
 
@@ -4060,6 +4097,18 @@ arXiv preprint, 3 Sep 2024<br>
 *Chunming He, Yuqi Shen, Chengyu Fang, Fengyang Xiao, Longxiang Tang, Yulun Zhang, Wangmeng Zuo, Zhenhua Guo, Xiu Li*<br>
 arXiv preprint, 17 Jun 2024<br>
 [[arXiv0](https://arxiv.org/abs/2406.11138)] [[Code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]
+
+## New Ideas
+
+**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**<br>
+*Xin Xiang, Wenhui Zhou, Guojun Dai*<br>
+arXiv preprint, 28 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.20981)]
+
+**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**<br>
+*Yusuke Sekikawa, Chingwei Hsu, Satoshi Ikehata, Rei Kawakami, Ikuro Sato*<br>
+ICIP 2024, 27 Oct 2024<br>
+[[arXiv](https://arxiv.org/abs/2410.20306)]
 
 ## Contributors
 
