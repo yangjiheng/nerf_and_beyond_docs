@@ -2187,6 +2187,11 @@ arXiv preprint, 12 Apr 2024<br>
 arXiv preprint, 12 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.07178)]
 
+**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**<br>
+*Matthew McDermott, Jason Rife*<br>
+arXiv preprint, 4 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.01725)] [[Code](https://github.com/mcdermatt/PLINK)]
+
 ## NeRF + Auto Data Collection
 
 **AutoNeRF: Training Implicit Scene Representations with Autonomous Agents**<br>
@@ -3181,6 +3186,11 @@ arXiv preprint, 14 Aug 2024<br>
 arXiv preprint, 19 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.09928)]
 
+**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**<br>
+*Xavier Timoneda, Markus Herb, Fabian Duerr, Daniel Goehring, Fisher Yu*<br>
+IROS 2024, 5 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.02969)]
+
 ## NeRF + Multi-Modal
 
 ### NeRF Multi-Modal Survey
@@ -3694,7 +3704,15 @@ arXiv preprint, 30 Sep 2024<br>
 arXiv preprint, 30 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.20289)]
 
+**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**<br>
+*Yichen Wang, Qiming Liu, Zhe Liu, Hesheng Wang*<br>
+arXiv preprint, 5 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.03487)]
 
+**NeRF-Aug: Data Augmentation for Robotics with Neural Radiance Fields**<br<
+*Eric Zhu, Mara Levy, Matthew Gwilliam, Abhinav Shrivastava*<br>
+arXiv preprint, 4 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.02482)] [[Project](https://nerf-aug.github.io/)]
 
 ## NeRF + Transparent and Specular
 
@@ -3752,6 +3770,11 @@ arXiv preprint, 23 May 2024<br>
 *Liwen Wu, Sai Bi, Zexiang Xu, Fujun Luan, Kai Zhang, Iliyan Georgiev, Kalyan Sunkavalli, Ravi Ramamoorthi*<br>
 CVPR 2024 , 23 May 2024<br>
 [[arXiv](https://arxiv.org/abs/2405.14847)] [[Project](https://lwwu2.github.io/nde/)] [[Code](https://github.com/lwwu2/nde)]
+
+**Planar Reflection-Aware Neural Radiance Fields**<br>
+*Chen Gao, Yipeng Wang, Changil Kim, Jia-Bin Huang, Johannes Kopf*<br>
+arXiv preprint, 7 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.04984)]
 
 ## Other 3D Generative Work
 
@@ -3869,6 +3892,11 @@ arXiv preprint, 30 May 2024<br>
 TCVG, 19 Jul 2023<br>
 [[arXiv](https://arxiv.org/abs/2307.09860)]
 
+**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**<br>
+*Xin Wen, Xuening Zhu, Renjiao Yi, Zhifeng Wang, Chenyang Zhu, Kai Xu*<br>
+Frontiers of Computer Science, 5 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.02979)]
+
 ## NeRF + GIS
 
 **Improving NeRF with Height Data for Utilization of GIS Data**<br>
@@ -3944,6 +3972,11 @@ arXiv preprint, 15 Jul 2024<br>
 *Lulin Zhang, Ewelina Rupnik, Tri Dung Nguyen, Stéphane Jacquemoud, Yann Klinger*<br>
 arXiv preprint, 18 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.12014)]
+
+**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**<br>
+*Liv Kåreborn, Erica Ingerstad, Amanda Berg, Justus Karlsson, Leif Haglund*<br>
+arXiv preprint, 5 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.02972)]
 
 ## NeRF + UAV/Drone
 
