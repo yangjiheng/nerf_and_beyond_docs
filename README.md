@@ -1539,6 +1539,11 @@ ECCV 2024, 20 Aug 2024<br>
 ECCVW 2024, 9 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.05407)]
 
+**Robust SG-NeRF: Robust Scene Graph Aided Neural Surface Reconstruction**<br>
+*Yi Gu, Dongjun Ye, Zhaorui Wang, Jiaxu Wang, Jiahang Cao, Renjing Xu*<br>
+arXiv preprint, 20 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.13620)] [[Project](https://rsg-nerf.github.io/RSG-NeRF/)]
+ 
 ## NeRF with MVS
 
 **BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**<br>
@@ -1904,6 +1909,11 @@ ECCV 2024, 1 Oct 2024<br>
 *Yu Zheng, Yueqi Duan, Kangfu Zheng, Hongru Yan, Jiwen Lu, Jie Zhou*<br>
 arXiv preprint, 30 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.20043)] [[Project](https://yzheng97.github.io/OPONeRF/)] [[Code](https://github.com/yzheng97/OPONeRF)]
+
+**Towards Degradation-Robust Reconstruction in Generalizable NeRF**<br>
+*Chan Ho Park, Ka Leong Cheng, Zhicheng Wang, Qifeng Chen*<br>
+arXiv preprint, 18 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.11691)]
 
 ## Model Compression
 
@@ -2610,6 +2620,11 @@ arXiv preprint, 9 Sep 2024<br>
 ECCV 2024, 26 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.17988)] [[Project](https://wengflow.github.io/deblur-e-nerf/)] [[Code](https://github.com/wengflow/deblur-e-nerf)]
 
+**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**<br>
+*Zefan Qu, Ke Xu, Gerhard Petrus Hancke, Rynson W.H. Lau*<br>
+NeurIPS 2024, 11 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.06757)] [[Code](https://github.com/quzefan/LuSh-NeRF)]
+
 ## NeRF + Super-resolution
 
 **ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**<br>
@@ -2869,6 +2884,11 @@ arXiv preprint, 19 May 2024<br>
 *Xiao Zhao, Bo Chen, Mingyang Sun, Dingkang Yang, Youxing Wang, Xukun Zhang, Mingcheng Li, Dongliang Kou, Xiaoyi Wei, Lihua Zhang*<br>
 IEEE RAL, 17 Aug 2024<br>
 [[arXiv](https://arxiv.org/abs/2408.09104)]
+
+**LeC^2O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**<br>
+*Zhenxing Mi, Dan Xu*<br>
+18 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.11374)]
 
 ## NeRF + Editing
 
@@ -3550,6 +3570,11 @@ arXiv preprint, 24 Jun 2024<br>
 *Diego Gomez, Julien Philip, Adrien Kaiser, Élie Michel*<br>
 CGI 2024, 8 Jul 2024<br>
 [[arXiv](https://arxiv.org/abs/2407.06397)]
+
+**Material Transforms from Disentangled NeRF Representations**<br>
+*Ivan Lopes, Jean-François Lalonde, Raoul de Charette*<br>
+arXiv preprint, 12 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.08037)] [[Code](https://github.com/astra-vision/BRDFTransform)]
 
 ## NeRF + Texture Synthesis
 
