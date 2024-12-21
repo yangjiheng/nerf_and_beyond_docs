@@ -1577,6 +1577,11 @@ arXiv preprint, 21 Aug 2024<br>
 arXiv preprint, 26 Sep 2024<br>
 [[arXiv](https://arxiv.org/abs/2409.17729)]
 
+**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**<br>
+*Georgina Nuthall, Richard Bowden, Oscar Mendez*<br>
+25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16940)]
+
 ## Camera Pose Estimation & Weak Camera Pose Reconstruction
 
 **INeRF: Inverting Neural Radiance Fields for Pose Estimation**<br>
@@ -2941,6 +2946,16 @@ ECCV 2024, 26 Sep 2024<br>
 NeurIPS 2024, 11 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.06757)] [[Code](https://github.com/quzefan/LuSh-NeRF)]
 
+**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**<br>
+*Yixiong Yang, Shilin Hu, Haoyu Wu, Ramon Baldrich, Dimitris Samaras, Maria Vanrell*<br>
+3DV 2025, 26 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.17235)] [[Code](https://github.com/liulisixin/MLI-NeRF)]
+
+**NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation**<br>
+*Menglin Zhang, Xin Luo, Yunwei Lan, Chang Liu, Rui Li, Kaidong Zhang, Ganlin Yang, Dong Liu*<br>
+23 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.15551)]
+
 ## NeRF + Super-resolution
 
 **ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**<br>
@@ -4290,6 +4305,10 @@ arXiv preprint, 23 Sep 2024<br>
 arXiv preprint, 9 Oct 2024<br>
 [[arXiv](https://arxiv.org/abs/2410.07418)] [[Code](https://github.com/harelab-ucsc/RedwoodNeRF)]
 
+**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**<br>
+*Vinayak Gupta, Manoj S, Mukund Varma T, Kaushik Mitra*<br>
+ICLR Tiny Papers 2024, 25 Nov 2024<br>
+[[arXiv](https://arxiv.org/abs/2411.16172)]
 
 ## NeRF + Gaming
 
