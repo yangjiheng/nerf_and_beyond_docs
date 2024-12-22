@@ -1470,6 +1470,12 @@ arXiv preprint, 15 May 2024<br>
 arXiv preprint, 20 Feb 2024<br>
 [[arXiv](https://arxiv.org/abs/2402.13255)]
 
+**NeRF and Gaussian Splatting SLAM in the Wild**<br>
+*Fabian Schmidt, Markus Enzweiler, Abhinav Valada*<br>
+4 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2412.03263)]  [[Code](https://github.com/iis-esslingen/nerf-3dgs-benchmark)]
+
+
 ### NeRF SLAM Progress
 
 :fire:**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**<br>
@@ -4222,6 +4228,11 @@ We target a 3D generative model for general natural scenes that are typically un
 </details>
 
 [[arXiv](https://arxiv.org/abs/2304.12670)] [[Project](http://weiyuli.xyz/Sin3DGen/)] [[Github](https://github.com/wyysf-98/Sin3DGen)] [[Notes](./paper_discussions/Sin3DGen.md)]<br>
+
+**CtrlNeRF: The Generative Neural Radiation Fields for the Controllable Synthesis of High-fidelity 3D-Aware Images**<br>
+*Jian Liu, Zhen Yu*<br>
+1 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2412.00754)]
 
 ## NeRF + Other applications
 
