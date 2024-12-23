@@ -3987,6 +3987,11 @@ CGI 2024, 8 Jul 2024<br>
 arXiv preprint, 12 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.08037)] [[Code](https://github.com/astra-vision/BRDFTransform)]
 
+**PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields**<br>
+*Sean Wu, Shamik Basu, Tim Broedermann, Luc Van Gool, Christos Sakaridis*
+12 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2412.09680)] [[Code](https://github.com/s3anwu/pbrnerf)]
+
 ## NeRF + Texture Synthesis
 
 **NeRF-Tex: Neural Reflectance Field Textures**<br>
