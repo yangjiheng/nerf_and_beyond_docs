@@ -19,6 +19,8 @@ For those of you who have already purchased the book, all references can be down
   <img src="./assets/book_cover.jpeg" width="400">
 </div>
 
+For readers who are insterested in commended version (actually enhanced compared to the book, much more detailed), please click [THIS](https://github.com/yangjiheng/nerf-pytorch-chn-comment). It could serve as a companion source code implementation for the book.
+
 
 ## How to join us
 
