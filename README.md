@@ -2964,6 +2964,11 @@ NeurIPS 2024, 11 Nov 2024<br>
 23 Nov 2024<br>
 [[arXiv](https://arxiv.org/abs/2411.15551)]
 
+**Bright-NeRF: Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**<br>
+*Min Wang, Xin Huang, Guoqing Zhou, Qifeng Guo, Qing Wang*<br>
+AAAI 2025, 19 Dec 2024<br>
+[[arXiv](https://arxiv.org/abs/2412.14547)]
+
 ## NeRF + Super-resolution
 
 **ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**<br>
